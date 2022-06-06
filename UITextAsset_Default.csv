@@ -1,0 +1,565 @@
+Language,Default
+Game_Title,Subterrain 2
+GameLoader_EarlyStage,This game is in the early stages of development.\nFeatures and design are subject to change.
+Demo_Title,Demo
+Demo_Desc,"Thanks for playing Subterrain Mines of Titan Demo!\nYou are still able to freely continue playing, but access to the deeper levels of the game is not available in the demo.\n\nPlease follow us at Steam community and Discord channel and help us to make even better game!"
+Demo_Steam,Subterrain Mines of Titan Steam Forum
+Demo_Discord,Subterrain Mines of Titan Discord Channel
+Thank you!
+GameOver,You Are Dead!
+GameOver_TotalTurn,Total Turns
+Menu_NewGame,New Game
+Menu_LoadGame,Load Game
+Menu_Settings,Settings
+Menu_Credits,Credits
+Menu_Exit,Exit
+Menu_ChangeLog,Change Log
+PauseMenu_Title,Pause
+PauseMenu_ReturnToGame,Return To Game
+PauseMenu_ReturnToMenu,Return To Main Menu
+PauseMenu_Save,Save Game
+Notice_Loading,Loading...
+Notice_Saving,Saving...
+SaveSlot_Load,Load
+SaveSlot_Save,Save
+SaveSlot_Delete,Delete
+SaveSlot_GameTime,Game Time
+Slot01,Slot 01
+Slot02,Slot 02
+Slot03,Slot 03
+Slot04,Slot 04
+Slot05,Slot 05
+Slot06,Slot 06
+Slot07,Slot 07
+Slot08,Slot 08
+Slot09,Slot 09
+SlotQuick,Quick
+SlotEmpty,Empty
+Settings_Title,Settings
+Settings_MasterVolume_Title,Master Volume
+Settings_BGMVolume_Title,BGM Volume
+Settings_UIVolume_Title,UI Volume
+Settings_SfxVolume_Title,SFX Volume
+Settings_Language_Title,Language
+Settings_Language_Default,English
+Settings_Language_Korean,Korean
+Settings_Vsync_Title,VSync
+Settings_Vsync_Half,Half
+Settings_Vsync_On,On
+Settings_Vsync_Off,Off
+Settings_Resolution_Title,Resolution
+Settings_FullScreen_Title,Full Screen
+Settings_FullScreen_On,On
+Settings_FullScreen_Off,Off
+Settings_UIScale_Title,UI Scale
+Settings_GameScale_Title,In Game Scale
+Button_Apply,Apply
+Button_Cancel,Cancel
+Button_Reset,Reset
+Button_Done,Done
+Button_ControlConfig,Control Config
+Button_Continue,Continue
+Button_FastForward,Fast Forward
+KeyboardControl_MoveLeft,Move Left
+KeyboardControl_MoveRight,Move Right
+KeyboardControl_MoveUp,Move Up
+KeyboardControl_MoveDown,Move Down
+KeyboardControl_MoveLeftUp,Move Left Up
+KeyboardControl_MoveRightUp,Move Right Up
+KeyboardControl_MoveLeftDown,Move Left Down
+KeyboardControl_MoveRightDown,Move Right Down
+KeyboardControl_Pause,Pause
+KeyboardControl_Back,Back
+KeyboardControl_Continue,Continue
+KeyboardControl_QuickSave,Quick Save
+KeyboardControl_QuickLoad,Quick Load
+KeyboardControl_QuickSlot1,Slot 1
+KeyboardControl_QuickSlot2,Slot 2
+KeyboardControl_QuickSlot3,Slot 3
+KeyboardControl_QuickSlot4,Slot 4
+KeyboardControl_QuickSlot5,Slot 5
+KeyboardControl_QuickSlot6,Slot 6
+KeyboardControl_QuickSlot7,Slot 7
+KeyboardControl_QuickSlot8,Slot 8
+KeyboardControl_QuickSlot9,Slot 9
+KeyboardControl_QuickSlot0,Slot 0
+KeyboardControl_WheelMenu,Wheel Menu
+KeyboardControl_Inventory,Inventory
+KeyboardControl_Journal,Journal
+KeyboardControl_Status,Status
+KeyboardControl_Perk,Perk
+KeyboardControl_Map,Map
+KeyboardControl_Production,Production
+KeyboardControl_Research,Research
+KeyboardControl_Recycle,Recycling
+KeyboardControl_Craft,Craft
+KeyboardControl_Camp,Camp
+KeyboardControl_ToggleLight,Lamp
+KeyboardControl_WeaponSwap,Weapon Swap
+KeyboardControl_InventoryQuickMove,Item Quick Take/Put
+KeyboardControl_InventoryDrop,Item Force Drop
+KeyboardControl_InventorySplit,Item Split
+KeyboardControl_InventoryScanGround,Scan Ground
+KeyboardControl_InventoryTakeAll,Take All
+KeyboardControl_Info,Infomation
+PopupButton_Get,Get
+PopupButton_Drop,Drop
+PopupButton_Use,Use
+PopupButton_Setup,Set up
+PopupButton_Remove,Remove
+PopupButton_Consume,Consume
+PopupButton_Drink,Drink
+PopupButton_Eat,Eat
+PopupButton_Throw,Throw
+PopupButton_Talk,Talk
+PopupButton_Attack,Attack
+PopupButton_Sell,Sell
+PopupButton_Buy,Buy
+PopupButton_Reload,Reload
+PopupButton_Unload,Unload
+PopupButton_Research,Research
+PopupButton_Craft,Craft
+PopupButton_Recycle,Recycle
+PopupButton_Split,Split
+PopupButton_Unlock,Unlock
+PopupButton_LevelUp,Level Up
+Popup_Stat_Name,Status
+Popup_Perk_Name,Perk
+Popup_Journal_Name,Journal
+Popup_Inventory_Name,Inventory
+Popup_Inventory_Split,Item Split
+Popup_Inventory_DropItems,Drop Items
+Popup_Inventory_TakeAll,Take All
+Popup_Inventory_Bartering,Bartering
+Popup_Stat_Level,Character Level
+Popup_Stat_Exp,Exp
+Popup_Stat_Next_Exp,Next Level Exp
+Popup_Settings,Settings
+Popup_Map,Map
+Popup_Elevator,Lift
+Popup_Production,Production
+Popup_CampManagement,Camp Management
+Omniscope_Inventory,Inventory(I)
+Omniscope_Stat,Stat(P)
+Omniscope_Perk,Perk(K)
+Omniscope_Map,Map(M)
+Omniscope_Journal,Journal(J)
+Omniscope_Production,Production(N)
+Omniscope_CampManagement,Camp Management(O)
+Omniscope_Setting,Setting(ESC)
+Success,Success
+Fail,Fail
+Depleted,Depleted
+Split,Split
+Perk_Key,Perk
+Stat_Key,Stat
+Level,Level
+PerkTypeActive,Active Perk
+PerkTypePassive,Passive Perk
+PerkModTypeSetSurfix,(of original)
+PerkAttackPhase,Attack Phase
+PerkCurrentLevel,Current Level
+PerkNextLevel,Next Level
+PerkProficiencyRequirement,Proficiency Requirement
+PerkAttributeRequirement,Attribute Requirement
+Journal_Task,Tasks
+Journal_Current_Tasks,Current Tasks
+Journal_Completed_Tasks,Completed Tasks
+Journal_Failed_Tasks,Failed Tasks
+Journal_Completion,Completion
+Journal_TrackTask,Track Task
+Journal_CancelTaskTracking,Cancel Tracking
+Journal_ContactList,Contact
+Journal_Task_InProgress,In Progress
+Journal_Task_Completed,Completed
+Journal_Task_Failed,Failed
+Journal_Task_Closed,Closed
+Journal_Description,Description
+Journal_Progress,Progress
+Journal_ProgressCompleted,Completed progress
+Journal_AdditionalInformation,Additional Information
+TrackerTitle,Tracking Status
+CampTask,Completed Task
+Research_Title,Research
+Craft_Title,Craft
+Craft_Requirement,Craft Requirement
+Recycle_Title,Recycle
+Recycle_Result,Recycle Result
+Recycle_Amount,Amount
+Production_Current,Current Task
+Production_Queue,Task Queue
+CampResource_Power,Power
+CampResource_Water,Water
+CampResource_Ration,Ration
+CampResource_RationDistribution,Ration Distribution
+CampResource_LifeSupport,Life Support
+Facility_Generator,Generator
+Facility_WaterStation,Water Station
+Facility_Farm,Bio Farm
+Facility_Engineering,Engineering
+Facility_Medical,Medical
+Facility_MineControl,Mine Control
+Recycle_Yield,Recycle Yield
+Job_WaitingForStart,Waiting
+Job_NotStarted,Not Started
+Job_Queued,Queued
+Job_InProgress,In Progress
+Difficulty_Easy,Easy
+Difficulty_Normal,Normal
+Difficulty_Difficult,Difficult
+Efficiency,Efficiency
+Map_SectorList,Sector
+Map_MapList,Area
+Map_MapInformation,Area Information
+Window_Open,Open
+Window_Close,Close
+Default_Unarmed,Unarmed Basic Attack
+Default_OneHand_M,One hand Melee Basic Attack
+Default_OneHand_R,Pistol Basic Attack
+Default_TwoHand_M,Rifle Basic Attack
+Default_Unarmed_Desc,Basic attack when no weapons are present or Unarmed Weapon.
+Default_OneHand_M_Desc,This is a basic attack when you equip a One Hand Melee weapon.
+Default_OneHand_R_Desc,This is a basic attack when you equip a One Hand Range weapon.
+Default_TwoHand_M_Desc,This is a basic attack when you equip a Two Hand Melee weapon.
+Perk_Name,Perk Name
+Perk_Point,Perk Point
+Perk_Locked,Locked
+Perk_Cost,Cost
+Perk_Cost_Nano,Nano
+Perk_Cost_Ward,Ward
+Perk_Cost_Health,Health
+Perk_Cost_Ad,<font="DefaultFont"><sprite name="maxAdrenaline_Icon"></font>Adrenaline
+Perk_Pro_Unarmed,Unarmed
+Perk_Pro_OneHandMelee,One Hand Melee
+Perk_Pro_TwoHandMelee,Two Hand Melee
+Perk_Pro_OneHandRange,Pistol
+Perk_Pro_TwoHandRange,Rifle
+Perk_Pro_Bow,Bow
+Perk_Pro_Nanobot,Nanobot
+Perk_Pro_Physical,Physical
+Perk_Pro_Survival,Survival
+Perk_Pro_Harvest,Harvest
+Perk_Pro_Technical,Technical
+Perk_Pro_Biology,Biology
+Perk_Pro_Unarmed_Desc,"Unarmed Proficiency (Ex : Fist, Knuckle, Throwing, etc) "
+Perk_Pro_OneHandMelee_Desc,"One Hand Melee Proficiency (Ex : Knife, Dagger, Sword, Club, Whip, etc) "
+Perk_Pro_TwoHandMelee_Desc,"Two Hand Melee Proficiency (Ex : Two Hand axe, Two Hand sword, Spear, etc)"
+Perk_Pro_OneHandRange_Desc,"Pistol Proficiency (Ex : Pistol, Revolver, SMG, etc) "
+Perk_Pro_TwoHandRange_Desc,"Rifle Proficiency (Ex : Assault Rifle, Shotgun, etc)"
+Perk_Pro_Bow_Desc,"Bow Weapon (Ex : Bow, Heavy Bow, Cross Bow)"
+Perk_Pro_Nanobot_Desc,Nano bot Proficiency 
+Perk_Pro_Physical_Desc,"Physical Proficiency (Ex : Endurance, Resistance, Perception, Consume, etc)"
+Perk_Pro_Survival_Desc,"Survival Proficiency (Ex : Bartering, Persuasion, Gamble, Cooking, etc) "
+Perk_Pro_Harvest_Desc,"Harvesting Proficiency (Ex : Scavening, Fishing, Harvesting, Mining, etc)"
+Perk_Pro_Technical_Desc,"Technical Proficiency (Ex : Hacking, Computer, Engineering, Intelligence, Crafiting) "
+Perk_Pro_Biology_Desc,"Biology (Ex : Medical, Farming) "
+Base_Value,Base Value
+LevelUp,Level Up!
+ProficiencyLevelUp,Proficiency Level Up!
+Tracking_Start,Tracking
+Tracking_Complete,Tracking Complete.
+Tracking_Failed,Tracking Failed. Unable to find path.
+Strength_Key,Strength
+Agility_Key,Agility
+Endurance_Key,Endurance
+Perception_Key,Perception
+Intelligence_Key,Intelligence
+Charisma_Key,Charisma
+Mutation_Key,Mutation
+HealthRegen_Key,Health Regen
+NanoRegen_Key,Nano Regen
+adrenaline_Key,Adrenaline
+maxAdrenaline_Key,Max Adrenalin
+PhysicsDamage_Key,Physics Damage
+PhysicsBasicDamage_Key,Damage
+AcidDamage,Acid Damage
+burnDamage,Burn Damage
+burnMinDamage,Min Burn Damage
+burnMaxDamage,Max Burn Damage
+coldDamage,Cold Damage
+coldMinDamage,Min Cold Damage
+coldMaxDamage,Max Cold Damage
+InjuriedDamage,Injury Damage
+InjuriedMinDamage,Min Injury Damage
+InjuriedMaxDamage,Max Injury Damage
+fractureDamage,Fracture Damage
+fractureMinDamage,Min Fracture Damage
+fractureMaxDamage,Max Fracture Damage
+PoisonDamage,Poison Damage
+PoisonMinDamage,Min Poison Damage
+PoisonMaxDamage,Max Poison Damage
+nanoInfectionDamage,Nano Infection Damage
+nanoInfectionMinDamage,Min Nano Infection Damage
+nanoInfectionMaxDamage,Max Nano Infection Damage
+CollisionDamage_Key,Collision Damage
+Acid_Resistancce,Acid Resistance
+Burn_Resistance,Burn Resistance
+Cold_Resistance,cold Resistance
+Injuried_Resistance,injuried Resistance
+Fracture_Resistance,Fracture Resistance
+Poison_Resistance,Poison Resistance
+Nano_Resistance,Nano Resistance
+Protection_Key,Protection
+MeleeAccuracy_Key,Melee Accuracy
+RangeAccuracy_Key,Range Accuracy
+MeleeCriticalEfficiency_Key,Melee Critical Efficiency
+RangeCriticalEfficiency_Key,Range Critical Efficiency
+CriticalChance_Key,Critical Chance
+DodgeChance_Key,Dodge Chance
+CounterChance_Key,Counter Chance
+FumbleChance_Key,Fumble Chance
+BlockChance_Key,Block Chance
+BlockPower_Key,Block Power
+AoeChance_Key,AOE Chance
+Fortitude_Key,Fortitude
+Miss_Key,Miss
+Block_Key,Block!
+Fumble_Key,Fumble!
+CriticalHit_Key,Critical Hit!
+Equipment_Destroyed,Equipment Destroyed
+WeaponReloaded,Weapon Reloaded
+WeaponAmmoCapacity,Ammo Capacity
+WeaponOutOfAmmo,Out of ammo
+WeaponOutOfArrow,Out of arrow
+NotEnoughCredit,Not enough credit
+ItemEmpty,Empty
+Speech_stats_thirst_1,I could use a drink.
+Speech_stats_thirst_2,I'm pretty thirsty.
+Speech_stats_thirst_3,My mouth's dry...\n...I need a drink...
+Speech_stats_hunger_1,I could use a snack.
+Speech_stats_hunger_2,I need to rustle up some grub.\nI'm getting pretty hungry.
+Speech_stats_hunger_3,I'm feeling pretty weak...\nI need some food.
+Speech_stats_sleep_1,I'm a little tired.
+Speech_stats_sleep_2,I'm pretty tired.\nI could use a nap.
+Speech_stats_sleep_3,...I'm exhausted...\n...gotta crash somewhere...
+Speech_stats_fracture_1,I think my leg's fractured!
+Speech_stats_fracture_2,This fracture hurts.\nI need to patch it up.
+Speech_stats_fracture_3,...Gotta set this fracture...\n...gonna die otherwise...
+Speech_stats_oxygen_1,My oxygen's getting pretty low...
+Speech_stats_oxygen_2,I am getting low oxygen warning!
+Speech_stats_oxygen_3,I have no oxygen left in my canister!\nI'm going to suffocate down here!
+Speech_stats_bleeding_1,I'm bleeding!
+Speech_stats_bleeding_2,This cut's pretty deep...\nI need to stop the bleeding.
+Speech_stats_bleeding_3,...Gonna bleed to death...\n...need a bandage...
+Speech_stats_piss_1,I gotta whizz.
+Speech_stats_piss_2,"Man, I gotta pee.\nWhere's a urinal?"
+Speech_stats_piss_3,My bladder's about to burst!\nI gotta find a toilet!
+Speech_stats_dump_1,I gotta take a dump.
+Speech_stats_dump_2,I need to find a toilet.\n...Gotta drop a deuce.
+Speech_stats_dump_3,I'm going to crap my pants!\n...I need a toilet! Now!
+Speech_NoPower,It's not powered.
+Speech_OutOfOrder,It's out of order.
+Speech_Activated,Activated.
+Speech_UnableToSleepCombat,I can't sleep right now.\nI hear something nearby.
+Speech_Inventory_Full,My inventory is full.
+Speech_DuplicatedItemTypeUsage,"I can't use that right now.\nI have already used the same type of item recently."
+Speech_NoNeedToSleep,"I don't need to sleep right now.\nI am not sleepy or tired at the moment."
+Speech_EndOfDemo,It's not working...\nIt seems like this world is limited by some mysterious force called ""Demo"".\nPlease consider supporting full game in the future!
+Trait_FirstAid,Healing Health
+Trait_Cold_01,Shivering
+Trait_Cold_02,Chill
+Trait_Cold_03,Hypothermia
+Trait_Cold_04,Numbness
+Trait_Cold_05,Freeze to Death
+Trait_Heat_01,Prickly Heat
+Trait_Heat_02,Fever
+Trait_Heat_03,High Fever
+Trait_Heat_04,Heat Syncope
+Trait_Heat_05,Heat Stroke
+Trait_FirstAid_Desc,The state to Heal Health ??Use first aid kit
+Trait_Cold_01_Desc,You feel cold and your body shakes.
+Trait_Cold_02_Desc,Your body trembled more and Your muscles seemed to be tense.
+Trait_Cold_03_Desc,Your body temperature gets lower and the consciousness gets blurry.
+Trait_Cold_04_Desc,You can't even feel the cold anymore.
+Trait_Cold_05_Desc,You'll soon freeze to death! Find a warm place or food!
+Trait_Heat_01_Desc,Prickly heat are forming everywhere.
+Trait_Heat_02_Desc,Your forehead is hot. You think You're running a fever.
+Trait_Heat_03_Desc,Your body is like a fireball. The consciousness is getting blurry.
+Trait_Heat_04_Desc,You're exhausted. It's also hard to move.
+Trait_Heat_05_Desc,"At this rate, you will die of heatstroke soon. Find a cool place or food!"
+Trait_Aggressive_Lv1_Desc,"Even if you get hurt, you are prepared to do more damage to your opponent."
+Trait_Aggressive_Lv2_Desc,"Even if you get hurt, you are prepared to do more damage to your opponent."
+Trait_Aggressive_Lv3_Desc,"Even if you get hurt, you are prepared to do more damage to your opponent."
+Trait_Bodyblow_Lv1_Desc,Seeks body blow for chance to fight back.
+Trait_Bodyblow_Lv2_Desc,Seeks body blow for chance to fight back.
+Trait_Bodyblow_Lv3_Desc,Seeks body blow for chance to fight back.
+Trait_MofDef_Lv1_Desc,Enemy's attack in front of Master of defence is weakened.
+Trait_MofDef_Lv2_Desc,Enemy's attack in front of Master of defence is weakened.
+Trait_MofDef_Lv3_Desc,Enemy's attack in front of Master of defence is weakened.
+Trait_PofGreeting_Lv1_Desc,The greeting of savage pirates begins by putting their swords together.
+Trait_PofGreeting_Lv2_Desc,The greeting of savage pirates begins by putting their swords together.
+Trait_PofGreeting_Lv3_Desc,The greeting of savage pirates begins by putting their swords together.
+Trait_Trigger_Lv1_Desc,Turn the trigger back and aim for more accurately lethal areas.
+Trait_Trigger_Lv2_Desc,Turn the trigger back and aim for more accurately lethal areas.
+Trait_Trigger_Lv3_Desc,Turn the trigger back and aim for more accurately lethal areas.
+Trait_Fboundary_Lv1_Desc,"If you're wary in advance, You'll be able to hit the enemy squarely."
+Trait_Fboundary_Lv2_Desc,"If you're wary in advance, You'll be able to hit the enemy squarely."
+Trait_Fboundary_Lv3_Desc,"If you're wary in advance, You'll be able to hit the enemy squarely."
+Trait_Slaughterer_Lv1_Desc,It would be very dangerous if you were attacked incorrectly by a slaughterer. (Slaughterer is more professional than anyone else in handling 'meat'.)
+Trait_Slaughterer_Lv2_Desc,It would be very dangerous if you were attacked incorrectly by a slaughterer. (Slaughterer is more professional than anyone else in handling 'meat'.)
+Trait_Slaughterer_Lv3_Desc,It would be very dangerous if you were attacked incorrectly by a slaughterer. (Slaughterer is more professional than anyone else in handling 'meat'.)
+Trait_PreStance_Lv1_Desc,Prestance for a larger attack allows.
+Trait_PreStance_Lv2_Desc,Prestance for a larger attack allows.
+Trait_PreStance_Lv3_Desc,Prestance for a larger attack allows.
+StateDamageTitle,Can cause following effect
+State_Acid,Acid
+State_Burn,Burn
+State_Cold,Cold
+State_Fracture,Fracture
+State_Injury,Injury
+State_Poison,Poision
+State_NanoInfection,Nano Infection
+StateResult_Fracture,Fracture! Unable to move!
+StateResult_Disoriented,Disoriented!
+StateResult_Jammed,Weapon Jammed!
+Trait_Acid_01,Acid Corrosion Lv1
+Trait_Acid_01_Desc,Acid corrosion and by the attack.
+Trait_Acid_02,Acid Corrosion Lv2
+Trait_Acid_02_Desc,Acid corrosion and by the attack.
+Trait_Acid_03,Acid Corrosion Lv3
+Trait_Acid_03_Desc,Acid corrosion and by the attack.
+Trait_Heat_01,Burn Lv1
+Trait_Heat_01_Desc,You were burned by high heat.
+Trait_Heat_02,Burn Lv2
+Trait_Heat_02_Desc,You were burned by high heat.
+Trait_Heat_03,Burn Lv3
+Trait_Heat_03_Desc,You were burned by high heat.
+Trait_Cold_01,Frostbite Lv1
+Trait_Cold_01_Desc,The frostbite was caused by strong cold air.
+Trait_Cold_02,Frostbite Lv2
+Trait_Cold_02_Desc,The frostbite was caused by strong cold air.
+Trait_Cold_03,Frostbite Lv3
+Trait_Cold_03_Desc,The frostbite was caused by strong cold air.
+Trait_NanoInfection_01,Nano Infection Lv1
+Trait_NanoInfection_01_Desc,It's dangerous because it's infected with nano.
+Trait_NanoInfection_02,Nano Infection Lv2
+Trait_NanoInfection_02_Desc,It's dangerous because it's infected with nano.
+Trait_NanoInfection_03,Nano Infection Lv3
+Trait_NanoInfection_03_Desc,It's dangerous because it's infected with nano.
+Trait_Poison_01,Poison Lv1
+Trait_Poison_01_Desc,You're addicted to poison.
+Trait_Poison_02,Poison Lv2
+Trait_Poison_02_Desc,You're addicted to poison.
+Trait_Poison_03,Poison Lv3
+Trait_Poison_03_Desc,You're addicted to poison.
+Activate_Condition_Type,Type
+Activate_Condition_Type_Always,Always
+Activate_Condition_Type_Attack,On Attack
+Activate_Condition_Type_Hit,On Hit
+Activate_Condition_Action,Condition
+Activate_Result_Type_Always,Always
+Activate_Result_Type_Block,Block
+Activate_Result_Type_Critical,Critical
+Activate_Result_Type_Fumble,Fumble
+Activate_Result_Type_Hit,Normal Hit
+Activate_Result_Type_HitAlways,All Hits
+Activate_Result_Type_Kill,Kill
+Activate_Result_Type_Miss,Miss
+Day,Day {0}
+TurnDuration,Duration
+TurnActivate,Activate Turn
+TurnCoolDown,Cool Down
+PerTurn,/Turn
+AdditionalDamage,Additional Damages
+Exp_Key,Experience
+Health_Key,Health
+Max_Health_Key,Max Health
+Nano_Energy_Key,Nano Energy
+Nano_Max_Energy_Key,Max Nano Energy
+WardPoint,Ward Point
+Max_WardPoint_Key,Ward Point
+Hunger_Key,Hunger
+Thirst_Key,Thirst
+Sleepness_Key,Sleepness
+Thermal_Key,Thermal
+LackofOxygen_Key,Oxygen
+Fear_Key,Fear
+Workneed,Workneed
+Tired_Key,Tired
+HealthRegenSpeed,Health Regen Speed
+HealthRegenAmount,Health Regen Amount
+NanoEnergyRegenSpeed,Nano Energy Speed
+NanoEnergyRegenAmount,Nano Energy Amount
+Total_Damage_Power,Total Damage Power
+Melee_Damage_Efficiency,Melee Damage Efficiency
+Energy_Damage_Power,Energy Damage Power
+Nano_Damage_Power,Nano Damage Power
+Heat_Damage_Power,Heat Damage Power
+Cold_Damage_Power,Cold Damage Power
+Caustic_Damage_Power,Caustic Damage Power
+Physics_Min_Damage,Physics Min Damage
+Physics_Max_Damage,Physics Max Damage
+Energy_Min_Damage,Energy Min Damage
+Energy_Max_Damage,Energy Max Damage
+Nano_Min_Damage,Nano Min Damage
+Nano_Max_Damage,Nano Max Damage
+Heat_Min_Damage,Heat Min Damage
+Heat_Max_Damage,Heat Max Damage
+Cold_Min_Damage,Cold Min Damage
+Cold_Max_Damage,Cold Max Damage
+Caustic_Min_Damage,Caustic Min Damage
+Caustic_Max_Damage,Caustic Max Damage
+Hard_Armor,Hard Armor
+BarteringFactor,Bartering Factor
+Range_Distance_Table,Range Distance Table
+Melee_Distance_Table,Melee Distance Table
+Penetration,Penetration
+State_Key,State
+BaseStat_Key,Base Stat
+Recovery_Key,Recovery
+BodyGauge_Key,Body
+Damage_Key,Damage
+Accuracy_Key,Accuracy
+Attack_Key,Attack
+Critical_Key,Critical!
+Block_Key,Block!
+Counter_Key,Counter!
+Body_Gauge,Body Gauge
+special_Stat,Special Stat
+State_Gauge,State
+AOOAttack_Key,Attack of Opportunity!
+Defense_Key,Defense
+Combat_Defense,Defense
+Rate_Key,Rate
+Cave,Cave Extrance
+VisionRange_Key,Vision Range
+Cost,Cost
+Nano,Nano
+CurrentStock,Current Stock
+Bartering,Bartering
+Acid_Value,Acid
+Burn_Value,Burn
+Cold_Value,Cold
+Injuried_Value,Injuried
+Fracture_Value,Fracture
+Poison_Value,Poison
+NanoInfection_Value,Nano Infection
+minKnockBack,Min Knock-back Damage
+maxKnockBack,Max Knock-back Damage
+knockBackResistance,Knock-back Resistance
+adrenalineRate,Adrenaline Rate
+wardPointRate,Ward Point Regen
+arrowRecoveryChance,Arrow retrieving Chance
+reloadBonus,Pistol Reload Bonus
+Oxygen_Value,Asphyxiation
+basicDamage,Physical Damage
+basicMinDamage,Min Physical Damage
+basicMaxDamage,Max Physical Damage
+meleeDamage,Melee Damage
+meleeMinDamage,Min Melee Damage
+meleeMaxDamage,Max Melee Damage
+knockbackDamage,Knock-back Damage
+minKnockback,Min Knock-back Damage
+maxKnockback,Max Knock-back Damage
+acidDamage,Acid Damage
+acidMinDamage,Min Acid Damage
+acidMaxDamage,Max Acid Damage
+knockback_Resistance,Knock-back Resistance
+attackDisableChance,Jamming Chance
+Combat_Attack,Attack
+State_Stat,State
+MeleeEfficiencyHighestDamage,Melee Efficiency Highest Damage
+harvestEfficiency,"Harvest Efficiency"
+miningEfficiency,"Mining Efficiency"
+moveDisabledChance,"Flinch"
+moveDisabledChance_Chance,"It is the probability that the movement will fail due to an injury."

@@ -1,0 +1,88 @@
+Language,Default
+Object_Container,Container
+Object_Boiler,Boiler
+Object_Cleaning_Equipment,Cleaning Equipment
+Object_Mirror,Mirror
+Object_Partition,Partition
+Object_Sink,Sink
+Object_Toilet,Toilet
+Object_Washing_Machine,Washing Machine
+Object_Bed,Bed
+Object_Computer,Computer
+Object_Box,Box
+Object_Barrel,Barrel
+Object_Carpet,Carpet
+Object_Bench,Bench
+Object_Chair,Chair
+Object_Desk,Desk
+Object_Drainage,Drainage
+Object_Foot_Hold,Foot_Hold
+Object_Chimney_Pillar,Chimney Pillar
+Object_Generator,Generator
+Object_Little_Generator,Little Generator
+Object_Resource_Refinery,Resource Refinery
+Object_Resource_Tank,Resource Tank
+Object_Transformer,Transformer
+Object_Turbine,Turbine
+Object_Shelf,Shelf
+Object_Burner,Burner
+Object_Refrigerator,Refrigerator
+Object_Cryo_Tube,Cryo-Tube
+Object_Energy_Drum,Energy Drum
+Object_Monitor,Monitor
+Object_Counter,Counter
+Object_Curtain,Curtain
+Object_Display_Stand,Display Stand
+Object_Medical_Equipment,Medical Equipment
+Object_Floor,Floor
+Object_Meter,Meter
+Object_Morgue,Morgue
+Object_MRA,MRA
+Object_Poster,Poster
+Object_Drying_Machine,Drying Machine
+Object_Dynamite,Dynamite
+Object_Elevator,Elevator
+Object_Fuel_Tank,Fuel Tank
+Object_Fuel_Box,Fuel Box
+Object_Gunpowder,Gunpowder
+Object_Circuit_Breaker,Circuit Breaker
+Object_Clothes_Cabinet,Clothes Cabinet
+Object_Air_Filter,Air Filter
+Object_Mine_Cart,Mine Cart
+Object_Drone_Beacon,Drone Beacon
+Object_Drone_Signal,Drone Signal
+Object_Pipe,Pipe
+Object_Support,Support
+Object_Pillar,Pillar
+Object_Bar,Bar
+Object_Jukebox,Jukebox
+Object_Puddle,Puddle
+Object_ClothesHanger,Clothes Hanger
+Object_Plant_pot,Plant Pot
+Object_Rubbish_bin,Rubbish Bin
+Object_Furniture,Prob
+Object_Water_Tank,Water Tank
+Object_Table,Table
+Object_Wire,Wire
+Object_Calendar,Calendar
+Object_Frame,Frame
+Object_Fire_Notification,Fire Notification
+Object_Book_Shelf,Book Shelf
+Object_GroundInventory,Ground
+Object_ReactorCoreModule,Module
+Object_PowerRelay,Power Relay
+Object_Corpse,"Corpse"
+Object_Key_002,"Bag"
+Object_Key_003,"Bag"
+Object_Ladder,Ladder
+Object_Mushroom,Mushroom Grove
+Object_Deposit_Methane,Methane Ore Deposit
+Rat_Spawn,Pub Supply Basement 02
+Door,Door
+Supply_Personal,Personal Storage
+Supply_Shop,Shop
+Supply_Donation,Camp Storage(Donation)
+Researchable_Table,"Research"
+Store,Store
+FoodBag,Food Bag
+CharacterInventory,Inventory

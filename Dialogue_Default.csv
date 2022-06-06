@@ -1,0 +1,433 @@
+Language,Default
+Ida_Basic_First,...I wonder what happened here...
+leave_Text,(Leave. )
+Ida_S_Leave,(Leave.)
+Ida_Basic_Eq,Oh great. Please tell me those clothes are still there.
+Alp_Basic,...Hmm... I wish we-oh! Can I help you?
+Trade,[Trade] What do you have in stock?
+Alp_S_Leave,"No, sorry."
+Lao_Basic,"I'm VERY busy right now, so if you don't mind..."
+Lao_Basic_First,"Hello, are you here to... who are you?"
+Lao_S_Tax,"Ah, are you here to pay rental fees?"
+Lao_S_Leave,Okay.
+Litzi_Basic,"Hey, sorry-can this wait? I'm a little busy keeping the plant online."
+Litzi_Basic_First,"Wait a sec... who are you? Wait, did they finally crack that pod open!? Hi! I'm Litzi, and I'm in charge of this mess."
+Litzi_S_Leave,"Alright, see you later."
+Tau_Basic,I hope you're more useful than the piece of shit they pried you out of.
+Tau_Basic_First,"Who the hell are you? Wait, you the person that they pried out of that piece of shit they dragged here?"
+Tau_S_Leave,Okay.
+Judith_Basic,Hmm.
+Judith_Basic_First,"Oh, are you the 'pod person'? I'm Judith, nice to meet you, 'pod person'! There are some items I'm selling, so let me know if you need them."
+Judith_S_Leave,(Leave.)
+Nam_Basic,"What's going on?"
+Isko_First,"I think you're feeling better. I hope you don't faint again. Oh, and I'm selling medical supplies, so let me know if you need them."
+Isko_Basic,What a drag this is.
+Isko_S_Leave,(Leave.)
+Isko_Basic_Eq,"Let's go, please. We'll be here all day if you don't appease Ida."
+Alexei_Basic,Today is how Alp is ready to put some tasty dishes ... you do not have something business?
+Alexei_Basic_First,Uh ... It does not ever face in camp ...? Is that you're a rookie camp? My Name is Bogomolvo Alexei working in the mines. Do not look for nothing is georiji hanging around her at the mine.
+Alexei_S_Leave,"No, I would no apparent bother."
+Seble_Basic,Led control the drones seem pretty ... What? You came here to help me?
+Seble_Basic_First,"are you first advance team? Selection crews had found elsewhere. I'm Cabede Seble, a mining drone pilot. If you can't help me, can you just disappear?"
+Seble_S_Leave,...Okay.
+Isko_S_Trade,Can I buy medical supplies?
+David_First,Wellcome to My Supply Kingdom!
+David_Basic,Do you want something?
+David_S_Leave,(Leave.)
+Nam_S_Leave,(Leave.)
+Wolf_First,Not enough treatment materials... Oh? Who are you? I have not seen you around here. Are you the one that picked up from the outside?
+Wolf_Basic,Water is the most importent for the life...
+Wolf_S_Leave,(Leave.)
+FirstTalk_Judith_01_P,Hello.
+FirstTalk_Judith_02_Judith,"Hm? Who're you? I don't recognize you... oh! You must be the guy that Ida brought back from the dead, huh?"
+FirstTalk_Judith_03_P,You could say that. My name is Addison Thorpe.
+FirstTalk_Judith_04_Judith,I'm Judith. I would've tidied the place up a bit if I knew we'd have company.
+FirstTalk_Judith_05_P,"Well, I don't feel very presentable myself. What is this facility, anyway?"
+FirstTalk_Judith_06_P,"This is Engineering, and I'm the one in charge here... which just means stopping things from falling apart right now. I can also make tools, if you need some. Not for free, of course. Do you need anything else? I'm a little busy."
+FirstTalk_Litzi_01_P,Hello.
+FirstTalk_Litzi_02_Litzi,"Huh? Who're... oh, you must be that guy Ida was working on. I'm Litzi and I try to keep the generator here running."
+FirstTalk_Litzi_03_P,My name is Addison Thorpe. Why do you say 'try to'?
+FirstTalk_Litzi_04_Litzi,"I don't know if you've heard yet, but the mine is closed now, which means I'm not getting anymore fuel to keep the generator running. It barely runs at minimal capacity as is, so it won't be long before we're stuck in the dark. Not that anyone else seems to mind that threat. But we'd still have the reactors to worry about, anyway..."
+FirstTalk_Litzi_05_P,What's wrong with the reactors?
+FirstTalk_Litzi_06_Litzi,"By the time we got here, the reactors were damaged. They still function, but they're unstable. Judith and I tried to fix them up, but with what how little we have to work with, they're still far from perfect. All I can do for now is hope that the worst doesn't happen..."
+FirstTalk_Litzi_07_P,Oh... I think I'll be better off not knowing...
+FirstTalk_Litzi_08_Litzi,At least you know that it's dire. Is there anything else you need?
+FirstTalk_SeoYeon_01_P,Hello.
+FirstTalk_SeoYeon_02_Seoyeon,"Finally, some help! Come on, follow me; I'll show you what to do."
+FirstTalk_SeoYeon_03_P,"Wait, what? Help?"
+FirstTalk_SeoYeon_04_Seoyeon,Didn't Lao send you here to help me on the farm?
+FirstTalk_SeoYeon_05_P,"No, no. I was revived by Ida a little while ago. My name is Addison Thorpe."
+FirstTalk_SeoYeon_06_Seoyeon,"Oh, that stasis guy. I guess getting some help was too good to be true, after all, but it is nice to see someone. Nobody ever visits this corner of the camp. I'm SeoYeon and, like you've guessed, I run the farm here."
+FirstTalk_SeoYeon_07_P,A farm? I'm surprised you can grow anything on this rock.
+FirstTalk_SeoYeon_08_Seoyeon,"Oh, yes, of course. Even with the lack of labor and water, this farm provides most of everyone's food rations here. I keep telling Wolf that I need more water to feed the plants, but he stubbornly refuses every time. I guess nobody minds as long as they get their food, eh?"
+FirstTalk_SeoYeon_09_P,Do you use all of these plants for food? It looks like there's too much for how small the camp is.
+FirstTalk_SeoYeon_10_Seoyeon,"Better too much than too little! But no. Some of it is used for medicine, too. You're welcome to some, of course. If I just had more water to work with, I could actually experiment and grow even more useful plants..."
+FirstTalk_Isko_01_P,Hello.
+FirstTalk_Isko_02_Isko,Do you need something?
+FirstTalk_Isko_03_P,Can you tell me more about this camp?
+FirstTalk_Isko_04_Isko,"Well, you already know that this is Huygen Camp and that we're on Titan, one of the moons of Saturn. We're pretty far from headquarters. I'm Isko, by the way, and I... uh, take care of the camp's medical needs."
+FirstTalk_Isko_05_P,Oh? It seemed like Ida is supposed to be head of Medical.
+FirstTalk_Isko_06_Isko,"Yes, she is. In title, at least. She's left just about all of the responsibilities to me so that she can do her own thing."
+FirstTalk_Isko_07_P,What do you mean? What is she doing?
+FirstTalk_Isko_08_Isko,"Well, she doesn't make it that obvious, but I know her well enough. She didn't come here to be a small town medic. She wants to find out what happened to the previous settlers here. You should've seen her face when she found you, hehe. Anyway, I mainly tend to the ill miners while she does that, but I sometimes make some medical items for the others, too."
+FirstTalk_Isko_09_P,What happened to the miners?
+FirstTalk_Isko_10_Isko,"I'm not sure, but soon after the mining operations resumed, every miner that went underground became sick. Most of them are in the sick bay right now, although some of them were... beyond our help. We still don't know how to cure them, so the mine has been closed. That's a whole problem in itself, since we got a lot of supplies from the mine. Without supplies from either the mine or headquarters, we won't last long here."
+FirstTalk_Isko_11_P,What? Headquarters isn't providing any support?
+FirstTalk_Isko_12_Isko,"That's right. I don't know what happened, but we've lost contact with headquarters. That's all that I know, though. You'll have to ask the others for more details."
+FirstTalk_Tau_01_P,Hello.
+FirstTalk_Tau_02_Tau,Huh? Who're you?
+FirstTalk_Tau_03_P,"My name is Addison Thorpe. Ida recently pulled me out of hibernation, so I'm trying to get a grip on the new situation."
+FirstTalk_Tau_04_Tau,"Oh, so you're what Ida was so damn fascinated with. Well, you're in Tau Mogorosi's Mine now."
+FirstTalk_Tau_05_P,Mine? It's quieter than I expected a mine to be.
+FirstTalk_Tau_06_Tau,"Yeah, well, we're... The mine is closed right now, alright?! All my miners refuse to go down there after a few of them got sick. Bunch'a lazy bastards. It's just rocks and resources, no different from Earth or Mars! Resources that I'm not getting!"
+FirstTalk_Tau_07_P,They got sick... from the mine? What are they sick with?
+FirstTalk_Tau_08_Tau,"Do I look like a doctor? I have no idea, but Ida says she doesn't, either! I'd bet they're all fine over there, laughing at how much their laziness is costing me. At least I can still charge people to recycle their crap here, but that's nothing compared to the mine."
+FirstTalk_Lao_01_P,Hello.
+FirstTalk_Lao_02_Lao,Hello there! I was wondering when you'd get here.
+FirstTalk_Lao_03_P,You were expecting me?
+FirstTalk_Lao_04_Lao,"Yes, of course! I've heard plenty about you. You need to keep an ear to the ground to survive around here, know what I mean? I'm sure you have a ton of questions, so let me introduce myself. I'm Gin Lao, and I run Huygen Camp...'s residential quarter. I make the place as nice and comfy as possible for a reasonably low price, as a little favor to everyone in the camp."
+FirstTalk_Lao_05_P,A... favor?
+FirstTalk_Lao_06_Lao,"Yes. It's not cheap to run this place, of course; I'm practically in the red. But that's not important when so many people need a good night's sleep."
+FirstTalk_Lao_07_P,W-wait... in the red?
+FirstTalk_Lao_08_Lao,"Yeah. You know, losing money. Oh my goodness, you should've seen this place when the mine had to close. This camp would've collapsed long ago if I hadn't invented my credit system. In a situation like this, it's good to go back to the basics. It's simple, but it's a transparent local currency system, so that everyone gets their fair share if they contribute. Of course, you're no exception, my friend."
+FirstTalk_David_01_P,Hello.
+FirstTalk_David_02_David,Hey.
+FirstTalk_David_03_P,"...Uh, I'm Addison Thorpe, that hibernating person."
+FirstTalk_David_04_David,"Oh, alright."
+FirstTalk_David_05_P,...I'm trying to get familiar with the camp since I'm kind of new. Do you mind telling me about yourself and what you do here?
+FirstTalk_David_06_David,"Oh, sure. I'm David. I run the Supply Depot here, as well as the permissions to the production line. There's a lot of space here, so you can use it to store things, too, from that unit on the right there."
+FirstTalk_David_07_P,"Production line permission? Could I get that, too?"
+FirstTalk_David_08_David,"Oh yeah, I guess I should do that. After I set you up, you can access the camp's production line through your omniscope. If the request requires materials, then just toss the materials into the storage box."
+FirstTalk_David_09_P,Thanks!
+FirstTalk_Wof_01_P,Hello.
+FirstTalk_Wof_02_Wolf,"Oh? Who are you?... Ah, you are the person that Ida was working on, right? I am Wolf and I maintain this holy place."
+FirstTalk_Wof_03_P,I'm Addison Thorpe. Holy place? This doesn't look like much of a church to me.
+FirstTalk_Wof_04_Wolf,"Aha, not that kind. This is a well of life, where I remove all of the dangers in the water so that we can actually use it. Science helps with that, so that I know what chemicals to use. Let me know if you need some, by the way, not that they'll be free."
+FirstTalk_Wof_05_P,"Chemicals, huh? Is the local water that dangerous?"
+FirstTalk_Wof_06_Wolf,"I definitely wouldn't drink it, if I were you. We've even noticed it corroding one of our buildings. It doesn't help that I'm running out of chemicals to purify the water with, not to mention that SeoYeon is asking for even more water. I understand that a farm needs water, but with how limited the supply is, I have to make sure that no one is left out!"
+S001_Awaken_01_Nar,"(You drift, aimlessly through the dark expanse. You cannot feel nor hear; the movement that you appear to be seeing in the distance is indistinct, and subtle. Every moment feels circular, leading back to the last. Your thoughts are disjointed, separated.)"
+S001_Awaken_01_Nar2,"(As you attempt to recollect how you got here, you have an epiphany: you've had an epiphany about this exact thought in the past.)"
+S001_Awaken_01_Nar3,"(You discover the concept of sound once again, as an overpowering whirring enters your ears. A jolt, and then a pulse, you begin to feel the beat in your core.)"
+S001_Awaken_01_Nar4,"(The face you've forgotten everything about regains sensation, and something forcibly detaches from your face. You begin to regain your vision. You somehow manage to utter a word.)"
+S001_Awaken_02_P,...W...w-where...?
+S001_Awaken_03_Nar,"(The metal around you reverberates. The machine hisses and ejects vapor as the container opens, the air feels warm to your skin as it floods into your vessel. A woman looks on with concern.)"
+S001_Awaken_04_Ida,...H-Hey! Are you... are you alive?
+S001_Awaken_05_P,...W-Where...?
+S001_Awaken_06_Ida,"You are in Campy Huygens?Titan, of course. Hopefully that's not a surprise. This is our clinic, and you, my friend, have just been awaken from stasis."
+S001_Awaken_07_Ida,"I know this is sudden, and you probably got questions of your own, but can you try moving? We need to do a neural diagnostic and then get you connected for some biometrics."
+S001_Awaken_08_Nar,"(You try to move, but your limbs feel unresponsive and weak. You try again, in earnest, though you probably shouldn't have. You hardly witch your arm. The pain washes over you.)"
+S001_Awaken_09_P,...N-Not really. It hur-
+S001_Awaken_10_Nar,"(The pain sweeps in, the tide ever rising, overwhelming your sense of self.)"
+S001_Awaken_11_Nar,"(You catch a glimpse of the woman, mouth agape, as she backs away and frantically panics, her eyes darting around the room. The sound of her footsteps sound like they are echoing into a distance you cannot see.)"
+S001_Awaken_12_Ida,Isko?! ISKO!! Get over here!
+S001_Awaken_13_Nar,"(The beat of someone's footsteps overlap with the ones in your core, shortly before ceasing. Your vision is instantly robbed from you. You feel your back and shoulders sink past the confines of your body; you begin to drift, and the feeling is oddly familiar. You have an epiphany: you've had an epiphany before.)"
+S001_Awaken_14_Nar,"(The pain evaporates. You quietly tumble into the darkness, leaving yourself behind.)"
+S001_Awaken_15_Nar,"(Voices call out, urgent, chaotic. They roll across the horizon, brushing against what passes for consciousness. After eons, they calm, their song losing tempo. The pulse in your body weakly rises on its own, your core jostles just slightly with each heart beat.)"
+S001_Awaken_16_Ida,"Phew... that was... well, too close. Can you hear me? Are you able to move now?"
+S001_Awaken_17_Nar,"(The pain has subsided. You are lucid, but your body still feels weak. You try to move and fail to accomplish much, but it doesn't hurt like before.)"
+S001_Awaken_18_P,"Not really. I'm weak, but I'm not in pain."
+S001_Awaken_19_Ida,"Excellent?the lack of pain, I mean. Listen: I know you probably have questions of your own, but we're grasping at straws here. Do you remember why you were put in stasis? Anything at all? We don't understand what happened here."
+S001_Awaken_20_P,"I... no. My name is Addison Thorpe. What do you mean, 'we don't understand'?"
+S001_Awaken_21_Ida,"Hello... Addison. I'm Dr. Shashane, though everyone just calls me Ida. You were placed in stasis improperly, which doesn't make a lot of sense unless it was some sort of emergency."
+S001_Awaken_22_Ida,"We came across your pod, but it has no markings, no logs, no metadata. We don't know when you went cold, or if you even are involved with TECC, and there's nobody left to ask."
+S001_Awaken_23_P,...What? What do you mean? Are you two not with TECC?
+S001_Awaken_24_Ida,"There's no sugarcoating it: Isko, myself and many others are part of the TECC's second mining operation. Your team disappeared about 7 years ago. We don't really kn-"
+S001_Awaken_25_Nar,"(She continues to speak, but you can't help but panic, trying to remember events that just aren't there to recall. You reel your mind, replaying your days leading up to joining TECC, and preparing for the journey to Titan. You blurt out the only thing you can clearly recant in the middle of Ida's explanation.)"
+S001_Awaken_26_P,?I remember working at a steam well!
+S001_Awaken_27_Nar,(Ida's frustration is palpable. She clears her throat and resumes.)
+S001_Awaken_28_Ida,"As I first surmised, it seems. You didn't get out of this scatheless. They didn't cool you down properly before putting you on ice, so there's no telling what may have happened to your mind, or anything else in your body, for that matter. We can only hope you can regain your memory at this point..."
+S001_Awaken_29_Ida,"On that note, we may as well focus on solvable problems. Even if you can't remember much right now, we could still use your help. We're hardly managing here, and there's only a few dozen of us."
+S001_Awaken_30_Ida,"...Please tell me you remember what an OmniScope is, or we'll be here a while. We're going to have to get yours back online."
+S001_Awaken_31_P,"Uh... oh! Yeah. I did have one, how did you know?"
+S001_Awaken_32_Ida,"They sort of just tossed you in this pod, and as durable as they are, it looks like the SoC on yours didn't appreciate coming along for the ride. It uh... lit on fire when we turned it on. We gotta fix this and link you back up."
+S001_Awaken_33_P,You can fix that?
+S001_Awaken_34_Ida,"Well, 'replace' is a better word; your lenses are fine, thankfully, so we're just going to sync you to a new unit. It's kind of old, but it's the only working spare we got. You know how to use it, right? Or did that get iced out, too?"
+S001_Awaken_35_P,I think I can remember the basics.
+S001_Awaken_36_Nar,"(The OmniScope a multi-function embedded information device. The device is two parts: the wireless lenses that are inserted into the eyes via surgery, and a remotely-linked AI unit. It can be used to communicate, read map, or analyze objects.)"
+S001_Awaken_37_Ida,Good. Let's get this over with. Isko! You finish wiping that spare controller?
+S001_Awaken_38_Isko,Yup! Here you go.
+S001_Awaken_39_Nar,"(Isko hands the controller unit and transmitter to Ida. She hardly inspects the transmitter's wafer, keeping her attention focused on you.)"
+S001_Awaken_40_Ida,"You ready to start? On second thought: don't answer that. You're a sitting duck without this, and I'd hate for you to rise from your grave just to jump back in it. Permanently. Hold still and we'll begin."
+S001_Awaken_41_Nar,"(You relax on the table, expecting to be put under, but instead Ida palms the back of your head. You feel your skull produce a thin object, as if it were ejecting from your skin. Another one is threaded into the previous resident's burrow and takes its place.)"
+S001_Awaken_42_Nar,"(Your vision is augmented. The scope begins to display information in your natural vision, though the text appears soft. The text in your field of view noticeably shudders for a moment before becoming legible.)"
+S001_Tutorial_01_AI,<color=TUTORIAL>Omniscope ID 24601. Starting Boot Sequence...</color>
+S001_Tutorial_02_AI,"<color=TUTORIAL>Hello, I'm Cassini, AI assistance of Omniscope ID 24601. The omniscope boot sequence successful.</color>"
+S001_Tutorial_03_AI,<color=TUTORIAL>Detected damaged memory area. Please wait a moment while I attempt to recover the memory.</color>
+S001_Tutorial_04_Nar,( The images of AI on the screen soon disappeared. Ida talks to confirm that the device is active. )
+Tutorial_Omniscope_01,<color=TUTORIAL>Omniscope's memory has been recovered. You may check the functionality of the omniscope through the <color=IMPORTANT0>[Tab]</color> key.</color>
+S001_Awaken_43_Ida,"Well, how is it? This things are backward compatible, but I'm guessing it's been a while since you've had a lens update? Should be fine enough, though. We popped out your old transmitter since it's pair won't be coming back up any time soon."
+S001_Awaken_44_P,"It was fuzzy for a sec, but seems like it's working."
+S001_Awaken_45_Ida,"Great, 'cause there isn't another one. Don't go getting frozen again, alright?"
+S001_Awaken_46_P,"...wait, where'd you get this one from?"
+S001_Awaken_47_Ida,"Oh... you know. Don't worry, Isko wiped it ran some tests on it, and we cleaned the transmitter *real* good. Only a couple hundred hours of use on the AI unit, it's practically new!"
+S001_Awaken_48_Ida,"Oh, looks like you're feeling better! Want to give moving around a try again? It'd be nice if we could get some clothes on you. No offense. Behind the screen, next to the sinks, there's a box with a spare change of clothes. *Please*... help yourself."
+Mn001_Equipment_01_Ida,"What the hell?! Was it routine for the first team to run around in their skivvies?! Fortunately for you there's been a few years of terraforming, but I think you should put on some clothes regardless."
+Mn001_Equipment_02_Ida,"There. Much better, don't 'cha think?"
+Mn001_Equipment_03_Ida,"I bet you're famished after all this?I mean, you were dead and died and are currently now 'not dead'. You should have something, anyway. Soup, some bread, something."
+Mn001_Equipment_04_Ida,"The Omniscope should point you to the right direction of the pub. Go find Alp-huge mustachio guy, loves meeting people and has run out of those weeks ago."
+Mn002_Alp_01_Alp,...!
+Mn002_Alp_02_Alp,"Do my eyes deceive me? Are you the person from the pod they've been trying to wake up? Oh? My manners, they have left me!"
+Mn002_Alp_03_Alp,"*clears throat* Welcome, my new friend, to the pub of Camp Huygens! My name is Alp, and this, this is my humble Pub."
+Mn002_Alp_04_Nar,(Your stomach groans audibly.)
+Mn002_Alp_05_P,"Well, you've met my stomach, and I'm Addison. Ida said I should get something to eat."
+Mn002_Alp_06_Alp,"Oh! My manners, please pardon me-we don't have much, but I can get you something that was left over."
+Mn002_Alp_07_Nar,"(Alp flits about the shelves, pulling out a small container. From it, he produces a bit of bread and a bottle.)"
+Mn002_Alp_08_Alp,"You can have this, it's not much, but it will keep the hunger at bay and somebody paid for it earlier."
+Mn002_Alp_09_Nar,(Alp hands you the bread and a Water bottle.)
+Mn002_Alp_10_Alp,"I uh, hope you do not mine, but, my curiosity... I can't contain it."
+Mn002_Alp_11_Alp,I heard your pod was found at another camp. Is that true? Where are you from?
+Mn002_Alp_12_P,"I'm sorry, I don't remember much. Ida said that they didn't put me into stasis properly. I worked at a steam well, but I don't remember much at all."
+Mn002_Alp_13_Alp,"Really?! A steam well? Many of those are still running, I thought they were automated! What about other people? We know so little, aside from what we found left behind, but we were told they were smart, talented! But somehow?truly?not one person remains. Besides you, that is."
+Mn002_Alp_14_Alp,"...Don't worry, I do not think you could hide here for weeks and survive unnoticed?I trust you."
+Mn002_Alp_15_P,"Uh, thanks."
+Mn002_Alp_16_Alp,"TECC made it sound like this would be a rescue mission... seven years later. Seems silly, but how would we know there would be no trace?"
+Mn002_Alp_17_P,"Sorry, I wish I could give any insight."
+Mn002_Alp_18_Alp,"What irony?we woke you up to learn, but instead we must teach... sorry. My frustrations aren't because of you. You're waking up to a very poor situation, to put it lightly."
+Mn002_Alp_19_P,...what's going on?
+Mn002_Alp_20_Alp,"Something's happened to the resettlement mission. Our camp is one of many, and the plan for the group heading to the central one, 'Headquarters', was supposed to establish contact to connect all the camps. It's been weeks. The only spaceport on Titan is there, and without it we have no chance of getting back home."
+Mn002_Alp_21_P,"They've disappeared, too? Was there a backup plan if the spaceport was damaged, or inoperable?"
+Mn002_Alp_22_Alp,"No idea. We have survived this long, and we have come in contact with other mining camps, but they are all in the same shape we are. If there was a backup plan, only the main group knew of it."
+Mn002_Alp_23_Alp,"We're running low on supplies, and whlie we all have our own problems, if we don't improve things soon none of us are going to survive."
+Mn002_Alp_24_Alp,"...I should get back to work, but it would be wise if you got rest after all this. Go find Lao, the resident administrator, so you can rent a room. I don't know how life was before, but?some people, even as we slowly fall apart, are still here only to make money."
+Mn005_Lao_01_P,"I need a place to rest, Alp said to find you."
+Mn005_Lao_02_Lao,"Oh, I see. I just so happen to have a single room available?freshly cleaned and inspected minutes ago. Are you interested in leasing?"
+Mn005_Lao_03_P,"Leasing'? I was in a stasis pod. I don't have any money, but it sounds like the camp could use all the help it can get. Can't we work something out?"
+Mn005_Lao_04_Lao,"Nice try. You're right, to be fair; the camp is in trouble. However, if we're going to survive we need some semblance of an economy. This way, everyone puts in their fair share of work."
+Mn005_Lao_05_P,"Well... where can I get money, then? Sounds like you probably already have a lot if everyone's paying you."
+Mn005_Lao_06_Lao,"I take part in many transactions. There are several others in camp that render essential services that I pay for, and that they, in turn, pay others for. It's the system that I came up with: a credit system."
+Mn005_Lao_07_Lao,"In short: if you lack credit, you'll lack everything else. It's true, though... you hopped out of a pod, and we do need help. This is... a one-time situation for the entire camp. One moment."
+Mn005_Lao_08_Nar,"(Lao walks over to his desk and opens a drawer, drawing a keycard from its contents. He walks toward you, holding it up, pointing to it with the other hand.)"
+Mn005_Lao_09_Lao,"This was hi-ahem-is *your* keycard. Originally, it's a key card only for those who pay credit, but I'll give it to you in particular. Because you just woke up from stasis. But you'll have to pay Credit soon, too. If you don't, I'll suspend the card."
+Mn005_Lao_10_Nar,(He hands you the keycard.)
+Mn005_Lao_11_Nar,(Lao motions you to follow him as he leaves the room.)
+Mn005_Lao_12_Lao,Here it is. Remember: You'll have to pay credit if you want to keep using the room. Go ahead? walk up to the door and use it.
+Mn005_Lao_13_Nar,(The door's bright red lights appear to be indicating that it is locked.)
+Mn005_Lao_14_Nar,(You're exhausted. It's time to rest.)
+Mn005_Lao_15_Nar,(The night is spent absorbing the events of the day.)
+Mn005_Lao_16_P,<i>...What a mess...</i>
+Mn005_Lao_17_P,<i>First thing's first: money. Not going to get far without it. Even in a place like this...</i>
+Mn005_Lao_18_Nar,"(The silence embraces you, somehow ushering you to sleep despite all that's happened.)"
+Mn005_Lao_19_Nar,(...)
+Mn005_Lao_20_Nar,"(You dream. It's a sunny day in the badlands, but the weather is cool. You rest your hand on a handrail; paint chips flake off and stick to your hands. A cold front, harboring a blizzard, threatens in the distance.)"
+Mn005_Lao_21_Nar,(You wake up abruptly.)
+Mn005_Lao_22_P,No sense in delaying the inevitable.
+Mn005_Lao_23_P,Time to get some shut-eye.
+Mn007_Get_Job_01_P,"I uh... I know I need to work, you wouldn't happen to need any help would you?"
+Mn007_Get_Job_02_Alp,"Well... there's one thing, not really 'work', for most people. Charlie has been departed for some time... so we have a little problem since I'm so busy."
+Mn007_Get_Job_03_P,What kind of problem?
+Mn007_Get_Job_04_Alp,"I have an... ongoing vermin problem. These rats aren't like the ones back home?they are unsettling and aggressive. The guards won't help, and Charlie was the only one willing to do the work needed to keep them out of our stockpile."
+Mn007_Get_Job_05_Alp,"I don't know if they breed quickly or if there's a nest, but there's a bunch of them now and they've cut me off from the storage room. There's probably not much left, I need to get in there and secure the room once and for all."
+Mn007_Get_Job_A01_P,I'll go take care of the rats.
+Mn007_Get_Job_A02_Alp,"Great, thank you! Do you have anything to defend yourself with? I am not joking?these rats are dangerous."
+Mn007_Get_Job_A03_P,"No, I don't."
+Mn007_Get_Job_A04_Alp,"Here are some equipments that you can use. They don't seem to be so terribly useful to me, but if you need more of them, you may be able to get them from the Camp shop by the Supply Depot."
+Mn007_Get_Job_A05_Nar,"(Alp hands over few items.)"
+Mn007_Get_Job_B01_P,"I'll think about it."
+Mn007_Get_Job_06_Alp,"All right, then get rid of the rats in the storage and bring me their tails as a proof."
+Mn008_Slay_Rat_01_P,I got rid of them all. You weren't kidding?there were a lot of them.
+Mn008_Slay_Rat_02_Alp,"That was quick, thank you! I'll take care of the rest. Here's some credits for the trouble, and here?I'm sure you could use a pick-me-up after that."
+Mn008_Slay_Rat_03_Nar,"(Alp gave you some food, drink and credits.)"
+Mn008_Slay_Rat_031_Alp,"It won't be much, but if I bring credit, I can buy my own food or water. Oh, and if you're hurt somewhere, you should visit Isko. He's selling medical supplies."
+Mn008_Slay_Rat_032_AI,<color=TUTORIAL>A deal with Alp and Isko has been activated.</color>
+Mn008_Slay_Rat_04_Alp,"I have something a little more difficult, if you're interested. It'll pay a bit more, since there's something to recover this time."
+Mn008_Slay_Rat_05_P,I'll take what I can get at this rate.
+Mn008_Slay_Rat_06_Alp,"There's a cave to the northwest that a few people have explored before. One of the samples they brought back was a mushroom that, after testing and sampling, we found out was nutricious and pretty tasty."
+Mn008_Slay_Rat_A01_P,Mushroom? I haven't had it in a while...
+Mn008_Slay_Rat_A02_Alp,"You want to eat mushrooms, don't you? That's great! I'll be waiting for you, so please hurry up and go, I'm looking forward to it! I think I already smell the mushroom baking mushrooms!"
+Mn008_Slay_Rat_A03_P,......
+Mn008_Slay_Rat_A04_Alp,"Oh, and this will help you dig up mushrooms."
+Mn008_Slay_Rat_A05_Nar,( You have obtained a 'MakeShift Reaper'. )
+Mn008_Slay_Rat_A06_Nar,"Nobody appreciates the taste of this mushroom dish... Everyone always wants meat, but we lost communication with headquarters, so where am I supposed to get it?"
+Mn008_Slay_Rat_B01_P,"I'm sorry, I'm a little busy right now."
+Mn009_Mushroom_01_P,"Hey, Alp. I got those mushrooms you wanted."
+Mn009_Mushroom_02_Alp,"Oh how I've looked forward to this... I hope it wasn't too difficult, here's your pay! And a bonus: have this now, and compare it to what I'll be making later!"
+Mn009_Mushroom_03_Nar,(Alp gave you some food and credits.)
+Mn009_Mushroom_04_P,Thank you! Do you have anything else you need?
+Mn009_Mushroom_05_Alp,"No, you took care of my back log. Litzi, though, was complaining about being shorthanded earlier. Might be worth a trip to the power generator and seeing if she has any work for you."
+Mn009_Mushroom_06_P,Power generator?
+Mn009_Mushroom_07_Alp,"It's the building to the northwest of the hub with the funnel on it. All our power,  She's normally on B2. Use your OmniScope if you get lost."
+Mn009_Mushroom_08_Alp,"Well then, my friend, good luck! Be sure to come back if you're hungry, I'll be working on some new dishes."
+Mn010_Generator_Litzi_01_P,Alp said you could use a hand?
+Mn010_Generator_Litzi_02_Litzi,"Oh, you caught on quick?already looking for work, huh? Yeah, I need someone to check out a cave. Have you been outside the camp yet?"
+Mn010_Generator_Litzi_03_P,"Yeah, Alp had me go check a cave out."
+Mn010_Generator_Litzi_04_Litzi,"Oh no... did he get you to scrounge for some? Damn, the pub's going to reek?I hate mushrooms! Anyway, that same cave has some white methane ores I need. I'll pay you to collect some."
+Mn010_Generator_Litzi_05_P,Cave? You want me to dig out ore out of that cave? It didn't look like it was explored
+Mn010_Generator_Litzi_06_Litzi,"You'd be right, but the mine's having a problem that nobody's really discussing. However, this generator's falling apart and it won't be long before it fails on us. Without it, we're pretty screwed."
+Mn010_Generator_Litzi_07_Litzi,"Nobody's really taking me seriously, they're all too busy dealing with their own problems, but if I can't get some materials soon I won't be able to keep the generator online. This camp's not going to last long without power, you along with us. I'll pay. Will you go?"
+Mn010_Generator_Litzi_08_P,Sounds pretty important. I'll do it.
+Mn010_Generator_Litzi_09_P,I can't just yet. I'll be back.
+Mn010_Generator_Litzi_10_Litzi,Thank you. If I can get this generator in decent shape I'll be able to relax a bit.
+Mn010_Generator_Litzi_11_Litzi,"Here, take this pickaxe. Kind of old school, I know, but we're sort of lacking here. It'll get the job done at least."
+Mn010_Generator_Litzi_12_Nar,(Litzi gave you a pickaxe.)
+Mn010_Generator_Litzi_13_Nar,"Oh, and if you happen to encounter a snail in the cave, can you try to extract some slime from it and bring them to me? I am kinda running out of lubricant for the machines and I think that might help."
+Mn011_Minerals01_01_P,I brough the ores.
+Mn011_Minerals01_02_Litzi,"Finally, some progress around here. Thank you, here you go. And take this, too; I don't need it and you really helped me out."
+Mn011_Minerals01_03_Nar,(She gives you credits and some equipment.)
+Mn011_Minerals01_04_P,"I'm assuming there's more to do, considering what you've been saying?"
+Mn011_Minerals01_05_Litzi,"No, I will take it from here. Thank you very much. Oh, and if you happen to obtain more snail slime, bring it to me any time. I'll buy it at a good price. It is probably my only source of lubricant, after all."
+Mn011_Minerals01_06_Litzi,"Hold on. Come to think of it, Judith came looking for you when she heard that you went to the cave at my request. You should ask her what she wants."
+Mn011_Minerals01_07_P,Okay.
+Mn009_JudithWant_01_P,Were you looking for me?
+Mn009_JudithWant_02_Judith,"Looking for you? Not really...? Oh, right! I remember now. You went into the cave recently, right?"
+Mn009_JudithWant_03_Nar,(You nod your head. )
+Mn009_JudithWant_04_Judith,"How was the cave? Isn't there a lot of dangerous creatures?"
+Mn009_JudithWant_05_Judith,"Actually, I have a favor to ask of you."
+Mn009_JudithWant_06_P,"What's going on?"
+Mn009_JudithWant_07_Judith,"Some of us, including myself, have explored the cave before. It wasn't too bad in the beginning, but then things got worse and those creatures in the cave started to appear more frequently. And I swear some of them got bigger! Anyway, I was setting up a support in the cave, putting up some lamps and all of a sudden I was jumped by one of those creatures."
+Mn009_JudithWant_08_Judith,"I left in a hurry, and I was not hurt, but I think that's when I lost my notes. It's something that I've kept since I arrived here and they contain some of my ideas for useful things that can help us survive in this place."
+Mn009_JudithWant_09_Judith,"You've already been to the cave so you seem capable. Can you please explore the cave for my notes and bring them back to me?"
+Mn009_JudithWant_10_P,"Okay, I'll look for your notes."
+Mn009_JudithWant_11_Judith,"That's great! Oh, and if I may ask for one more thing. I think the creature that was after me looked like a beetle and, while I was busy running, I noticed its hard shell-like body. I am interested in anything we can find here that may help us survive and that looked like a great material to make use of."
+Mn009_JudithWant_12_P,"So I suppose you want me to get some for you?"
+Mn009_JudithWant_13_Judith,"Yes, indeed! Since our supplies from headquarters have been cut off and all, we'll need anything and everything we can get our hands on. I think it is definitely worth researching."
+Mn009_JudithWant_14_P,"I found your notes."
+Mn009_JudithWant_15_Judith,"Oh! That's it! Thank you!"
+Mn009_JudithWant_16_Judith,"It's not much but here's some credit for your trouble. And for your real reward for finding these, I'm going to start looking at my ideas right away."
+Mn009_JudithWant_17_Judith,"I have some ideas that may be helpful to you. They're rough ideas so I'll organize them into blueprints and store them in your storage when they're done."
+Mn009_JudithWant_18_Judith,"Once you have the blueprints, you can request them to be researched further from production."
+Mn009_JudithWant_19_Judith,"Thanks again and I will let you know once the blueprints are ready."
+Mn009_JudithWant_20_Judith,"Hey. I've finished writing up some blueprints. I hope they are useful."
+Mn009_JudithWant_21_Judith,"I have sent them to your storage in the supply depot, so you can start making a formal request for them to be researched whenever you like."
+Mn009_JudithWant_22_Judith,"Alright, back to work then."
+Mn011_Minerals02_01_P,Is this what you're looking for?
+Mn011_Minerals02_02_Litzi,Yup! That's it! Thanks!
+Mn011_Minerals02_03_Litzi,Here you go. And here's another extra.
+Mn011_Minerals02_04_Nar,(She gives you equipment and credits.)
+S003_Massage_01_Nar,<color=TUTORIAL>A new message has arrived.</color>
+S003_Massage_02_P,What's this?
+S003_Massage_03_Nar,"(You check your messages, a message scrolls across your vision.)"
+S003_Massage_04_Ida,"<Message>\n Come back when you can, we need to talk.\n-Ida-"
+S003_Massage_05_P,You wanted to see me?
+Mn013_Nanobot_01_Nar,(Ida's face lights up)
+Mn013_Nanobot_02_Ida,Great! You're here! We've discovered something!
+Mn013_Nanobot_03_P,...And that is?
+Mn013_Nanobot_04_Ida,"Okay, first off: did you know that the mine, the main purpose for our journey here, is closed?"
+Mn013_Nanobot_05_P,Litzi told me that it ran into problems.
+Mn013_Nanobot_06_Ida,"Correct, but did she tell you the details?"
+Mn013_Nanobot_07_P,...No. Why? What's going on?
+Mn013_Nanobot_08_Ida,"When we first arrived, operations in the mine resumed swiftly. Within a few days, though, some miners developed skin lesions, others became violently ill. We chalked it up to poor ventilation, made adjustments, and pressed on. The miners never recovered and those that worked in their stead got ill at an even quicker pace."
+Mn013_Nanobot_09_Ida,"We've been trying to piece together what happened here since then. Since you had no memory, we went back to the start, and dug out our friend?the original owner of your OmniScope. In the very least, I was wondering if there was a way to collect information off their nanomachines."
+Mn013_Nanobot_10_P,Nanomachines? I think I remember that?I think it was that shot I got before coming to Titan.
+Mn013_Nanobot_11_Ida,"Yeah. That shot was a bunch of small robots that work in a loose AI mesh. Everyone got a shot to help regulate their body and assist with surviving the environment while the terraforming process takes hold. The atmosphere isn't really uniform or predictable yet, so the small robots help us with resipration, synthisize compounds to boost immunity and prevent disease, and so forth."
+Mn013_Nanobot_12_Ida,"Our friend, however, doesn't have nanomachines like Isko or I should have. Theirs appears to be the ones that are intended to terraform, but were still active in his old, decaying tissues. What's worse, in multiple samples we can see these 'invaders' disabling and absorbing the host's nanomachines while... apparently terraforming the tissue around with it."
+Mn013_Nanobot_13_Ida,"Nobody's ever come back from outside of the mining camp with anything like this, either, and from what we have observed, it's probably spread by direct contact. Whatever it is, it probably came from within the mine."
+Mn013_Nanobot_14_Ida,All of this said... I think there's a possability you might be able to get into the mine safely.
+Mn013_Nanobot_15_P,Are you serious? Why would I chance that? Sounds like a bad way to go.
+Mn013_Nanobot_16_Ida,"We... did some basic lab work on you when you went unconcious. Good reasons, I swear?we ran a panel, but we also tried... well your nanomachines are a bit different. For whatever reason, yours have no problem duking it out with the invading nanomachines."
+Mn013_Nanobot_17_P,...What?!
+Mn013_Nanobot_18_Ida,"Alright, so we don't know if it won't be foolproof, obviously?the load matters, too. But your nanomachines give you an edge none of us in the camp do. That cave we found?I'm sure somebody's told you about it by now?isn't going to be a crutch we can use forever. We need the resources in the mine. None of us realized just how bad this place is, it's arguable that at this point the materials are more important for just surviving this gig. That includes you."
+Mn013_Nanobot_19_P,Are you really going to trust a stranger to task? Why can't you guys just... tweak your nanomachines to fight these things off?
+Mn013_Nanobot_20_Ida,"You think we haven't tried that? That's a little outside of our expertise, we can barely service the damn things, and we sure as hell can't design new ones. You've got the only other ones we've seen, which means..."
+Mn013_Nanobot_21_P,"Yeah, got it. Doesn't sound like the camp's got much longer if it doesn't happen, and it doesn't seem like anybody's even considering the mine in their plans."
+Mn013_Nanobot_22_Ida,"Would you consider it? You were backing out before you knew there was a wall behind you. Anyway, while your nanomachines are fighting off invaders just fine, they do appear to be a little desycned, at least in that sample. I think we should force a reactivation, since it's probable that long nap didn't do them any good, either. We need to make sure you survive."
+Mn013_Nanobot_23_Nar,(You feel your fate loaded upon you.)
+Mn013_Nanobot_24_P,Just tell me where to stand.
+Mn013_Nanobot_25_Ida,Follow me.
+Mn013_Nanobot_26_Nar,( You follow Ida into a familiar room: the one you first awoke in. You enter a capsule at her behest to begin the process.)
+Mn013_Nanobot_27_Nar,( You've been in here a while. The machine continues to run )
+Mn013_Nanobot_28_Ida,"Isko, anything look 'not normal'?"
+Mn013_Nanobot_29_Isko,"They look like they're talking again. We can't directly interface with them, but it seems like they've recalibrated based on what we can see on the scope."
+Mn013_Nanobot_30_Ida,Hey! Good news. That's rare.
+Mn013_Nanobot_31_Nar,"(You don't remember feeling this way before, but you also don't recall if you've been through this process. You assume the nanomachines have 'activated' based on the discussion.)"
+Mn013_Nanobot_31_AI,<color=TUTORIAL>The body nanobot is activated. The nanogauge is output. New Nano Perk is Activated.</color>
+Mn013_Nanobot_32_Ida,How do you feel? Any different?
+Mn013_Nanobot_33_P,"It feels... weird. I would have thought I couldn't feel like this, I've had nanomachines for a while and can't remember feeling this way. I see some new stuff on my scope, though."
+Mn013_Nanobot_34_Ida,"You do?! That's... what do you see?! Wait?no, that can wait. Dammit. Okay. Time's short, but I call 'dibs' on you later for documenting that phenomenon."
+Mn013_Nanobot_35_Ida,"For now, we all need you to check out the mine to see if it's even going to save us. Go find Tau at the mines, he'll be expecting you, though he'll probably insist you call him 'Overseer Mogorosi'."
+Mn014_Mogorosi_01_P,"Hey, are you Tau? Ida said to find you."
+Mn014_Mogorosi_02_Tau,"...'Overseer Morogosi', thanks. Yes, she told me, said you've got some 'special' quality. You don't look so tough to me, but I don't care, we've got nothing to lose?I'm not digging you out if you fail, so no skin off me. I just hope you're strong. We don't let it slip, out, but the mines aren't empty. Whatever it's doing to things... it's had some time to do it's 'thing', you know? Anyway, if you manage to surprise me I know we can hammer out a deal."
+Mn014_Mogorosi_03_Tau,"I'm no jackass, though. Not gonna let you go in without some equipment. It's in my intrest to see you do good, too. Can't have a piece of the pie that isn't there, yeah?"
+Mn014_Mogorosi_04_Tau,"It's not even just 'cause I think you gonna be in for a fight. This is an ice moon, this stuff isn't here naturally. Never know if something might fall... you probably gonna fight, though."
+Mn014_Mogorosi_05_Tau,"Go see Judith, she still hanging on to some equipment of mine that we didn't end up needing. Hurry up, though, I don't like waiting."
+Mn015_Judith_01_P,"Hey, Judith? Mogorosi said there was some equipment here that he never picked up."
+Mn015_Judith_02_Judith,Yeah?! Well you can tell that bastard that he's not getting shit until he pays up in full! He still hasn't finished paying for the last few sets!
+Mn015_Judith_03_P,"I don't work for him. I'm only here so he'll let me in the mine, and I'm only going to the mine so we can get the materials out."
+Mn015_Judith_04_Judith,"Listen, I get it. I know why I make this stuff. Still, I let him win this one I'm probably not going to care what happens. He can easily pay it, he just chooses not to. I'm not an idiot, which is why he's gotta bend a bit."
+Mn015_Judith_05_P,"Alright, how much did he owe?"
+Mn015_Judith_06_Judith, {0df909b7-7d61-4243-a82c-20f54888daea} ! And tell him not a damn credit less! Then we'll call the three sets even.
+Mn015_Judith_A01_P,"Screw it, I don't have time for this. He can owe me."
+Mn015_Judith_A02_Judith,"Good. There's a lot more to be paid, but I'll move on to this one now! Tell Tau, if he don't pay him first, I won't do anything!"
+Mn015_Judith_A03_P,......
+Mn015_Judith_A04_Nar,( You acquired a miner's uniform. )
+Mn015_Judith_B01_P,Uhh... I don't think I can pay this.
+Mn017_Boss_Act01_01_P,"Hey, I got the equipment?which I had to pay for, by the way!"
+Mn017_Boss_Act01_02_Tau,"Is that what took so fuckin' long? You really that bad at negotiation? Remember what I said about making a 'deal'? You're going to be making plenty, calm down."
+Mn017_Boss_Act01_03_P,What about the bill I had to pay to get this crap?
+Mn017_Boss_Act01_04_Tau,"You kiddin' me? The mine is the most important part of this fucking circus. We're doing the primary job here, or would be, but as you've heard this job came with some extra bullshit. Why should I have to pay out for providing these guys with jobs in the first place?"
+Mn017_Boss_Act01_05_Tau,"Anyway, don't listen to Judith. She doesn't know what she's talking about and overcharges. I said what I meant: you were picking up what was mine already. Paying was up to you?if you're just keeping the peace... I'll take note of your kindness."
+Mn017_Boss_Act01_06_Tau,"But hey, I can be nice, too. You can keep the equipment, free of charge. We'll call it an investment."
+Mn017_Boss_Act01_07_P,...
+Mn017_Boss_Act01_07A_TAU,"Then, in a mine are ready to go?"
+Mn017_Boss_Act01_07B_P,I'm ready. I can head straight to the mine.
+Mn017_Boss_Act01_07C_P,I'm not ready yet. Give me a little time.
+Mn017_Boss_Act01_08_Tau,Wait in my office. I'll go make some preperations.
+Mn017_Boss_Act01_09_Nar,(You wait in his office while he rounds up the other miners.)
+Mn017_Boss_Act01_10_Nar,(You contemplate the chances of success.)
+Mn017_Boss_Act01_11_Nar,(A man enters the room.)
+Mn017_Boss_Act01_12_Alexei,"...kin' Ta?Oh, there really is a newcomer. I'm Alexi. Supervisor Mogorosi says you are a crazy person with a death wish. Are you really going in?"
+Mn017_Boss_Act01_13_P,"Seems everything points there, and I keep getting sold it's gonna be done. Lead the way."
+Mn017_Boss_Act01_14_Nar,(Alexi waves you on. You follow.)
+Mn017_Boss_Act01_15_Alexei,"The Super rope you in too, Seble?"
+Mn017_Boss_Act01_16_Seble,"Rope in' nothin', man thinks with the wallet first?says he values his people but the credits are the last thing he'd sacrifice. That's no way to run an operation, you know that. No foolin', neither?this fella may be the only one to get any real work done, an' we been here sittin' long enough."
+Mn017_Boss_Act01_17_Alexei,"You're tellin' me? My boots are worn through. 'Don't need them for the drone', he says. Heh. Okay."
+Mn017_Boss_Act01_18_Alexei,"Okay, newcomer, this is it. You can go down to the mine through the elevator over there."
+Mn017_Boss_Act01_19_P,Is the elevator working properly?
+Mn017_Boss_Act01_20_Alexei,"Don't worry about it. We couldn't go down to the mine until now, but I've been managing the elevator steadily."
+Mn017_Boss_Act01_23_Nar,"(The door suddenly opens, a person enters abruptly.)"
+Mn017_Boss_Act01_24_Tau,"Now then, everybody ready to go? You've had plenty of time."
+Mn017_Boss_Act01_25_Nar,(Mogorosi approaches you speaks with a more diplomatic tone.)
+Mn017_Boss_Act01_26_Tau,"If this works out... you'll be the only person able to enter the mine safely, which means exlusive access, which means a lot of demand. Demand means credits. Keep that in mind."
+Mn017_Boss_Act01_27_Tau,"...but don't forget, you're going to need us. We maintain this deathtrap, we know what in's and out's there are to know."
+Mn017_Boss_Act01_28_Tau,"We can wait on that until you can prove you're up to snuff, though."
+Mn017_Boss_Act01_29_P,"Enough, let's get it over with."
+Mn017_Boss_Act01_30_Nar,(A strange noise is approaching quickly.)
+Mn017_Boss_Act01_31_Nar,(The sound gets closer?a loud thump rattles the area.)
+Mn017_Boss_Act01_32_Tau,W-w-what the fu-
+Mn017_Boss_Act01_33_Tau,Shit! What's that?!
+Mn017_Boss_Act01_34_Seble,Not plannin' on finding out!
+Mn017_Boss_Act01_35_Alexei,What's the plan?!
+Mn017_Boss_Act01_36_Tau,"Hold it off, we gotta make sure it doesn't get to the camp!"
+Mn017_Boss_Act01_37_Nar,(Mogorosi sprints ahead without the rest of the group.)
+Mn017_Boss_Act01_38_Nar,(The door locks behind him.)
+Mn017_Boss_Act01_39_P,Wonderful.
+Mn017_Boss_Act01_40_Seble,You can't be s?! He locked the goddamn door!
+Mn017_Boss_Act01_41_Alexei,...You were right.
+Mn017_Boss_Act01_42_Seble,"I toldya, but I'm here too, so lotta good that did."
+Mn017_Boss_Act01_43_Alexei,"Not going to lay down here and wait, let's get out of here."
+Mn017_Boss_Act01_44_P,You guys are taking this well.
+Mn017_Boss_Act01_45_Seble,We are stuck with our options. Right now we gotta figure out what those are. You got your pickaxes?
+Mn017_Boss_Act01_46_Alexei,"I don't know how we got out of there. Thank you, newcomer. Never thought I could trust a stranger more than my boss."
+Mn017_Boss_Act01_47_Seble,"Everyone okay? Nobody get exposed, all feelin' alright? I don't know about you Alexi, but I don't think I've seen one that big before."
+Mn017_Boss_Act01_48_Alexei,"Not something I've seen, either. I need to talk to Tau, though."
+Mn017_Boss_Act01_49_Nar,(The door suddenly opens.)
+Mn017_Boss_Act01_50_Tau,I knew you could do it! You protected the mine! The camp is safe!
+Mn017_Boss_Act01_51_Nar,(Alexei stomps toward Mogorosi.)
+Mn017_Boss_Act01_52_Alexei,"What was that shit, Tau?! You were okay with us dying? Are you so greedy you don't even want to share survival?"
+Mn017_Boss_Act01_53_Tau,"You think I picked you two on accident?! We all know this mine is dangerous! For all we know your distraction is what let me get away to go find help and ensure the camp didn't get wiped out! You're alive, what's the fuckin' problem?!"
+Mn017_Boss_Act01_54_Alexei,"Where's the help, Tau?!"
+Mn017_Boss_Act01_55_Tau,"I am it, we don't have anyone else we can count on?look, we're proving our worth. We'll get this camp back in shape, and once we make it back to Earth and I'm accepted into the inner workings of TECC I'll make we're all properly rewarded for today."
+Mn017_Boss_Act01_56_Nar,"(Alexei's doesn't appear to be satisfied with the offer, but he crosses his arms and filters his expression. He looks off to the side as Tau continues to speak.)"
+Mn017_Boss_Act01_57_Tau,"We shouldn't sour the victory for the mine. Don't worry, we'll make things fair."
+Mn017_Boss_Act01_58_Tau,"And I'll make sure of it by calling for an assembly. We're going to discuss the new danger with the rest of the camp, and make it known that we're now doing the work of the guards as well."
+Mn017_Boss_Act01_59_Tau,"I think our value is obvious, everyone will agree that, naturally, we deserve some form of compensation."
+Mn017_Boss_Act01_60_Tau,"Consider this part of our deal?Alexei and Sebel have been here a while, but I got a feelin' something coming from you would get more attention. Be sure to come by the assembly area and explain what happened. We're all sure to profit. Well, then I'll get everyone to the Pub, and you'll be in a hurry."
+Sub002_BluePrint_01_Litzi,"Thank you! Oh, I almost forgot. Talk to Judith on your way out, I think she wants to talk to you."
+Sub002_BluePrint_01_David,"Oh, by the way I think Judith was looking for you. Perhaps it might be a good idea if you go and see her."
+Sub002_BluePrint_02_P,Judith...? You wanted to see me?
+Sub002_BluePrint_03_P,Were you looking for me?
+Sub002_BluePrint_04_Judith,"That's right, I have something to tell you, our brand new recruit. Have you heard about the item research from David?"
+Sub002_BluePrint_05_P,"Yes, I got the authority registered in my omniscope. I got the instruction on how to request task around the camp."
+Sub002_BluePrint_06_Judith,"And I hear you're helping Litzi with her job. Then you have probably visited the cave, right? How was it there?"
+Sub002_BluePrint_07_P,"It was really dark, and there were... some rough friends in there."
+Sub002_BluePrint_08_Judith,"Right. I heard they are pretty violent. It is probably not very safe to go there alone, especially if you are not prepared. Having said that, I might just have something that might help you."
+Sub002_BluePrint_09_Judith,This is something I thought about before... I came up with some blue prints containing ideas for various 'weapons' some time ago. We have security but they don't really care about us. We have to protect our ourselves in this desolate place right?
+Sub002_BluePrint_10_Judith,"Anyway, I didn't know where you were, so I placed them in your personal storage. Take a look at it sometime and request them to be researched. You may be able to get something out."
+Sub002_BluePrint_11_Judith,"If you happens to find any blue prints or items that may look like they are researchable, you can probably request them to be reseached in the future too. Of course, it's going to cost ya a little. Good Luck!"
+Sub002_BluePrint_11_Nar,(Several blue prints have been added to the supply's personal storage.)
+Sub002_BluePrint_12_P,(... so make a request on the production menu in the Omniscope? Got it.)
+Sub_Q_WormMeat_01_P,"I have some meat in my inventory."
+Sub_Q_WormMeat_02_P,"Maybe Alp can make use of some of this 'meat'"
+Sub_Q_WormMeat_03_P,"I thought you may want these."
+Sub_Q_WormMeat_04_Alp,"Oh? What is it?"
+Sub_Q_WormMeat_05_P,"I have some meat from the worms in the cave. What do you think? Can you do anything with it?"
+Sub_Q_WormMeat_06_Alp,"Oh... Worm meat! Why didn't I think of that? That's a great idea! I can certainly try to come up with something nice. Is there more? If you bring me more, I'll buy it at a good price. As a matter of fact, if you happen to find anything that remotely seems like it can be used as ingredients for a dish, I will take it off your hands at a good price."

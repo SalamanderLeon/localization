@@ -1,0 +1,251 @@
+Language,Default
+Needs_Food_01,Have the Munchies
+Needs_Food_02,Hungry
+Needs_Food_03,Empty Stomach
+Needs_Food_04,Famished
+Needs_Food_05,Starving to death
+Needs_Water_01,Dry Throat
+Needs_Water_02,Thirst
+Needs_Water_03,Need Water
+Needs_Water_04,Dehydrated
+Needs_Water_05,Dying of Thirst
+Needs_Tired_01,Sore
+Needs_Tired_02,Aching
+Needs_Tired_03,Fatigued
+Needs_Tired_04,Languor
+Needs_Tired_05,Exhausted
+Needs_Sleepness_01,Yawning
+Needs_Sleepness_02,Drowsy
+Needs_Sleepness_03,Sleepy
+Needs_Sleepness_04,Lethargic
+Needs_Sleepness_05,Mental Stupor
+Needs_LackOfOxygen_01,Short of Breath
+Needs_LackOfOxygen_02,Winded
+Needs_LackOfOxygen_03,Hypoxia
+Needs_LackOfOxygen_04,Oxygen Deprived
+Needs_LackOfOxygen_05,Suffocating
+Needs_Food_01_Desc,You have the munchies. You should grab something to eat.
+Needs_Food_02_Desc,"You're hungry, and feeling weaker from it."
+Needs_Food_03_Desc,Your stomach is growling. It wants food. Preferably now.
+Needs_Food_04_Desc,It feels like your stomach is eating itself. You should find something else for it to eat.
+Needs_Food_05_Desc,You're about to die of starvation. Hurry up and find food to eat!
+Needs_Water_01_Desc,You're throat feels a little dry. A little drink would be nice.
+Needs_Water_02_Desc,You're thirsty. It would be a good idea to drink water.
+Needs_Water_03_Desc,Drinking just about anything is starting to sound nice.
+Needs_Water_04_Desc,"You can feel the dehydration dragging you down, looking for anything to drink."
+Needs_Water_05_Desc,"If you don't want to die of thirst, drink *something* quickly."
+Needs_Tired_01_Desc,All of that physical labor has left you a bit sore. Maybe you should take a nap.
+Needs_Tired_02_Desc,Your body is aching from the constant strain. Some rest would be great.
+Needs_Tired_03_Desc,Everything hurts all the time. Your body needs rest.
+Needs_Tired_04_Desc,It feels like your body is ready to give up. A bed would be the best place to give up in.
+Needs_Tired_05_Desc,You will literally work yourself to death soon.
+Needs_Sleepness_01_Desc,You've been yawning and losing focus often lately. A nap would help.
+Needs_Sleepness_02_Desc,Your mind and body are slowing down. They need some sleep.
+Needs_Sleepness_03_Desc,Your eyelids are getting heavy. Finding a bed would be great.
+Needs_Sleepness_04_Desc,"Your whole body now feels heavier, too. It needs rest, and soon."
+Needs_Sleepness_05_Desc,You can barely think of anything but lying down and sleeping.
+Needs_LackOfOxygen_01_Desc,It feels difficult to breathe. You constantly feel out of breath.
+Needs_LackOfOxygen_02_Desc,You're so out of breath that it kind of hurts to breathe.
+Needs_LackOfOxygen_03_Desc,You're getting dizzy from lack of oxygen.
+Needs_LackOfOxygen_04_Desc,You're becoming delirous. You need to find some oxygen very soon.
+Needs_LackOfOxygen_05_Desc,"You're going to die from lack of oxygen! Find a canister, or a place with oxygen!"
+Needs_Ration,Hunger
+Needs_Ration_Desc,"You're hungry, and feeling weaker from it."
+State_Fracture_01,Sprain
+State_Fracture_02,Hairline Fracture
+State_Fracture_03,Broken Bones
+State_Fracture_01_Desc,One of your joints hurts terribly. It must be sprained.
+State_Fracture_02_Desc,There's a hairline fracture in one of your bones. You should take care of that before it worsens.
+Trait_Fracture_03_Desc,You definitely have a broken bone. You should probably take a look at it.
+State_Injuried_01,Cut
+State_Injuried_02,Laceration
+State_Injuried_03,Bleeding
+State_Injuried_04,Rupture
+State_Injuried_05,excessive bleeding
+State_Injuried_01_Desc,A little skin loss has revealed some vulnerable flesh.
+State_Injuried_02_Desc,Your flesh has a small laceration that's bleeding a bit.
+State_Injuried_03_Desc,"Your blood is flowing freely, but slowly, from an open wound."
+State_Injuried_04_Desc,The bleeding shows no signs of stopping. This needs treatment soon.
+State_Injuried_05_Desc,"It's just... pouring out. It's going to stop soon, though, one way or another."
+State_Poison_01,Light Poison
+State_Poison_02,Poison
+State_Poison_03,Serious Poison
+State_Poison_01_Desc,"You were mildly poisoned. Your body should eventually expel it, but it'll take a while. An antidote would help you recover faster."
+State_Poison_02_Desc,"You're feeling a bit woozy, somewhat light-headed, and poisoned."
+State_Poison_03_Desc,"There's more poison in your veins than blood. You should get an antidote in there."
+State_Down,Down
+State_Down_Desc,"It's down state. Movement and attack are impossible."
+State_Burn_01,Light Burn
+State_Burn_01_Desc,"You've been burned. Your flesh is sensitive and discolored."
+State_Burn_02,Burn
+State_Burn_02_Desc,"A flame is actively eating away at your flesh. You should take care of that soon."
+State_Burn_03,Serious Burn
+State_Burn_03_Desc,"Your whole body is on fire! Don't just stand there! Do something!"
+State_Cold_01,Light Cold
+State_Cold_02,Cold
+State_Cold_03,Serious Cold
+State_Cold_01_Desc,"You're feeling pretty cold, and even a bit less agile."
+State_Cold_02_Desc,"You're so cold that your skin is turning blue."
+State_Cold_03_Desc,"You can't feel anything at all. You need to warm up immediately."
+State_Acid_01,Light Acid
+State_Acid_02,Acid
+State_Acid_03,Serious Acid
+State_Acid_01_Desc,"There's acid on your body and it's eating away at your equipment (or flesh). You should look for something to neutralize it."
+State_Acid_02_Desc,"You have acid covering a lot of your body. Your maintenance costs are skyrocketing."
+State_Acid_03_Desc,"You're practically soaked in acid. You need to neutralize it."
+Restore_Food_Key,Eat Food
+Restore_Food_Desc_Key,Hunger is disappearing because you ate food.
+Restore_Water_Desc_Key,Thirst is disappearing because you drank water.
+Restore_Health_Desc_Key,Your health is recovering faster than usual.
+FractureDamage,Fracture Damage
+OHM_P_Mastery,One-Handed Melee Mastery
+OHM_P_Mastery_Desc,"While using a One-Handed Melee Weapon, your 'Melee Accuracy','Dodge Chance' is increased and your 'Fumble Chnace' is Decreased."
+OHM_P_CounterAttack,Counter Attack
+OHM_P_CounterAttack_Desc,"Prepares for a chance to counter-attack."
+OHM_P_Block,Shield Mastery
+OHM_P_Block_Desc,"While using a Shield, your blocks are more frequent and reduce more damage."
+OHM_P_Block_Desc_001,<sprite name="blockChance_Icon"><#a5eaff>Block Chance + 3%</color>\n<sprite name="blockPower_Icon"><#a5eaff>Block Power + 3</color>
+OHM_P_Block_Desc_002,<sprite name="blockChance_Icon"><#a5eaff>Block Chance + 7%</color>\n<sprite name="blockPower_Icon"><#a5eaff>Block Power + 5</color>
+OHM_P_Block_Desc_003,<sprite name="blockChance_Icon"><#a5eaff>Block Chance + 11</color>\n<sprite name="blockPower_Icon"><#a5eaff>Block Power + 7</color>
+OHM_A_ShieldAttack,Shield Bash
+OHM_A_ShieldAttack_Desc,"Bash your shield into your target, with additional chance to Stun it."
+OHM_A_ShieldAttack_Desc_001,<sprite name="Damage_Icon"><#a5eaff>Decrease Min~Max Damage by 70%</color>\n<sprite name="MeleeAccuracy_Icon"><#a5eaff>Melee Accuracy +10%</color>\n<sprite name="Stun_icon"></font><#a5eaff>Min~Max Knock-back Damage +9~14</color>\nEffect : Target <sprite name="Stun_icon">Stun for 1 turn
+OHM_A_ShieldAttack_Desc_002,<sprite name="Damage_Icon"><#a5eaff>Decrease Min~Max Damage by 55%</color>\n<sprite name="MeleeAccuracy_Icon"><#a5eaff>Melee Accuracy +12%</color>\n<sprite name="Stun_icon"></font><#a5eaff>Min~Max Knock-back Damage +12~17</color>\nEffect : Target <sprite name="Stun_icon">Stun for 1 turn
+OHM_A_ShieldAttack_Desc_003,<sprite name="Damage_Icon"><#a5eaff>Decrease Min~Max Damage by 40%</color>\n<sprite name="MeleeAccuracy_Icon"><#a5eaff>Melee Accuracy +15%</color>\n<sprite name="Stun_icon"></font><#a5eaff>Min~Max Knock-back Damage +15~21</color>\nEffect : Target <sprite name="Stun_icon">Stun for 2 turn
+OHM_A_CombinationAttack,Dash Combo
+OHM_A_CombinationAttack_Desc,"Dash towards your target and strike it several times."
+OHM_A_CombinationAttack_Desc_001,<sprite name="Damage_Icon"></font><#a5eaff>Decrease Min~Max Damage by 30% Per Attack</color>\n\nMove Distance : 2 Tile\n\nAttack count : 2 times.
+OHM_A_CombinationAttack_Desc_002,<sprite name="Damage_Icon"></font><#a5eaff>Decrease Min~Max Damage by 25% Per Attack</color>\n\nMove Distance : 2 Tile\n\nAttack count : 3 times.
+OHM_A_CombinationAttack_Desc_003,<sprite name="Damage_Icon"></font><#a5eaff>Decrease Min~Max Damage by 20% Per Attack</color>\n\nMove Distance : 3 Tile\n\nAttack count : 3 times.
+OHM_A_CombinationAttack_Desc_004,<sprite name="Damage_Icon"></font><#a5eaff>Min~Max Damage No Change</color>\n\nMove Distance : 3 Tile\n\nAttack count : 4 times.
+OHM_A_SawshankBoomerang,Sawshank Boomerang
+OHM_A_SawshankBoomerang_Desc,Sawshank Boomerang.
+OHM_B_ReadyToCounter,Counter Stance
+OHM_B_ReadyToCounter_Desc,"Prepare yourself to counter incoming attacks for a few turns."
+OHM_B_ReadyToCounter_Desc_001,<sprite name="Counter_Icon"><#a5eaff> Counter Chnace +50% </color>\n  Duration : 2 Turn
+OHM_B_ReadyToCounter_Desc_002,<sprite name="Counter_Icon"><#a5eaff> Counter Chance +70% </color>\n  Duration : 2 Turn
+OHM_B_ReadyToCounter_Desc_003,<sprite name="Counter_Icon"><#a5eaff> Counter Chance +90% </color>\n  Duration : 2 Turn
+OHM_B_ChargedAttack,Proper Footing
+OHM_B_ChargedAttack_Desc,"Adjust your posture so you can put more force and direction into your swings without losing balance."
+OHM_B_ChargedAttack_Desc_001,<font="DefaultFont"><sprite name="Damage_Icon"></font><#a5eaff>Increase Min~Max Damage by 90%</color>\n<font="DefaultFont"><sprite name="CriticalChance_Icon"></font><#a5eaff>Critical Chance +20%</color>
+OHM_B_ChargedAttack_Desc_002,<font="DefaultFont"><sprite name="Damage_Icon"></font><#a5eaff>Increase Min~Max Damage by 110%</color>\n<font="DefaultFont"><sprite name="CriticalChance_Icon"></font><#a5eaff>Critical Chance +50%</color>
+THM_P_Mastery,Two-Handed Melee Mastery
+THM_P_Mastery_Desc,"While using a Two-Handed Melee Weapon, your 'Melee Accuracy','criticalChance','Melee Critical Efficiency' is increased."
+THM_P_Club,Club Expert
+THM_P_Club_Desc,Club Expert
+THM_P_Tension,Adrenaline Rush
+THM_P_Tension_Desc,"Immediately prepares your body for a fight with a quick dose of adrenaline, as well as briefly improving your attacks."
+THM_P_Tension_Desc_001,<sprite name="maxAdrenaline_Icon"><#a5eaff>Aderenaline +3 Per Kill</color>
+THM_P_Tension_Desc_002,<sprite name="maxAdrenaline_Icon"><#a5eaff>Aderenaline +4 Per Kill</color>
+THM_P_Tension_Desc_003,<sprite name="maxAdrenaline_Icon"><#a5eaff>Aderenaline +5 Per Kill</color>
+THM_A_HitHard,Stunning Strike
+THM_A_HitHard_Desc,"Strike the target with full force, with additional chance to Stun it."
+THM_A_HitHard_Desc_001,<sprite name="Damage_Icon"><#a5eaff>Increase Min~Max Damage by 80%</color>\nEffect : Target <sprite name="Stun_icon">Stun for 1 turn (Chance 50%)
+THM_A_HitHard_Desc_002,<sprite name="Damage_Icon"><#a5eaff>Increase Min~Max Damage by 120%</color>\nEffect : Target <sprite name="Stun_icon">Stun for 1 turn (Chance 70%)
+THM_A_BigSwing,Sweeping Swing
+THM_A_BigSwing_Desc,"Sweep your weapon around you to hit everything immediately surrounding you."
+THM_A_BigSwing_Desc_001,<sprite name="Damage_Icon"><#a5eaff>Increase Min~Max Damage by 10%</color>\n\nArea : adjacent 3 tile
+THM_A_BigSwing_Desc_002,<sprite name="Damage_Icon"><#a5eaff>Increase Min~Max Damage by 20%</color>\n\nArea : adjacent 3 tile
+THM_A_BigSwing_Desc_003,<sprite name="Damage_Icon"><#a5eaff>Increase Min~Max Damage by 30%</color>\n\nArea : adjacent 3 tile
+THM_A_LeapSwing,Leap Swing
+THM_A_LeapSwing_Desc,Leap Swing
+OHR_P_Mastery,Pistol Mastery
+OHR_P_Mastery_Desc,"While using a Pistol Weapon, your 'Range Accuracy', 'Critical Chance' is increased and 'Fumble Chance' is decreased."
+OHR_P_Reload,Reload Trick
+OHR_P_Reload_Desc,"When loading a bullet, use trickery to load more."
+OHR_A_Target,Target On
+OHR_A_Target_Desc,Target and fire accurately.
+OHR_A_MovingShot,Outlaw of Titan
+OHR_A_MovingShot_Desc,"After attacking multiple targets, move to another tile."
+OHR_A_MovingShot_Desc_001,<sprite name="RangeAccuracy_Icon"><#a5eaff>Range Accuracy +4%</color>\nMax Attack Count : 2\nMove Distance : 1
+OHR_A_MovingShot_Desc_002,<sprite name="RangeAccuracy_Icon"><#a5eaff>Range Accuracy +7%</color>\nMax Attack Count : 3\nMove Distance : 1
+OHR_A_MovingShot_Desc_003,<sprite name="RangeAccuracy_Icon"><#a5eaff>Range Accuracy +10%</color>\nMax Attack Count : 4\nMove Distance : 1
+OHR_A_ChainBullet,Chain Bullet
+OHR_A_ChainBullet_Desc,Chain Bullet
+OHR_A_LastShot,Last Shot
+OHR_A_LastShot_Desc,Last Shot
+OHR_B_Hero,Main Character
+OHR_B_Hero_Desc,The main character survives the enemy's attack.
+THR_P_Mastery,Rifle Mastery
+THR_P_Mastery_Desc,"While using a Rifle Weapon, your 'Range Accuracy', 'Critical Chance', Range Critical Efficiency'  is increased."
+THR_P_Trigger,Bonus Trigger
+THR_P_Trigger_Desc,Bonus Trigger
+THR_P_AimingPoint,Aiming Point
+THR_P_AimingPoint_Desc,Aiming Point
+THR_B_Alert,Alert
+THR_B_Alert_Desc,Alert
+THR_A_Sinpe,Snipe
+THR_A_Sinpe_Desc,"Snipe the target. Even if the distance is long, the range accuracy does not decrease."
+THR_A_Sinpe_Desc_001,<sprite name="Damage_Icon"><#a5eaff>Increase Damage by 110%</color>\n<sprite name="RangeAccuracy_Icon"><#a5eaff>Range Accuracy +10%</color>
+THR_A_Sinpe_Desc_002,<sprite name="Damage_Icon"><#a5eaff>Increase Damage by 130%</color>\n<sprite name="RangeAccuracy_Icon"><#a5eaff>Range Accuracy +15%</color>
+THR_A_Sinpe_Desc_003,<sprite name="Damage_Icon"><#a5eaff>Increase Damage by 150%</color>\n<sprite name="RangeAccuracy_Icon"><#a5eaff>Range Accuracy +20%</color>
+THR_A_BurstShot,Burst Shot
+THR_A_BurstShot_Desc,Fire multiple bullets quickly.
+THR_A_BurstShot_Desc_001,<sprite name="Damage_Icon"><#a5eaff>Increase Damage by 10%</color>\n\nAttack count : 4 times.
+THR_A_BurstShot_Desc_002,<sprite name="Damage_Icon"><#a5eaff>Increase Damage by 20%</color>\n\nAttack count : 4 times.
+THR_A_BurstShot_Desc_003,<sprite name="Damage_Icon"><#a5eaff>Increase Damage by 30%</color>\n\nAttack count : 4 times.
+THR_A_EmptyMagazine,Empty Magazine
+THR_A_EmptyMagazine_Desc,Empty Magazine
+Bow_P_Mastery,Bow Mastery
+Bow_P_Mastery_Desc,"While using a Bow Weapon, your 'Range Accuracy', 'Range Critical Efficiency' is increased and 'fumble Chnace' is decreased."
+Bow_P_TrimmingArrow,Aim For The Soft Parts
+Bow_P_TrimmingArrow_Desc,"Learn the limits of your arrows, so that you can salvage them more often after firing them."
+Bow_P_Hunter,The Hunter
+Bow_P_Hunter_Desc,A smart hunter targets the weakness of the prey.
+Bow_P_Hunter_Desc_001,<sprite name="Injury_Icon_0"><#a5eaff>Min~Max Injuried Damage +2~3</color>\n<sprite name="Fracture_Icon_0"><#a5eaff>Min~Max fracture Damage +1~4</color>
+Bow_P_Hunter_Desc_002,<sprite name="Injury_Icon_0"><#a5eaff>Min~Max Injuried Damage +3~4</color>\n<sprite name="Fracture_Icon_0"><#a5eaff>Min~Max fracture Damage +2~5</color>
+Bow_P_Hunter_Desc_003,<sprite name="Injury_Icon_0"><#a5eaff>Min~Max Injuried Damage +4~5</color>\n<sprite name="Fracture_Icon_0"><#a5eaff>Min~Max fracture Damage +3~6</color>
+Bow_A_MultipleShot,Multishot
+Bow_A_MultipleShot_Desc,"Nock several arrows at once and fire them at the same time at your target."
+Bow_A_MultipleShot_Desc_001,<sprite name="Damage_Icon"><#a5eaff>Increase Damage by 170%</color>\n<sprite name="RangeAccuracy_Icon"><#a5eaff>Range Accuracy -10%</color>
+Bow_A_MultipleShot_Desc_002,<sprite name="Damage_Icon"><#a5eaff>Increase Damage by 190%</color>\n<sprite name="RangeAccuracy_Icon"><#a5eaff>Range Accuracy -8%</color>
+Bow_A_MultipleShot_Desc_003,<sprite name="Damage_Icon"><#a5eaff>Increase Damage by 210%</color>\n<sprite name="RangeAccuracy_Icon"><#a5eaff>Range Accuracy -5%</color>
+Bow_A_AimLeg,"Aim For The Legs"
+Bow_A_AimLeg_Desc,"Aim for the legs, with a chance of inflicting a serious leg injury and limiting your target's movement."
+Bow_A_AimLeg_Desc_001,[Effect]\n-Target <sprite name="Leg_Fracture_State_Icon">Damaged Leg for 2 turn(Move Disabled Chance +50%)
+Bow_A_AimLeg_Desc_002,[Effect]\n-Target <sprite name="Leg_Fracture_State_Icon">Damaged Leg for 3 turn(Move Disabled Chance +60%)
+Bow_A_AimLeg_Desc_003,[Effect]\n-Target <sprite name="Leg_Fracture_State_Icon">Damaged Leg for 4 turn(Move Disabled Chance +70%)
+Bow_A_TraceArrow,Trace Arrow
+Bow_A_TraceArrow_Desc,Multiple Shot
+Bow_A_ArrowRain,Bow_A_ArrowRain
+Bow_A_ArrowRain_Desc,Bow_A_ArrowRain
+Nano_B_NanoStimulation,Recovery Protocol
+Nano_B_NanoStimulation_Desc,"Activate the nanobots in your body to make them repair your injuries."
+Restore_Water_Key,Drink Water
+Restore_Health_Key,Restore Health
+Trait_Antidotes,Antidotes
+Trait_Antidotes_Desc,It treats poison with antidote.
+Trait_EnergyDrink,EnergyDrink
+Trait_EnergyDrink_Desc,EnergyDrink
+Trait_Nano_Charger,Nano_Charger
+Trait_Nano_Charger_Desc,Nano_Charger
+Trait_Nano_Medicine,Nano_Medicine
+Trait_Nano_Medicine_Desc,Nano_Medicine
+Trait_Neutrallzer,Neutrallzer
+Trait_Neutrallzer_Desc,Neutrallzer
+Trait_RepairKit,RepairKit
+Trait_RepairKit_Desc,RepairKit
+Trait_Splint,Splint
+Trait_Splint_Desc,Fix the broken bone with a splint.
+Trait_Stimulant,Stimulant
+Trait_Stimulant_Desc,Stimulant
+Trait_WardCharger,WardCharger
+Trait_WardCharger_Desc,WardCharger
+Trait_Bandage,Bandage
+Trait_Bandage_Desc,Stop the wound with a bandage.
+Phy_Adrenaline,Adrenaline
+Phy_Adrenaline_Desc,"Generate Adrenaline whenever you attack, are attacked, or kill something. While you have more than 50% Adrenaline, your combat abilities and fatigue are increased."
+Phy_Adrenaline_Stat_Desc,<sprite name="maxAdrenaline_Icon"><#a5eaff>Adrenaline (Melee +3 / Range +2)</color> Per Attack\n<sprite name="maxAdrenaline_Icon"><#a5eaff>Adrenaline +2</color> Per Hit\n<sprite name="maxAdrenaline_Icon"><#a5eaff> Adrenaline +4</color> Per Kill\n[ If Non-Combat ] <sprite name="maxAdrenaline_Icon"><#a5eaff> Adrenaline -0.25 </color> Per Turn\n[ If <sprite name="maxAdrenaline_Icon">Adrenaline greater than 50 ]\n><sprite name="Tired_Attribute_Icon"><#e91c1c> Tired +0.25%</color> Per Turn\n<sprite name="MeleeAccuracy_Icon"><#a5eaff> Melee Accuracy +3%</color>\n<sprite name="RangeAccuracy_Icon"><#a5eaff> Range Accuracy +2%</color>\n<sprite name="Fumble_Icon"><#a5eaff> Fumble Chance -3%</color>
+Trait_Disorient,Confusion
+Trait_Disorient_Desc,Causes random direction movement based on random probability chance.
+Trait_Test_Original,Steel Shoulder
+Trait_Test_Son,Steel Punch
+Phy_UnarmedDamage,Unarmed Attack
+Phy_UnarmedDamage_Desc,"Damage while not equiped with any weapons."
+Phy_UnarmedDamage_Desc_001,<sprite name="Damage_Icon"><#a5eaff>Min~Max Physical Damage +2~8</color>
+Trait_Stun,Stun
+Trait_Stun_Desc,"That last attack really dazed you. You might need another one to get your senses back."
+Trait_Concentration,Concentration
+Trait_Concentration_Desc,"Adrenaline flows through your body and the world seems much sharper."
+Trait_LegFracture,Damaged Leg
+Trait_LegFracture_Desc,"Your leg has a serious and painful injury. It's awfully inconvenient and makes walking somewhat difficult."

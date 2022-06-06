@@ -1,0 +1,74 @@
+Language,Default
+Sector_HuygenCamp,Huygen Camp
+Sector_HuygenCave,Huygen Cave
+Sector_HuygenMine,Huygen Mine
+Sector_HuygenCity,Huygen City
+Sector_Headquarter,Headquarter
+Sector_B01,Sector [B01]
+Sector_B02,Sector [B02]
+Sector_B03,Sector [B03]
+Sector_B04,Sector [B04]
+Sector_B05,Sector [B05]
+Sector_B06,Sector [B06]
+Sector_B07,Sector [B07]
+Sector_B08,Sector [B08]
+Sector_B09,Sector [B09]
+Sector_B10,Sector [B10]
+Elevator_01,Lift
+AirShip_01,Airship [Ground]
+Communication_01,Coms Facility [Ground]
+Engineering_01,Engineering [Ground]
+Farm_01,Farm [Ground]
+Generator_01,Generator [B01]
+Hub_01,Hub [Ground]
+Medical_01,Clinic [B01]
+Medical_02,Clinic [B02]
+MineControl_01,Mine Control [Ground]
+MineControl_Surface_01,Mine Control Extrance [Ground]
+MineControl_BossRoom,Mine Extrance [Ground]
+Pub_01,Pub [B01]
+Pub_02,Pub Supply [B02]
+Residential_01,Residential [B01]
+Residential_02,Residential [B02]
+Residential_03,Residential [B03]
+Supply_01,Supply B01
+WaterStation_01,Water Station [Ground]
+Cave_B1_A,Cave [B01 : Area A]
+Cave_B1_B,Cave [B01 : Area B]
+Cave_B2_A,Cave [B02 : Area A]
+Cave_B2_B,Cave [B02 : Area B]
+Mine_B1_A,Mine [B01 : Area A]
+Settlement,Settlement [Ground]
+ReactorRoom_01,Reactor Facility [B02]
+B01_C_01,Old Residential A [B01]
+B01_C_02,Mine A Entrance [B01]
+B01_C_03,Old Residential B [B01]
+B01_R_01,Mine A-1 Area [B01]
+B01_R_02,Mine A-2 Area [B01]
+B01_R_03,Mine A-3 Area [B01]
+B02_C_01,Old Leisure [B02]
+B02_C_02,Mine B Area [B02]
+B02_C_03,Old Garden [B02]
+B02_C_04,"Swimming Pool [B02]"
+B02_C_05,"Underground Pass [B02]"
+B02_R_01,Mine B-1 Area [B02]
+B02_R_02,Mine B-2 Area [B02]
+B02_R_03,Mine B-3 Area [B02]
+B03_R_01,Underground Farm A [B03]
+B03_R_02,UndergroundFarm B [B03]
+B03_C_01,Workshop
+B03_C_02,Market
+B03_L_01,Mine C-1 Area [B03]
+B03_L_02,Mine C-2 Area [B03]
+B04_L_01,Mine D-1 Area [B04]
+B04_L_02,Mine D-2 Area [B04]
+B04_C_01,Medical Facility
+B04_C_03,Mine Passage [B04]
+B04_R_01,Mine D-3 Area [B04]
+B04_R_02,Mine D-4 Area [B04]
+B04_R_03,Mine D-5 Area [B04]
+B05_R_01,Mine E-1 Area [B05]
+B05_R_02,Mine E-2 Area [B05]
+B05_C_01,Control Center Back Entrance
+B05_C_02,Control Center
+B05_C_03,Miner's Residence
