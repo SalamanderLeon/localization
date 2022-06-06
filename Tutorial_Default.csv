@@ -45,9 +45,9 @@ Tutorial_Oxygen_AI_002,<color=TUTORIAL>You can check the levels of oxygen right 
 Tutorial_Oxygen_AI_003,"<color=TUTORIAL>In areas where oxygen is less than 70%, the player's oxygen decreases. Certain negative conditions can occur due to lack of oxygen.</color>"
 Tutorial_Oxygen_AI_004,<color=TUTORIAL>You can mount oxygen items in the inventory. Oxygen items slow down the player's oxygen loss.</color>
 Tutorial_Oxygen_AI_005,<color=TUTORIAL>Oxygen items can be purchased through Omniscope's Craft UI to 'Tagart Judith' or through direct transactions.</color>
-Tutorial002_01_Nar,"( It's very dark inside the cave, so you can barely see the things that are close by. )"
+Tutorial002_01_Nar,"(It's very dark inside the cave, so you can barely see the things that are close by.)"
 Tutorial002_02_P,It's too dark around here...
-Tutorial002_03_Nar,( AI Cassini appears on your lens. )
+Tutorial002_03_Nar,(AI Cassini appears on your lens.)
 Tutorial002_04_AI,"Warning, there is not enough light to detect the surroundings.\n\nReview the appropriate measures.\n[Suggestion]\n-Equip 'Lamp' and 'Battery'.\n\nFind the targets that are more likely to have lamps and batteries in the Huygen camp.\n[Search Results]\n-Lamp : Judith Taggart\n-Battery : Litzi vogl"
 Tutorial002_05_P,"If I find these two, I can get a lamp and a battery, right?"
 Tutorial002_06_P,Can I get a 'lamp' by any chance?
@@ -61,18 +61,18 @@ Tutorial002_17_P,Can I get a 'battery' by any chance?
 Tutorial002_18_Litzi,"Battery? I do have one, but why? I'm busy. Can you tell me?"
 Tutorial002_19_P,I have to go into a cave. Can I borrow it?
 Tutorial002_20_Litzi,"I wish I could get you some minerals on the way. I'll give you one anyway, so can you go? I'm pretty busy at work. Oh, and there's not much left, so if you need it, bring the ingredients and credits and ask for Production."
-Tutorial002_20_Nar,( You got a battery. )
+Tutorial002_20_Nar,(You got a battery.)
 Tutorial002_21_P,You want me to ask for production? Can you ask for other things?
 Tutorial002_22_Litzi,"Oh, don't you have the access to produce it yet? Then would you like to visit David at the supply station first?"
 Tutorial002_23_Litzi,"And it's not a lot, but if you're in a hurry, you'll be able to buy a battery with credit."
 Tutorial002_24_AI,Rich Vogel's trading capability has been activated.
-Tutorial003_01_Nar,"( Entering the depths of the cave, You feel stuffy breathing without knowing anything. )"
-Tutorial003_02_Nar,( AI Cassini appears on your lens. )
+Tutorial003_01_Nar,"(Entering the depths of the cave, You feel stuffy breathing without knowing anything.)"
+Tutorial003_02_Nar,(AI Cassini appears on your lens.)
 Tutorial003_03_AI,"<color=TUTORIAL>Warning, Oxygen concentration is low.\nIf you stay in the current area for a long time, you may experience oxygen deficiency.\n\nReview the appropriate measures.\n[Suggestion]\n- Please leave the current area or wear an oxygen canister.\n\nDetermine which targets are more likely to have an oxygen canister in subhunts camp.\n[Calculation Results]\n- Oxygen Canister: Running Wolf Earle</color>"
 Tutorial003_04_P,Does Judith have an oxygen canister?
 Tutorial003_05_P,Can I get an oxygen canister?
 Tutorial003_06_Wolf,"Canister? Alas, I used to make that stuff. I haven't made a whole bottle lately. There's not much left, but I think I can give you one. We don't have enough ingredients, so we'll have to bring the ingredients to make it for you later."
-Tutorial003_07_Nar,( You get an oxygen canister. )
+Tutorial003_07_Nar,(You get an oxygen canister.)
 Tutorial003_08_P,Production? What else can you produce?
 Tutorial003_09_Wolf,"Haven't you produced anything yet? Then first, go to David at the supply station and get the production access."
 Tutorial003_10_Wolf,"And if you have enough credit, I can sell things I have."
@@ -81,7 +81,7 @@ Tutorial004_01_P,I was told to go to you for production rights.
 Tutorial004_02_David,"Oh, come to think of it, the camp needed access to request production. I've never given the others new access, so I forgot, but I was in authority of them. Haha... what's your Omniscope ID?"
 Tutorial004_03_P,uh...It's 24601.
 Tutorial004_04_David,wait... I will update the authority first and let you know how to use it.
-Tutorial004_05_Nar,( Information about the production of the item is sent to Omniscope. )
+Tutorial004_05_Nar,(Information about the production of the item is sent to Omniscope.)
 Tutorial004_06_AI,"<color=TUTORIAL>Information on [Research, craft, Recycling] of the Huygen camp has been updated. </color>"
 Tutorial004_07_AI,"<color=TUTORIAL>You can put things in a personal storage in a supply facility and request to research, manufacture, and decompose items. </color>"
 Tutorial004_08_AI,"<color=TUTORIAL>For more information, see [Journal - Cassini - Production.]</color>"

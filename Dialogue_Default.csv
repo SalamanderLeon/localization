@@ -364,9 +364,9 @@ Mn017_Boss_Act01_08_Tau,Wait in my office. I'll go make some preparations.
 Mn017_Boss_Act01_09_Nar,(You wait in his office while he rounds up the other miners.)
 Mn017_Boss_Act01_10_Nar,(You contemplate the chances of success.)
 Mn017_Boss_Act01_11_Nar,(A man enters the room.)
-Mn017_Boss_Act01_12_Alexei,"...kin' Ta? Oh, there really is a newcomer. I'm Alexi. Supervisor Mogorosi says you are a crazy person with a death wish. Are you really going in?"
+Mn017_Boss_Act01_12_Alexei,"...kin' Ta? Oh, there really is a newcomer. I'm Alexei. Supervisor Mogorosi says you are a crazy person with a death wish. Are you really going in?"
 Mn017_Boss_Act01_13_P,"Seems everything points there, and I keep getting told it's gotta be done. Lead the way."
-Mn017_Boss_Act01_14_Nar,(Alexi waves you on. You follow.)
+Mn017_Boss_Act01_14_Nar,(Alexei waves you on. You follow.)
 Mn017_Boss_Act01_15_Alexei,"The Super rope you in too, Seble?"
 Mn017_Boss_Act01_16_Seble,"Rope in' nothin', man thinks with his wallet first! Says he values his people but the credits are the last thing he'd sacrifice. That's no way to run an operation, you know that. No foolin' neither, this fella may be the only one to get any real work done, an' we been here sittin' long enough."
 Mn017_Boss_Act01_17_Alexei,"You're tellin' me? My boots are worn through. 'Don't need them for the drone', he says. Heh. Okay."
@@ -397,7 +397,7 @@ Mn017_Boss_Act01_43_Alexei,"Not going to lay down here and wait, let's get out o
 Mn017_Boss_Act01_44_P,You guys are taking this well.
 Mn017_Boss_Act01_45_Seble,We are stuck with our options. Right now we gotta figure out what those are. You got your pickaxes?
 Mn017_Boss_Act01_46_Alexei,"I don't know how we got out of there. Thank you, newcomer. Never thought I could trust a stranger more than my boss."
-Mn017_Boss_Act01_47_Seble,"Everyone okay? Nobody get exposed, all feelin' alright? I don't know about you Alexi, but I don't think I've seen one that big before."
+Mn017_Boss_Act01_47_Seble,"Everyone okay? Nobody get exposed, all feelin' alright? I don't know about you Alexei, but I don't think I've seen one that big before."
 Mn017_Boss_Act01_48_Alexei,"Not something I've seen, either. I need to talk to Tau, though."
 Mn017_Boss_Act01_49_Nar,(The door suddenly opens.)
 Mn017_Boss_Act01_50_Tau,I knew you could do it! You protected the mine! The camp is safe!
