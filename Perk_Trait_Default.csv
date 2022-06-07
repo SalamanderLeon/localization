@@ -108,7 +108,7 @@ OHM_P_Block_Desc_001,<sprite name="blockChance_Icon"><#a5eaff>Block Chance + 3%<
 OHM_P_Block_Desc_002,<sprite name="blockChance_Icon"><#a5eaff>Block Chance + 7%</color>\n<sprite name="blockPower_Icon"><#a5eaff>Block Power + 5</color>
 OHM_P_Block_Desc_003,<sprite name="blockChance_Icon"><#a5eaff>Block Chance + 11</color>\n<sprite name="blockPower_Icon"><#a5eaff>Block Power + 7</color>
 OHM_A_ShieldAttack,Shield Bash
-OHM_A_ShieldAttack_Desc,"Bash your shield into your target, with additional chance to Stun it."
+OHM_A_ShieldAttack_Desc,"Bash your shield into your target, with a chance to Stun it."
 OHM_A_ShieldAttack_Desc_001,<sprite name="Damage_Icon"><#a5eaff>Decrease Min~Max Damage by 70%</color>\n<sprite name="MeleeAccuracy_Icon"><#a5eaff>Melee Accuracy +10%</color>\n<sprite name="Stun_icon"></font><#a5eaff>Min~Max Knock-back Damage +9~14</color>\nEffect : Target <sprite name="Stun_icon">Stun for 1 turn
 OHM_A_ShieldAttack_Desc_002,<sprite name="Damage_Icon"><#a5eaff>Decrease Min~Max Damage by 55%</color>\n<sprite name="MeleeAccuracy_Icon"><#a5eaff>Melee Accuracy +12%</color>\n<sprite name="Stun_icon"></font><#a5eaff>Min~Max Knock-back Damage +12~17</color>\nEffect : Target <sprite name="Stun_icon">Stun for 1 turn
 OHM_A_ShieldAttack_Desc_003,<sprite name="Damage_Icon"><#a5eaff>Decrease Min~Max Damage by 40%</color>\n<sprite name="MeleeAccuracy_Icon"><#a5eaff>Melee Accuracy +15%</color>\n<sprite name="Stun_icon"></font><#a5eaff>Min~Max Knock-back Damage +15~21</color>\nEffect : Target <sprite name="Stun_icon">Stun for 2 turn
@@ -139,7 +139,7 @@ THM_P_Tension_Desc_001,<sprite name="maxAdrenaline_Icon"><#a5eaff>Aderenaline +3
 THM_P_Tension_Desc_002,<sprite name="maxAdrenaline_Icon"><#a5eaff>Aderenaline +4 Per Kill</color>
 THM_P_Tension_Desc_003,<sprite name="maxAdrenaline_Icon"><#a5eaff>Aderenaline +5 Per Kill</color>
 THM_A_HitHard,Stunning Strike
-THM_A_HitHard_Desc,"Strike the target with full force, with additional chance to Stun it."
+THM_A_HitHard_Desc,"Strike the target with full force, with a chance to Stun it."
 THM_A_HitHard_Desc_001,<sprite name="Damage_Icon"><#a5eaff>Increase Min~Max Damage by 80%</color>\nEffect : Target <sprite name="Stun_icon">Stun for 1 turn (Chance 50%)
 THM_A_HitHard_Desc_002,<sprite name="Damage_Icon"><#a5eaff>Increase Min~Max Damage by 120%</color>\nEffect : Target <sprite name="Stun_icon">Stun for 1 turn (Chance 70%)
 THM_A_BigSwing,Sweeping Swing
