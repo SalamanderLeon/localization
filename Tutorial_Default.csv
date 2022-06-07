@@ -48,7 +48,7 @@ Tutorial_Oxygen_AI_005,<color=TUTORIAL>Oxygen items can be purchased through Omn
 Tutorial002_01_Nar,"(It's very dark inside the cave, so you can barely see the things that are close by.)"
 Tutorial002_02_P,It's too dark around here...
 Tutorial002_03_Nar,(AI Cassini appears on your lens.)
-Tutorial002_04_AI,"Warning, there is not enough light to detect the surroundings.\n\nReview the appropriate measures.\n[Suggestion]\n-Equip 'Lamp' and 'Battery'.\n\nFind the targets that are most likely to have lamps and batteries in the Huygen Camp.\n[Search Results]\n-Lamp : Judith Taggart\n-Battery : Litzi vogl"
+Tutorial002_04_AI,"Warning, there is not enough light to detect the surroundings.\n\nReview the appropriate measures.\n[Suggestion]\n-Equip 'Lamp' and 'Battery'.\n\nFind the targets that are most likely to have lamps and batteries in the Huygens Camp.\n[Search Results]\n-Lamp : Judith Taggart\n-Battery : Litzi vogl"
 Tutorial002_05_P,"If I find these two, I can get a lamp and a battery, right?"
 Tutorial002_06_P,Can I get a lamp by any chance?
 Tutorial002_07_Judith,"I do have one, it’s not new but I can give it to you for free. Since it’s not a very relaxed situation here If you need any more In the future you’ll have to bring me the ingredients and credits if necessary and then I can make you one."
@@ -82,7 +82,7 @@ Tutorial004_02_David,"Oh, come to think of it, the camp needed access to request
 Tutorial004_03_P,uh...It's 24601.
 Tutorial004_04_David,wait... I will update the authority first and let you know how to use it.
 Tutorial004_05_Nar,(Information about the production of the item is sent to Omniscope.)
-Tutorial004_06_AI,"<color=TUTORIAL>Information on [Research, craft, Recycling] of the Huygen Camp has been updated. </color>"
+Tutorial004_06_AI,"<color=TUTORIAL>Information on [Research, craft, Recycling] of the Huygens Camp has been updated. </color>"
 Tutorial004_07_AI,"<color=TUTORIAL>You can put things in a personal storage in a supply facility and request to research, manufacture, and decompose items. </color>"
 Tutorial004_08_AI,"<color=TUTORIAL>For more information, see [Journal - Cassini - Production.]</color>"
 Tutorial004_09_David,New information would have been updated. I'll explain it to you.
@@ -106,7 +106,7 @@ Hud_UI_Tutorial_Equipment,"<color=#47C6CF>[Equipment Item Information]</color>\n
 Hud_UI_Tutorial_Oxygen,<color=#47C6CF>[Oxygen item]</color>\nDisplays information about your portable oxygen.\nYou can see the remainder of the oxygen in your equipped canister.
 Hud_UI_Tutorial_Lamp,<color=#47C6CF>[Lamp & Battery]</color>\nDisplays information about your lamp and battery.\nYou can check your remaining battery and if the lamp is on.
 Hud_UI_Tutorial_Durablity,"<color=#47C6CF>[Equipment Durability]</color>\nDisplays information about your equipped weapons and equipment, including their durability."
-Hud_UI_Tutorial_Ammo,<color=#47C6CF>[Weapon & Ammo]</color>\nDisplays information about the equipped weapon and any loaded ammo.
+Hud_UI_Tutorial_Ammo,<color=#47C6CF>[Weapon & Ammo]</color>\nDisplays information about the equipped weapon and any loaded ammo. Press ~ to swap equipped weapon.
 Hud_UI_Tutorial_TurnSkip,"<color=#47C6CF>[Skip Turn]</color>\nPressing this button, or the Spacebar on your keyboard, will skip your turn."
 
 Journal_NPC,<color=#47C6CF>[Journal : Character]</color>\nDisplays information about the people that you've met so far.
