@@ -105,15 +105,15 @@ FirstTalk_Wof_03_P,I'm Addison Thorpe. Holy place? This doesn't look like much o
 FirstTalk_Wof_04_Wolf,"Aha, not that kind. This is a well of life, where I remove all of the dangers in the water so that we can actually use it. Science helps with that, so that I know what chemicals to use. Let me know if you need some, by the way, not that they'll be free."
 FirstTalk_Wof_05_P,"Chemicals, huh? Is the local water that dangerous?"
 FirstTalk_Wof_06_Wolf,"I definitely wouldn't drink it, if I were you. We've even noticed it corroding one of our buildings. It doesn't help that I'm running out of chemicals to purify the water with, not to mention that SeoYeon is asking for even more water. I understand that a farm needs water, but with how limited the supply is, I have to make sure that no one is left out!"
-S001_Awaken_01_Nar,"(You drift, aimlessly through the dark expanse. You cannot feel nor hear; the movement that you appear to be seeing in the distance is indistinct, and subtle. Every moment feels circular, leading back to the last. Your thoughts are disjointed, separated.)"
+S001_Awaken_01_Nar,"(You drift aimlessly through the dark expanse. You cannot feel nor hear; the movement that you appear to be seeing in the distance is indistinct, and subtle. Every moment feels circular, leading back to the last. Your thoughts are disjointed, separated.)"
 S001_Awaken_01_Nar2,"(As you attempt to recollect how you got here, you have an epiphany: you've had an epiphany about this exact thought in the past.)"
 S001_Awaken_01_Nar3,"(You discover the concept of sound once again, as an overpowering whirring enters your ears. A jolt, and then a pulse, you begin to feel the beat in your core.)"
-S001_Awaken_01_Nar4,"(The face you've forgotten everything about regains sensation, and something forcibly detaches from your face. You begin to regain your vision. You somehow manage to utter a word.)"
+S001_Awaken_01_Nar4,"(The face you've forgotten everything about regains sensation, and something forcibly detaches from it. You begin to regain your vision. You somehow manage to utter a word.)"
 S001_Awaken_02_P,...W...w-where...?
 S001_Awaken_03_Nar,"(The metal around you reverberates. The machine hisses and ejects vapor as the container opens, the air feels warm to your skin as it floods into your vessel. A woman looks on with concern.)"
 S001_Awaken_04_Ida,...H-Hey! Are you... are you alive?
 S001_Awaken_05_P,...W-Where...?
-S001_Awaken_06_Ida,"You are in Campy Huygens, Titan, of course. Hopefully that's not a surprise. This is our clinic, and you, my friend, have just been awaken from stasis."
+S001_Awaken_06_Ida,"You are in Camp Huygen, Titan, of course. Hopefully that's not a surprise. This is our clinic, and you, my friend, have just been awoken from stasis."
 S001_Awaken_07_Ida,"I know this is sudden, and you probably got questions of your own, but can you try moving? We need to do a neural diagnostic and then get you connected for some biometrics."
 S001_Awaken_08_Nar,"(You try to move, but your limbs feel unresponsive and weak. You try again, in earnest, though you probably shouldn't have. You hardly twitch your arm. The pain washes over you.)"
 S001_Awaken_09_P,...N-Not really. It hur-
@@ -135,7 +135,7 @@ S001_Awaken_24_Ida,"There's no sugarcoating it: Isko, myself and many others are
 S001_Awaken_25_Nar,"(She continues to speak, but you can't help but panic, trying to remember events that just aren't there to recall. You reel your mind, replaying your days leading up to joining TECC, and preparing for the journey to Titan. You blurt out the only thing you can clearly recant in the middle of Ida's explanation.)"
 S001_Awaken_26_P,I remember working at a steam well!
 S001_Awaken_27_Nar,(Ida's frustration is palpable. She clears her throat and resumes.)
-S001_Awaken_28_Ida,"As I first surmised, it seems. You didn't get out of this scatheless. They didn't cool you down properly before putting you on ice, so there's no telling what may have happened to your mind, or anything else in your body, for that matter. We can only hope you can regain your memory at this point..."
+S001_Awaken_28_Ida,"As I first surmised, it seems you didn't get out of this scatheless. They didn't cool you down properly before putting you on ice, so there's no telling what may have happened to your mind, or anything else in your body, for that matter. We can only hope you can regain your memory at this point..."
 S001_Awaken_29_Ida,"On that note, we may as well focus on solvable problems. Even if you can't remember much right now, we could still use your help. We're hardly managing here, and there's only a few dozen of us."
 S001_Awaken_30_Ida,"...Please tell me you remember what an OmniScope is, or we'll be here a while. We're going to have to get yours back online."
 S001_Awaken_31_P,"Uh... oh! Yeah. I did have one, how did you know?"
@@ -143,7 +143,7 @@ S001_Awaken_32_Ida,"They sort of just tossed you in this pod, and as durable as 
 S001_Awaken_33_P,You can fix that?
 S001_Awaken_34_Ida,"Well, 'replace' is a better word; your lenses are fine, thankfully, so we're just going to sync you to a new unit. It's kind of old, but it's the only working spare we got. You know how to use it, right? Or did that get iced out, too?"
 S001_Awaken_35_P,I think I can remember the basics.
-S001_Awaken_36_Nar,"(The OmniScope a multi-function embedded information device. The device is two parts: the wireless lenses that are inserted into the eyes via surgery, and a remotely-linked AI unit. It can be used to communicate, read map, or analyze objects.)"
+S001_Awaken_36_Nar,"(The OmniScope is a multi-function embedded information device. The device is two parts: wireless lenses that are inserted into the eyes via surgery, and a remotely-linked AI unit. It can be used to communicate, read maps, or analyze objects.)"
 S001_Awaken_37_Ida,Good. Let's get this over with. Isko! You finish wiping that spare controller?
 S001_Awaken_38_Isko,Yup! Here you go.
 S001_Awaken_39_Nar,"(Isko hands the controller unit and transmitter to Ida. She hardly inspects the transmitter's wafer, keeping her attention focused on you.)"
@@ -151,15 +151,15 @@ S001_Awaken_40_Ida,"You ready to start? On second thought: don't answer that. Yo
 S001_Awaken_41_Nar,"(You relax on the table, expecting to be put under, but instead Ida palms the back of your head. You feel your skull produce a thin object, as if it were ejecting from your skin. Another one is threaded into the previous resident's burrow and takes its place.)"
 S001_Awaken_42_Nar,"(Your vision is augmented. The scope begins to display information in your natural vision, though the text appears soft. The text in your field of view noticeably shudders for a moment before becoming legible.)"
 S001_Tutorial_01_AI,<color=TUTORIAL>Omniscope ID 24601. Starting Boot Sequence...</color>
-S001_Tutorial_02_AI,"<color=TUTORIAL>Hello, I'm Cassini, AI assistance of Omniscope ID 24601. The omniscope boot sequence successful.</color>"
+S001_Tutorial_02_AI,"<color=TUTORIAL>Hello, I'm Cassini, AI assistant of Omniscope ID 24601. The omniscope boot sequence is successful.</color>"
 S001_Tutorial_03_AI,<color=TUTORIAL>Detected damaged memory area. Please wait a moment while I attempt to recover the memory.</color>
-S001_Tutorial_04_Nar,(The images of AI on the screen soon disappeared. Ida talks to confirm that the device is active.)
+S001_Tutorial_04_Nar,(The image of the AI on the screen soon disappears. Ida talks to confirm that the device is active.)
 Tutorial_Omniscope_01,<color=TUTORIAL>Omniscope's memory has been recovered. You may check the functionality of the omniscope through the <color=IMPORTANT0>[Tab]</color> key.</color>
 S001_Awaken_43_Ida,"Well, how is it? These things are backward compatible, but I'm guessing it's been a while since you've had a lens update? Should be fine enough, though. We popped out your old transmitter since it's pair won't be coming back up any time soon."
 S001_Awaken_44_P,"It was fuzzy for a sec but seems like it's working."
 S001_Awaken_45_Ida,"Great, 'cause there isn't another one. Don't go getting frozen again, alright?"
 S001_Awaken_46_P,"...wait, where'd you get this one from?"
-S001_Awaken_47_Ida,"Oh... you know. Don't worry, Isko wiped it ran some tests on it, and we cleaned the transmitter *real* good. Only a couple hundred hours of use on the AI unit, it's practically new!"
+S001_Awaken_47_Ida,"Oh... you know. Don't worry, Isko wiped it, ran some tests on it, and we cleaned the transmitter *real* good. Only a couple hundred hours of use on the AI unit, it's practically new!"
 S001_Awaken_48_Ida,"Oh, looks like you're feeling better! Want to give moving around a try again? It'd be nice if we could get some clothes on you. No offense. Behind the screen, next to the sinks, there's a box with a spare change of clothes. *Please*... help yourself."
 Mn001_Equipment_01_Ida,"What the hell?! Was it routine for the first team to run around in their skivvies?! Fortunately for you there's been a few years of terraforming, but I think you should put on some clothes regardless."
 Mn001_Equipment_02_Ida,"There. Much better, don't 'cha think?"
@@ -167,13 +167,13 @@ Mn001_Equipment_03_Ida,"I bet you're famished after all this, I mean, you were d
 Mn001_Equipment_04_Ida,"The Omniscope should point you to the right direction of the pub. Go find Alp-huge mustachio guy, loves meeting people and has run out of those weeks ago."
 Mn002_Alp_01_Alp,...!
 Mn002_Alp_02_Alp,"Do my eyes deceive me? Are you the person from the pod they've been trying to wake up? Oh? My manners, they have left me!"
-Mn002_Alp_03_Alp,"*clears throat* Welcome, my new friend, to the pub of Camp Huygens! My name is Alp, and this, this is my humble Pub."
-Mn002_Alp_04_Nar,(Your stomach groans audibly.)
+Mn002_Alp_03_Alp,"*clears throat* Welcome, my new friend, to the pub of Camp Huygen! My name is Alp, and this, this is my humble Pub."
+Mn002_Alp_04_Nar,(Your stomach growls audibly.)
 Mn002_Alp_05_P,"Well, you've met my stomach, and I'm Addison. Ida said I should get something to eat."
 Mn002_Alp_06_Alp,"Oh! My manners, please pardon me-we don't have much, but I can get you something that was left over."
 Mn002_Alp_07_Nar,"(Alp flits about the shelves, pulling out a small container. From it, he produces a bit of bread and a bottle.)"
 Mn002_Alp_08_Alp,"You can have this, it's not much, but it will keep the hunger at bay, and somebody paid for it earlier."
-Mn002_Alp_09_Nar,(Alp hands you the bread and a Water bottle.)
+Mn002_Alp_09_Nar,(Alp hands you the bread and a water bottle.)
 Mn002_Alp_10_Alp,"I uh, hope you do not mind, but my curiosity... I can't contain it."
 Mn002_Alp_11_Alp,I heard your pod was found at another camp. Is that true? Where are you from?
 Mn002_Alp_12_P,"I'm sorry, I don't remember much. Ida said that they didn't put me into stasis properly. I worked at a steam well, but I don't remember much at all."
@@ -186,7 +186,7 @@ Mn002_Alp_18_Alp,"What irony, we woke you up to learn, but instead we must teach
 Mn002_Alp_19_P,...what's going on?
 Mn002_Alp_20_Alp,"Something's happened to the resettlement mission. Our camp is one of many, and the plan for the group heading to the central one, 'Headquarters', was supposed to be to establish contact to connect all the camps. It's been weeks. The only spaceport on Titan is there, and without it we have no chance of getting back home."
 Mn002_Alp_21_P,"They've disappeared, too? Was there a backup plan if the spaceport was damaged, or inoperable?"
-Mn002_Alp_22_Alp,"No idea. We have survived this long, and we have come in contact with other mining camps, but they are all in the same shape we are. If there was a backup plan, only the main group knew of it."
+Mn002_Alp_22_Alp,"No idea. We have survived this long, and we have come into contact with other mining camps, but they are all in the same shape we are. If there was a backup plan, only the main group knew of it."
 Mn002_Alp_23_Alp,"We're running low on supplies, and while we all have our own problems, if we don't improve things soon none of us are going to survive."
 Mn002_Alp_24_Alp,"...I should get back to work, but it would be wise if you got rest after all this. Go find Lao, the resident administrator, so you can rent a room. I don't know how life was before, but some people, even as we slowly fall apart, are still here only to make money."
 Mn005_Lao_01_P,"I need a place to rest, Alp said to find you."
@@ -197,18 +197,18 @@ Mn005_Lao_05_P,"Well... where can I get money, then? Sounds like you probably al
 Mn005_Lao_06_Lao,"I take part in many transactions. There are several others in camp that render essential services that I pay for, and that they, in turn, pay others for. It's the system that I came up with: a credit system."
 Mn005_Lao_07_Lao,"In short: if you lack credit, you'll lack everything else. It's true, though... you hopped out of a pod, and we do need help. This is... a one-time situation for the entire camp. One moment."
 Mn005_Lao_08_Nar,"(Lao walks over to his desk and opens a drawer, drawing a keycard from its contents. He walks toward you, holding it up, pointing to it with the other hand.)"
-Mn005_Lao_09_Lao,"This was hi-ahem-is *your* keycard. Originally, it's a key card only for those who pay credit, but I'll give it to you in particular. Because you just woke up from stasis. But you'll have to pay Credit soon, too. If you don't, I'll suspend the card."
+Mn005_Lao_09_Lao,"This was hi-ahem-is *your* keycard. Originally, it's a key card only for those who pay credit, but I'll give it to you in particular because you just woke up from stasis. You too will have to pay Credit soon though. If you don't, I'll suspend the card."
 Mn005_Lao_10_Nar,(He hands you the keycard.)
 Mn005_Lao_11_Nar,(Lao motions you to follow him as he leaves the room.)
-Mn005_Lao_12_Lao,Here it is. Remember: You'll have to pay credit if you want to keep using the room. Go ahead? walk up to the door and use it.
+Mn005_Lao_12_Lao,Here it is. Remember: You'll have to pay credit if you want to keep using the room. Go ahead, walk up to the door and use it.
 Mn005_Lao_13_Nar,(The door's bright red lights appear to be indicating that it is locked.)
 Mn005_Lao_14_Nar,(You're exhausted. It's time to rest.)
 Mn005_Lao_15_Nar,(The night is spent absorbing the events of the day.)
 Mn005_Lao_16_P,<i>...What a mess...</i>
-Mn005_Lao_17_P,<i>First thing's first: money. Not going to get far without it. Even in a place like this...</i>
+Mn005_Lao_17_P,<i>First things first: money. Not going to get far without it. Even in a place like this...</i>
 Mn005_Lao_18_Nar,"(The silence embraces you, somehow ushering you to sleep despite all that's happened.)"
 Mn005_Lao_19_Nar,(...)
-Mn005_Lao_20_Nar,"(You dream. It's a sunny day in the badlands, but the weather is cool. You rest your hands on a handrail; paint chips flake off and sticks to them. A cold front, harboring a blizzard, threatens in the distance.)"
+Mn005_Lao_20_Nar,"(You dream. It's a sunny day in the badlands, but the weather is cool. You rest your hands on a handrail; paint chips flake off and stick to them. A cold front, harboring a blizzard, threatens in the distance.)"
 Mn005_Lao_21_Nar,(You wake up abruptly.)
 Mn005_Lao_22_P,No sense in delaying the inevitable.
 Mn005_Lao_23_P,Time to get some shut-eye.

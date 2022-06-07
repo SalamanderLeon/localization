@@ -48,7 +48,7 @@ Tutorial_Oxygen_AI_005,<color=TUTORIAL>Oxygen items can be purchased through Omn
 Tutorial002_01_Nar,"(It's very dark inside the cave, so you can barely see the things that are close by.)"
 Tutorial002_02_P,It's too dark around here...
 Tutorial002_03_Nar,(AI Cassini appears on your lens.)
-Tutorial002_04_AI,"Warning, there is not enough light to detect the surroundings.\n\nReview the appropriate measures.\n[Suggestion]\n-Equip 'Lamp' and 'Battery'.\n\nFind the targets that are more likely to have lamps and batteries in the Huygen camp.\n[Search Results]\n-Lamp : Judith Taggart\n-Battery : Litzi vogl"
+Tutorial002_04_AI,"Warning, there is not enough light to detect the surroundings.\n\nReview the appropriate measures.\n[Suggestion]\n-Equip 'Lamp' and 'Battery'.\n\nFind the targets that are more likely to have lamps and batteries in the Huygen Camp.\n[Search Results]\n-Lamp : Judith Taggart\n-Battery : Litzi vogl"
 Tutorial002_05_P,"If I find these two, I can get a lamp and a battery, right?"
 Tutorial002_06_P,Can I get a lamp by any chance?
 Tutorial002_07_Judith,"I do have one, it’s not new but I can give it to you for free. Since it’s not a very relaxed situation here If you need any more In the future you’ll have to bring me the ingredients and credits if necessary and then I can make you one."
@@ -95,7 +95,7 @@ UITutorial_001_01,This is just a test text to see if everything is working alrig
 UITutorial_001_02,This is another just a test text to see if everything is working alright.
 
 Hud_UI_Tutorial_HP,"<color=#47C6CF>[HP Gauge]</color>\nA gauge indicating your current HP.\nIf your HP reaches zero, you will die. Keep an eye on it."
-Hud_UI_Tutorial_Trait,<color=#47C6CF>[Character Condition]</color>\nThere is a variety of conditions that may afflict you.\nThese conditions have many sources and different effects.
+Hud_UI_Tutorial_Trait,<color=#47C6CF>[Character Condition]</color>\nThere is a variety of conditions that may affect you.\nThese conditions have many sources and varied effects.
 Hud_UI_Tutorial_TimeArea,<color=#47C6CF>[Area & Time]</color>\nDisplays information about the current area and time.\nThe area's oxygen content is also displayed. It needs to be more than 70% for you to breathe comfortably.
 Hud_UI_Tutorial_Map,"<color=#47C6CF>[Mini Map]</color>\nThe mini map displays your immediate surroundings, including points of interest."
 Hud_UI_Tutorial_OmniScope,"<color=#47C6CF>[Omniscope Button]</color>\nYou can check out the various functions of the Omniscope, like Perks and Stats, through this button."
@@ -107,7 +107,7 @@ Hud_UI_Tutorial_Oxygen,<color=#47C6CF>[Oxygen item]</color>\nDisplays informatio
 Hud_UI_Tutorial_Lamp,<color=#47C6CF>[Lamp & Battery]</color>\nDisplays information about your lamp and battery.\nYou can check your remaining battery and if the lamp is on.
 Hud_UI_Tutorial_Durablity,"<color=#47C6CF>[Equipment Durability]</color>\nDisplays information about your equipped weapons and equipment, including their durability."
 Hud_UI_Tutorial_Ammo,<color=#47C6CF>[Weapon & Ammo]</color>\nDisplays information about the equipped weapon and any loaded ammo.
-Hud_UI_Tutorial_TurnSkip,"<color=#47C6CF>[Skip Turn]</color>\nPressing this button, or the SpaceBar on your keyboard, will skip your turn."
+Hud_UI_Tutorial_TurnSkip,"<color=#47C6CF>[Skip Turn]</color>\nPressing this button, or the Spacebar on your keyboard, will skip your turn."
 
 Journal_NPC,<color=#47C6CF>[Journal : Character]</color>\nDisplays information about the people that you've met so far.
 Journal_QuestList,<color=#47C6CF>[Quest List]</color>\nDisplays a list of quests\nrelated to the selected character.
