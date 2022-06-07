@@ -46,7 +46,7 @@ FirstTalk_Judith_05_P,"Well, I don't feel very presentable myself. What is this 
 FirstTalk_Judith_06_P,"This is Engineering, and I'm the one in charge here... which just means stopping things from falling apart right now. I can also make tools if you need some. Not for free, of course. Do you need anything else? I'm a little busy."
 FirstTalk_Litzi_01_P,Hello.
 FirstTalk_Litzi_02_Litzi,"Huh? Who're... oh, you must be that guy Ida was working on. I'm Litzi and I try to keep the generator here running."
-FirstTalk_Litzi_03_P,My name is Addison Thorpe. Why do you say, 'try to'?
+FirstTalk_Litzi_03_P,"My name is Addison Thorpe. Why do you say, 'try to'?"
 FirstTalk_Litzi_04_Litzi,"I don't know if you've heard yet, but the mine is closed now, which means I'm not getting any more fuel to keep the generator running. It barely runs at minimal capacity as is, so it won't be long before we're stuck in the dark. Not that anyone else seems to mind that threat but we'd still have the reactors to worry about, anyway..."
 FirstTalk_Litzi_05_P,What's wrong with the reactors?
 FirstTalk_Litzi_06_Litzi,"By the time we got here, the reactors were damaged. They still function, but they're unstable. Judith and I tried to fix them up, but with what how little we have to work with, they're still far from perfect. All I can do for now is hope that the worst doesn't happen..."
