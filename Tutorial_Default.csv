@@ -48,7 +48,7 @@ Tutorial_Oxygen_AI_005,<color=TUTORIAL>Oxygen items can be purchased through Omn
 Tutorial002_01_Nar,"(It's very dark inside the cave, so you can barely see the things that are close by.)"
 Tutorial002_02_P,It's too dark around here...
 Tutorial002_03_Nar,(AI Cassini appears on your lens.)
-Tutorial002_04_AI,"Warning, there is not enough light to detect the surroundings.\n\nReview the appropriate measures.\n[Suggestion]\n-Equip 'Lamp' and 'Battery'.\n\nFind the targets that are more likely to have lamps and batteries in the Huygen Camp.\n[Search Results]\n-Lamp : Judith Taggart\n-Battery : Litzi vogl"
+Tutorial002_04_AI,"Warning, there is not enough light to detect the surroundings.\n\nReview the appropriate measures.\n[Suggestion]\n-Equip 'Lamp' and 'Battery'.\n\nFind the targets that are most likely to have lamps and batteries in the Huygen Camp.\n[Search Results]\n-Lamp : Judith Taggart\n-Battery : Litzi vogl"
 Tutorial002_05_P,"If I find these two, I can get a lamp and a battery, right?"
 Tutorial002_06_P,Can I get a lamp by any chance?
 Tutorial002_07_Judith,"I do have one, it’s not new but I can give it to you for free. Since it’s not a very relaxed situation here If you need any more In the future you’ll have to bring me the ingredients and credits if necessary and then I can make you one."
@@ -68,7 +68,7 @@ Tutorial002_23_Litzi,"And it's not a lot, but if you're in a hurry, you'll be ab
 Tutorial002_24_AI,Rich Vogel's trading capability has been activated.
 Tutorial003_01_Nar,"(Entering the depths of the cave, You feel stuffy breathing without knowing anything.)"
 Tutorial003_02_Nar,(AI Cassini appears on your lens.)
-Tutorial003_03_AI,"<color=TUTORIAL>Warning, Oxygen concentration is low.\nIf you stay in the current area for a long time, you may experience oxygen deficiency.\n\nReview the appropriate measures.\n[Suggestion]\n- Please leave the current area or wear an oxygen canister.\n\nDetermine which targets are more likely to have an oxygen canister in subhunts camp.\n[Calculation Results]\n- Oxygen Canister: Running Wolf Earle</color>"
+Tutorial003_03_AI,"<color=TUTORIAL>Warning, Oxygen concentration is low.\nIf you stay in the current area for a long time, you may experience oxygen deficiency.\n\nReview the appropriate measures.\n[Suggestion]\n- Please leave the current area or wear an oxygen canister.\n\nDetermine which targets are most likely to have an oxygen canister in subhunts camp.\n[Calculation Results]\n- Oxygen Canister: Running Wolf Earle</color>"
 Tutorial003_04_P,Does Judith have an oxygen canister?
 Tutorial003_05_P,Can I get an oxygen canister?
 Tutorial003_06_Wolf,"Canister? Alas, I used to make that stuff. I haven't made a whole bottle lately. There's not much left, but I think I can give you one. We don't have enough ingredients, so we'll have to bring the ingredients to make it for you later."
@@ -82,7 +82,7 @@ Tutorial004_02_David,"Oh, come to think of it, the camp needed access to request
 Tutorial004_03_P,uh...It's 24601.
 Tutorial004_04_David,wait... I will update the authority first and let you know how to use it.
 Tutorial004_05_Nar,(Information about the production of the item is sent to Omniscope.)
-Tutorial004_06_AI,"<color=TUTORIAL>Information on [Research, craft, Recycling] of the Huygen camp has been updated. </color>"
+Tutorial004_06_AI,"<color=TUTORIAL>Information on [Research, craft, Recycling] of the Huygen Camp has been updated. </color>"
 Tutorial004_07_AI,"<color=TUTORIAL>You can put things in a personal storage in a supply facility and request to research, manufacture, and decompose items. </color>"
 Tutorial004_08_AI,"<color=TUTORIAL>For more information, see [Journal - Cassini - Production.]</color>"
 Tutorial004_09_David,New information would have been updated. I'll explain it to you.
@@ -137,7 +137,7 @@ ChaStat_UI_Under,<color=#47C6CF>[Stats]</color>\nDisplays your character's stats
 Task_UI_SelectOption,"<color=#47C6CF>[Working item]</color>\nSelect the work you want to request.\nThere is Research, Production and Recycling work."
 Task_UI_ItemList,[<color=#47C6CF>[List of Work]</color>\nThis is a list of the work that can be performed on the items\nin your personal storage (located in the Supply Depot).\nRequesting work costs credits.
 Task_UI_Contents,"<color=#47C6CF>[Work detail]</color>\nDisplays the required materials and credits\nfor the selected work, and its results."
-Task_UI_Que,<color=#47C6CF>[Work queue]</color>\nThe queue of work requests what is currently in progress.
+Task_UI_Que,<color=#47C6CF>[Work queue]</color>\nThe queue of work requests and what is currently in progress.
 
 Hud_UI_Tutorial_Start_01,"Hello, I'm Cassini, the AI that controls Omniscope 24601. Beginning guidance for Omniscope device."
 Hud_UI_Tutorial_End_01,"If you are confused about something, look for the <sprite name=Help_Mark> button nearby for more information.\nThis concludes your tour of your Omniscope."
