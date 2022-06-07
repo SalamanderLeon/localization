@@ -65,7 +65,7 @@ FirstTalk_SeoYeon_10_Seoyeon,"Better too much than too little! But no. Some of i
 FirstTalk_Isko_01_P,Hello.
 FirstTalk_Isko_02_Isko,Do you need something?
 FirstTalk_Isko_03_P,Can you tell me more about this camp?
-FirstTalk_Isko_04_Isko,"Well, you already know that this is Camp Huygens and that we're on Titan, one of the moons of Saturn. We're pretty far from headquarters. I'm Isko, by the way, and I... uh, take care of the camp's medical needs."
+FirstTalk_Isko_04_Isko,"Well, you already know that this is Huygen Camp and that we're on Titan, one of the moons of Saturn. We're pretty far from headquarters. I'm Isko, by the way, and I... uh, take care of the camp's medical needs."
 FirstTalk_Isko_05_P,Oh? It seemed like Ida is supposed to be head of Medical.
 FirstTalk_Isko_06_Isko,"Yes, she is. In title, at least. She's left just about all of the responsibilities to me so that she can do her own thing."
 FirstTalk_Isko_07_P,What do you mean? What is she doing?
@@ -85,7 +85,7 @@ FirstTalk_Tau_08_Tau,"Do I look like a doctor? I have no idea, but Ida says she 
 FirstTalk_Lao_01_P,Hello.
 FirstTalk_Lao_02_Lao,Hello there! I was wondering when you'd get here.
 FirstTalk_Lao_03_P,You were expecting me?
-FirstTalk_Lao_04_Lao,"Yes, of course! I've heard plenty about you. You need to keep an ear to the ground to survive around here, know what I mean? I'm sure you have a ton of questions, so let me introduce myself. I'm Gin Lao, and I run Camp Huygens' residential quarter. I make the place as nice and comfy as possible for a reasonably low price, as a little favor to everyone in the camp."
+FirstTalk_Lao_04_Lao,"Yes, of course! I've heard plenty about you. You need to keep an ear to the ground to survive around here, know what I mean? I'm sure you have a ton of questions, so let me introduce myself. I'm Gin Lao, and I run Huygen Camp's residential quarter. I make the place as nice and comfy as possible for a reasonably low price, as a little favor to everyone in the camp."
 FirstTalk_Lao_05_P,A... favor?
 FirstTalk_Lao_06_Lao,"Yes. It's not cheap to run this place, of course; I'm practically in the red. But that's not important when so many people need a good night's sleep."
 FirstTalk_Lao_07_P,W-wait... in the red?
@@ -113,7 +113,7 @@ S001_Awaken_02_P,...W...w-where...?
 S001_Awaken_03_Nar,"(The metal around you reverberates. The machine hisses and ejects vapor as the container opens, the air feels warm to your skin as it floods into your vessel. A woman looks on with concern.)"
 S001_Awaken_04_Ida,...H-Hey! Are you... are you alive?
 S001_Awaken_05_P,...W-Where...?
-S001_Awaken_06_Ida,"You are in Camp Huygens, Titan, of course. Hopefully that's not a surprise. This is our clinic, and you, my friend, have just been awoken from stasis."
+S001_Awaken_06_Ida,"You are in Camp Huygen, Titan, of course. Hopefully that's not a surprise. This is our clinic, and you, my friend, have just been awoken from stasis."
 S001_Awaken_07_Ida,"I know this is sudden, and you probably got questions of your own, but can you try moving? We need to do a neural diagnostic and then get you connected for some biometrics."
 S001_Awaken_08_Nar,"(You try to move, but your limbs feel unresponsive and weak. You try again, in earnest, though you probably shouldn't have. You hardly twitch your arm. The pain washes over you.)"
 S001_Awaken_09_P,...N-Not really. It hur-
@@ -167,7 +167,7 @@ Mn001_Equipment_03_Ida,"I bet you're famished after all this, I mean, you were d
 Mn001_Equipment_04_Ida,"The Omniscope should point you to the right direction of the pub. Go find Alp-huge mustachio guy, loves meeting people and has run out of those weeks ago."
 Mn002_Alp_01_Alp,...!
 Mn002_Alp_02_Alp,"Do my eyes deceive me? Are you the person from the pod they've been trying to wake up? Oh? My manners, they have left me!"
-Mn002_Alp_03_Alp,"*clears throat* Welcome, my new friend, to the pub of Camp Huygens! My name is Alp, and this, this is my humble Pub."
+Mn002_Alp_03_Alp,"*clears throat* Welcome, my new friend, to the pub of Camp Huygen! My name is Alp, and this, this is my humble Pub."
 Mn002_Alp_04_Nar,(Your stomach growls audibly.)
 Mn002_Alp_05_P,"Well, you've met my stomach, and I'm Addison. Ida said I should get something to eat."
 Mn002_Alp_06_Alp,"Oh! My manners, please pardon me-we don't have much, but I can get you something that was left over."
