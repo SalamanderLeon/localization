@@ -53,8 +53,8 @@ Sub_Q_AirCirculator_Desc,Research Broken Filter
 Sub_Q_WormMeat,Add Worm Meat to the Menu
 Sub_Q_WormMeat_Desc,"Bring worm meat to Alp."
 Q_Log_Act01_Start,"From the Past"
-Q_Log_Act01_Start_Desc,"After a long sleep, I woke up from my hibernation device.\nThe place I woke up in is called "Huygen Camp"...\nProbably one of the many camps built in Titan...\nFirst of all, we need to understand the situation of this camp. And... all the first explorers who came to Titan with me disappeared. What the hell happened? "
-Q_Log_Act02_Start,"Huygen Camp"
+Q_Log_Act01_Start_Desc,"After a long sleep, I woke up from my hibernation device.\nThe place I woke up in is called "Camp Huygens"...\nProbably one of the many camps built in Titan...\nFirst of all, we need to understand the situation of this camp. And... all the first explorers who came to Titan with me disappeared. What the hell happened? "
+Q_Log_Act02_Start,"Camp Huygens"
 Q_Log_Act02_Start_Desc,"The camp's resources are running out, and the tension between the camp's people is getting worse...\nOn top of all that, an unidentified monster appeared at the camp.\nIf this continues, everyone in the camp will die... Or kill each other.\nThe last thing left for me is to go to the polluted underground by myself.\nI may be able to find scarce resources, or find traces of past expeditions to help us escape the camp.\nThere is no choice..."
 Tutorial_Hunger_Thirst,Hunger & Thirst
 Tutorial_Hunger_Thirst_Desc,"As time goes by, you become hungrier and thirstier.\nSatiate your hunger and thirst with food and drinks.\nHigh hunger or thirst will significantly reduce combat efficiency and, in severe cases, you'll lose HP over time."
