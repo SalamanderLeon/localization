@@ -335,7 +335,7 @@ Mn013_Nanobot_33_P,"It feels... weird. I would have thought I couldn't feel like
 Mn013_Nanobot_34_Ida,"You do?! That's... what do you see?! Wait, no, that can wait. Dammit. Okay. Time's short, but I call 'dibs' on you later for documenting that phenomenon."
 Mn013_Nanobot_35_Ida,"For now, we all need you to check out the mine to see if it's even going to save us. Go find Tau at the mines, he'll be expecting you, though he'll probably insist you call him 'Overseer Mogorosi'."
 Mn014_Mogorosi_01_P,"Hey, are you Tau? Ida said to find you."
-Mn014_Mogorosi_02_Tau,"...'Overseer Morogosi', thanks. Yes, she told me, said you've got some 'special' quality. You don't look so tough to me, but I don't care, we've got nothing to lose. I'm not digging you out if you fail, so no skin off me. I just hope you're strong. We don't let it slip, out, but the mines aren't empty. Whatever it's doing to things... it's had some time to do it's 'thing', you know? Anyway, if you manage to surprise me I know we can hammer out a deal."
+Mn014_Mogorosi_02_Tau,"...'Overseer Mogorosi', thanks. Yes, she told me, said you've got some 'special' quality. You don't look so tough to me, but I don't care, we've got nothing to lose. I'm not digging you out if you fail, so no skin off me. I just hope you're strong. We don't let it slip, out, but the mines aren't empty. Whatever it's doing to things... it's had some time to do it's 'thing', you know? Anyway, if you manage to surprise me I know we can hammer out a deal."
 Mn014_Mogorosi_03_Tau,"I'm no jackass, though. Not gonna let you go in without some equipment. It's in my interest to see you do good, too. Can't have a piece of the pie that isn't there, yeah?"
 Mn014_Mogorosi_04_Tau,"It's not even just 'cause I think you gonna be in for a fight. This is an ice moon, this stuff isn't here naturally. Never know if something might fall... you probably gonna fight, though."
 Mn014_Mogorosi_05_Tau,"Go see Judith, she still hanging on to some equipment of mine that we didn't end up needing. Hurry up, though, I don't like waiting."
@@ -357,7 +357,7 @@ Mn017_Boss_Act01_04_Tau,"You kiddin' me? The mine is the most important part of 
 Mn017_Boss_Act01_05_Tau,"Anyway, don't listen to Judith. She doesn't know what she's talking about and overcharges. I said what I meant: you were picking up what was mine already. Paying was up to you, if you're just keeping the peace... I'll take note of your kindness."
 Mn017_Boss_Act01_06_Tau,"But hey, I can be nice, too. You can keep the equipment, free of charge. We'll call it an investment."
 Mn017_Boss_Act01_07_P,...
-Mn017_Boss_Act01_07A_TAU,"Then, in a mine are ready to go?"
+Mn017_Boss_Act01_07A_TAU,"Then, are you ready to go in the mine?"
 Mn017_Boss_Act01_07B_P,I'm ready. I can head straight to the mine.
 Mn017_Boss_Act01_07C_P,I'm not ready yet. Give me a little time.
 Mn017_Boss_Act01_08_Tau,Wait in my office. I'll go make some preparations.
@@ -375,13 +375,13 @@ Mn017_Boss_Act01_19_P,Is the elevator working properly?
 Mn017_Boss_Act01_20_Alexei,"Don't worry about it. We couldn't go down to the mine until now, but I've been managing the elevator steadily."
 Mn017_Boss_Act01_23_Nar,"(The door suddenly opens; a person enters abruptly.)"
 Mn017_Boss_Act01_24_Tau,"Now then, everybody ready to go? You've had plenty of time."
-Mn017_Boss_Act01_25_Nar,(Mogorosi approaches you speaks with a more diplomatic tone.)
+Mn017_Boss_Act01_25_Nar,(Mogorosi approaches you and speaks with a more diplomatic tone.)
 Mn017_Boss_Act01_26_Tau,"If this works out... you'll be the only person able to enter the mine safely, which means exclusive access, which means a lot of demand. Demand means credits. Keep that in mind."
 Mn017_Boss_Act01_27_Tau,"...but don't forget, you're going to need us. We maintain this deathtrap, we know what in's and out's there are to know."
 Mn017_Boss_Act01_28_Tau,"We can wait on that until you can prove you're up to snuff, though."
 Mn017_Boss_Act01_29_P,"Enough, let's get it over with."
-Mn017_Boss_Act01_30_Nar,(A strange noise is approaching quickly.)
-Mn017_Boss_Act01_31_Nar,(The sound gets closer, a loud thump rattles the area.)
+Mn017_Boss_Act01_30_Nar,"(A strange noise is approaching quickly.)"
+Mn017_Boss_Act01_31_Nar,"(The sound gets closer, a loud thump rattles the area.)"
 Mn017_Boss_Act01_32_Tau,W-w-what the fu-
 Mn017_Boss_Act01_33_Tau,Shit! What's that?!
 Mn017_Boss_Act01_34_Seble,Not plannin' on finding out!
