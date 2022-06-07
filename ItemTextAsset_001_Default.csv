@@ -590,8 +590,8 @@ Junk_1x1_MA_Icon_023_Desc,"A small, handheld, portable vacuum. Maybe the trash t
 Junk_1x1_MA_Icon_024_Desc,A broken hair dryer. Very useless outside of the recycler.
 Junk_1x1_MA_Icon_025_Desc,"A very broken robot vacuum. It would be overworked with the current state of the camp, anyway."
 Junk_1x1_MA_Icon_026_Desc,A small drone that's been roughed up too much. It would be a miracle if it could move at all anymore.
-BearTrap_001,Claw Trap
-BearTrap_001_Desc,A typical claw trap that automatically clamps down on anything that steps on it.
+ClawTrap_001,Claw Trap
+ClawTrap_001_Desc,A typical claw trap that automatically clamps down on anything that steps on it.
 SlingShots_001,Slingshot
 SlingShots_001_Desc,"A slingshot that can fire small objects at a decent speed. It's a primitive weapon from Earth's history, now part of Titan's history, alongside bows, guns, and nanobots."
 SlingShots_Ammo_001,Slingshot Pellets
