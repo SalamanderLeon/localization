@@ -51,7 +51,7 @@ Tutorial002_03_Nar,(AI Cassini appears on your lens.)
 Tutorial002_04_AI,"Warning, there is not enough light to detect the surroundings.\n\nReview the appropriate measures.\n[Suggestion]\n-Equip 'Lamp' and 'Battery'.\n\nFind the targets that are most likely to have lamps and batteries in the Huygen Camp.\n[Search Results]\n-Lamp : Judith Taggart\n-Battery : Litzi vogl"
 Tutorial002_05_P,"If I find these two, I can get a lamp and a battery, right?"
 Tutorial002_06_P,Can I get a lamp by any chance?
-Tutorial002_07_Judith,"I do have one, it’s not new but I can give it to you for free. Since it’s not a very relaxed situation here If you need any more In the future you’ll have to bring me the ingredients and credits if necessary and then I can make you one."
+Tutorial002_07_Judith,"I do have one, it's not new but I can give it to you for free. Since it's not a very relaxed situation here If you need any more In the future you'll have to bring me the ingredients and credits if necessary and then I can make you one."
 Tutorial002_08_Nar,(Got the lamp.)
 Tutorial002_09_P,Production? What else can you produce?
 Tutorial002_10_Judith,"Oh, yeah, You don't know much about camp yet. I think You need the production access first. Find David at the supply station."
@@ -60,7 +60,7 @@ Tutorial002_12_AI,The trading function of Judith Taggart has been activated.
 Tutorial002_17_P,Can I get a battery by any chance?
 Tutorial002_18_Litzi,"Battery? I do have one, but why? I'm busy. Can you tell me?"
 Tutorial002_19_P,I have to go into a cave. Can I borrow it?
-Tutorial002_20_Litzi,"If the cave you’re heading into is the one to the northeast, could you get me some minerals on the way? I’m pretty busy with work so I can’t go myself. I’ll give you one battery for free but we don’t have many left so if you need any more, bring me the materials and credits and I will make one for you."
+Tutorial002_20_Litzi,"If the cave you're heading into is the one to the northeast, could you get me some minerals on the way? I'm pretty busy with work so I can't go myself. I'll give you one battery for free but we don't have many left so if you need any more, bring me the materials and credits and I will make one for you."
 Tutorial002_20_Nar,(You got a battery.)
 Tutorial002_21_P,You want me to ask for production? Can you ask for other things?
 Tutorial002_22_Litzi,"Oh, don't you have the access to produce it yet? Then would you like to visit David at the supply station first?"
