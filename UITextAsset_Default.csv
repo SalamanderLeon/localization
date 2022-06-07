@@ -2,7 +2,7 @@ Language,Default
 Game_Title,Subterrain 2
 GameLoader_EarlyStage,This game is in the early stages of development.\nFeatures and design are subject to change.
 Demo_Title,Demo
-Demo_Desc,"Thanks for playing Subterrain Mines of Titan Demo!\nYou are still able to freely continue playing, but access to the deeper levels of the game is not available in the demo.\n\nPlease follow us at Steam community and Discord channel and help us to make even better game!"
+Demo_Desc,"Thanks for playing the Subterrain Mines of Titan Demo!\nYou are still able to freely continue playing, but access to the deeper levels of the game is not available in the demo.\n\nPlease follow our Steam Community and Discord channel and help us to make an even better game!"
 Demo_Steam,Subterrain Mines of Titan Steam Forum
 Demo_Discord,Subterrain Mines of Titan Discord Channel
 Thank you!
@@ -101,7 +101,7 @@ KeyboardControl_InventoryDrop,Item Force Drop
 KeyboardControl_InventorySplit,Item Split
 KeyboardControl_InventoryScanGround,Scan Ground
 KeyboardControl_InventoryTakeAll,Take All
-KeyboardControl_Info,Infomation
+KeyboardControl_Info,Information
 PopupButton_Get,Get
 PopupButton_Drop,Drop
 PopupButton_Use,Use
@@ -176,7 +176,7 @@ Journal_Task_Failed,Failed
 Journal_Task_Closed,Closed
 Journal_Description,Description
 Journal_Progress,Progress
-Journal_ProgressCompleted,Completed progress
+Journal_ProgressCompleted,Completed Progress
 Journal_AdditionalInformation,Additional Information
 TrackerTitle,Tracking Status
 CampTask,Completed Task
@@ -219,7 +219,7 @@ Default_OneHand_R,Pistol Basic Attack
 Default_TwoHand_M,Rifle Basic Attack
 Default_Unarmed_Desc,Basic attack when no weapons are present or Unarmed Weapon.
 Default_OneHand_M_Desc,This is a basic attack when you equip a One Hand Melee weapon.
-Default_OneHand_R_Desc,This is a basic attack when you equip a One Hand Range weapon.
+Default_OneHand_R_Desc,This is a basic attack when you equip a One Hand Ranged weapon.
 Default_TwoHand_M_Desc,This is a basic attack when you equip a Two Hand Melee weapon.
 Perk_Name,Perk Name
 Perk_Point,Perk Point
@@ -241,17 +241,17 @@ Perk_Pro_Survival,Survival
 Perk_Pro_Harvest,Harvest
 Perk_Pro_Technical,Technical
 Perk_Pro_Biology,Biology
-Perk_Pro_Unarmed_Desc,"Unarmed Proficiency (Ex : Fist, Knuckle, Throwing, etc) "
-Perk_Pro_OneHandMelee_Desc,"One Hand Melee Proficiency (Ex : Knife, Dagger, Sword, Club, Whip, etc) "
-Perk_Pro_TwoHandMelee_Desc,"Two Hand Melee Proficiency (Ex : Two Hand axe, Two Hand sword, Spear, etc)"
-Perk_Pro_OneHandRange_Desc,"Pistol Proficiency (Ex : Pistol, Revolver, SMG, etc) "
-Perk_Pro_TwoHandRange_Desc,"Rifle Proficiency (Ex : Assault Rifle, Shotgun, etc)"
-Perk_Pro_Bow_Desc,"Bow Weapon (Ex : Bow, Heavy Bow, Cross Bow)"
+Perk_Pro_Unarmed_Desc,"Unarmed Proficiency (Ex : Fist, Knuckle, Throwing, etc.) "
+Perk_Pro_OneHandMelee_Desc,"One Hand Melee Proficiency (Ex : Knife, Dagger, Sword, Club, Whip, etc.) "
+Perk_Pro_TwoHandMelee_Desc,"Two Hand Melee Proficiency (Ex : Greataxe, Greatsword, Spear, etc.)"
+Perk_Pro_OneHandRange_Desc,"Pistol Proficiency (Ex : Pistol, Revolver, SMG, etc.) "
+Perk_Pro_TwoHandRange_Desc,"Rifle Proficiency (Ex : Assault Rifle, Shotgun, etc.)"
+Perk_Pro_Bow_Desc,"Bow Weapon (Ex : Bow, Heavy Bow, Crossbow)"
 Perk_Pro_Nanobot_Desc,Nano bot Proficiency 
-Perk_Pro_Physical_Desc,"Physical Proficiency (Ex : Endurance, Resistance, Perception, Consume, etc)"
-Perk_Pro_Survival_Desc,"Survival Proficiency (Ex : Bartering, Persuasion, Gamble, Cooking, etc) "
-Perk_Pro_Harvest_Desc,"Harvesting Proficiency (Ex : Scavening, Fishing, Harvesting, Mining, etc)"
-Perk_Pro_Technical_Desc,"Technical Proficiency (Ex : Hacking, Computer, Engineering, Intelligence, Crafiting) "
+Perk_Pro_Physical_Desc,"Physical Proficiency (Ex : Endurance, Resistance, Perception, Consumption, etc.)"
+Perk_Pro_Survival_Desc,"Survival Proficiency (Ex : Bartering, Persuasion, Gambling, Cooking, etc.) "
+Perk_Pro_Harvest_Desc,"Harvesting Proficiency (Ex : Scavenging, Fishing, Harvesting, Mining, etc.)"
+Perk_Pro_Technical_Desc,"Technical Proficiency (Ex : Hacking, Computers, Engineering, Intelligence, Crafting) "
 Perk_Pro_Biology_Desc,"Biology (Ex : Medical, Farming) "
 Base_Value,Base Value
 LevelUp,Level Up!
@@ -294,8 +294,8 @@ nanoInfectionMaxDamage,Max Nano Infection Damage
 CollisionDamage_Key,Collision Damage
 Acid_Resistancce,Acid Resistance
 Burn_Resistance,Burn Resistance
-Cold_Resistance,cold Resistance
-Injuried_Resistance,injuried Resistance
+Cold_Resistance,Cold Resistance
+Injuried_Resistance,Injury Resistance
 Fracture_Resistance,Fracture Resistance
 Poison_Resistance,Poison Resistance
 Nano_Resistance,Nano Resistance
@@ -320,7 +320,7 @@ Equipment_Destroyed,Equipment Destroyed
 WeaponReloaded,Weapon Reloaded
 WeaponAmmoCapacity,Ammo Capacity
 WeaponOutOfAmmo,Out of ammo
-WeaponOutOfArrow,Out of arrow
+WeaponOutOfArrow,Out of arrows
 NotEnoughCredit,Not enough credit
 ItemEmpty,Empty
 Speech_stats_thirst_1,I could use a drink.
@@ -336,7 +336,7 @@ Speech_stats_fracture_1,I think my leg's fractured!
 Speech_stats_fracture_2,This fracture hurts.\nI need to patch it up.
 Speech_stats_fracture_3,...Gotta set this fracture...\n...gonna die otherwise...
 Speech_stats_oxygen_1,My oxygen's getting pretty low...
-Speech_stats_oxygen_2,I am getting low oxygen warning!
+Speech_stats_oxygen_2,I am getting a low oxygen warning!
 Speech_stats_oxygen_3,I have no oxygen left in my canister!\nI'm going to suffocate down here!
 Speech_stats_bleeding_1,I'm bleeding!
 Speech_stats_bleeding_2,This cut's pretty deep...\nI need to stop the bleeding.
@@ -368,18 +368,18 @@ Trait_Heat_04,Heat Syncope
 Trait_Heat_05,Heat Stroke
 Trait_FirstAid_Desc,The state to Heal Health ??Use first aid kit
 Trait_Cold_01_Desc,You feel cold and your body shakes.
-Trait_Cold_02_Desc,Your body trembled more and Your muscles seemed to be tense.
-Trait_Cold_03_Desc,Your body temperature gets lower and the consciousness gets blurry.
+Trait_Cold_02_Desc,Your body trembles and your muscles are tense.
+Trait_Cold_03_Desc,Your body temperature is low, and your consciousness is getting blurry.
 Trait_Cold_04_Desc,You can't even feel the cold anymore.
 Trait_Cold_05_Desc,You'll soon freeze to death! Find a warm place or food!
-Trait_Heat_01_Desc,Prickly heat are forming everywhere.
-Trait_Heat_02_Desc,Your forehead is hot. You think You're running a fever.
-Trait_Heat_03_Desc,Your body is like a fireball. The consciousness is getting blurry.
-Trait_Heat_04_Desc,You're exhausted. It's also hard to move.
+Trait_Heat_01_Desc,You feel uncomfortably warm.
+Trait_Heat_02_Desc,Your forehead is hot. You think you're running a fever.
+Trait_Heat_03_Desc,Your body is like a fireball. Your consciousness is getting blurry.
+Trait_Heat_04_Desc,You're overheated and exhausted. It's hard to move.
 Trait_Heat_05_Desc,"At this rate, you will die of heatstroke soon. Find a cool place or food!"
-Trait_Aggressive_Lv1_Desc,"Even if you get hurt, you are prepared to do more damage to your opponent."
-Trait_Aggressive_Lv2_Desc,"Even if you get hurt, you are prepared to do more damage to your opponent."
-Trait_Aggressive_Lv3_Desc,"Even if you get hurt, you are prepared to do more damage to your opponent."
+Trait_Aggressive_Lv1_Desc,"Even if you get hurt, you're prepared to do more damage to your opponent."
+Trait_Aggressive_Lv2_Desc,"Even if you get hurt, you're prepared to do more damage to your opponent."
+Trait_Aggressive_Lv3_Desc,"Even if you get hurt, you're prepared to do more damage to your opponent."
 Trait_Bodyblow_Lv1_Desc,Seeks body blow for chance to fight back.
 Trait_Bodyblow_Lv2_Desc,Seeks body blow for chance to fight back.
 Trait_Bodyblow_Lv3_Desc,Seeks body blow for chance to fight back.
@@ -392,9 +392,9 @@ Trait_PofGreeting_Lv3_Desc,The greeting of savage pirates begins by putting thei
 Trait_Trigger_Lv1_Desc,Turn the trigger back and aim for more accurately lethal areas.
 Trait_Trigger_Lv2_Desc,Turn the trigger back and aim for more accurately lethal areas.
 Trait_Trigger_Lv3_Desc,Turn the trigger back and aim for more accurately lethal areas.
-Trait_Fboundary_Lv1_Desc,"If you're wary in advance, You'll be able to hit the enemy squarely."
-Trait_Fboundary_Lv2_Desc,"If you're wary in advance, You'll be able to hit the enemy squarely."
-Trait_Fboundary_Lv3_Desc,"If you're wary in advance, You'll be able to hit the enemy squarely."
+Trait_Fboundary_Lv1_Desc,"If you're wary in advance, you'll be able to hit the enemy squarely."
+Trait_Fboundary_Lv2_Desc,"If you're wary in advance, you'll be able to hit the enemy squarely."
+Trait_Fboundary_Lv3_Desc,"If you're wary in advance, you'll be able to hit the enemy squarely."
 Trait_Slaughterer_Lv1_Desc,It would be very dangerous if you were attacked incorrectly by a slaughterer. (Slaughterer is more professional than anyone else in handling 'meat'.)
 Trait_Slaughterer_Lv2_Desc,It would be very dangerous if you were attacked incorrectly by a slaughterer. (Slaughterer is more professional than anyone else in handling 'meat'.)
 Trait_Slaughterer_Lv3_Desc,It would be very dangerous if you were attacked incorrectly by a slaughterer. (Slaughterer is more professional than anyone else in handling 'meat'.)
@@ -407,7 +407,7 @@ State_Burn,Burn
 State_Cold,Cold
 State_Fracture,Fracture
 State_Injury,Injury
-State_Poison,Poision
+State_Poison,Poison
 State_NanoInfection,Nano Infection
 StateResult_Fracture,Fracture! Unable to move!
 StateResult_Disoriented,Disoriented!
@@ -470,7 +470,7 @@ WardPoint,Ward Point
 Max_WardPoint_Key,Ward Point
 Hunger_Key,Hunger
 Thirst_Key,Thirst
-Sleepness_Key,Sleepness
+Sleepness_Key,Sleepiness
 Thermal_Key,Thermal
 LackofOxygen_Key,Oxygen
 Fear_Key,Fear
@@ -521,7 +521,7 @@ AOOAttack_Key,Attack of Opportunity!
 Defense_Key,Defense
 Combat_Defense,Defense
 Rate_Key,Rate
-Cave,Cave Extrance
+Cave,Cave Entrance
 VisionRange_Key,Vision Range
 Cost,Cost
 Nano,Nano
@@ -530,7 +530,7 @@ Bartering,Bartering
 Acid_Value,Acid
 Burn_Value,Burn
 Cold_Value,Cold
-Injuried_Value,Injuried
+Injuried_Value,Injured
 Fracture_Value,Fracture
 Poison_Value,Poison
 NanoInfection_Value,Nano Infection
