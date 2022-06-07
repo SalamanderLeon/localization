@@ -1,44 +1,44 @@
 Language,Default
-Mn018_Assembly_00_Nar,"(While Alexei and Seble tend to the mess, you head to the pub. You hear uneasy voices as you enter the room.)"
+Mn018_Assembly_00_Nar,"(While Alexei and Seble tend to the mess, you head to the pub. As you enter the room you hear uneasy voices.)"
 Mn018_Assembly_01_Nar,"(There are grim expressions everywhere. Tau tells everyone what happened in the mine control facility, then beckons you over to stand in the middle of the gathering.)"
-Mn018_Assembly_02_Tau,"Well, the newcomer saw the monster, too."
+Mn018_Assembly_02_Tau,"Well, the newcomer saw the monster too."
 Mn018_Assembly_03_Lao,Did you really?
-Mn018_Assembly_04_P,"Yes, I did. Alexei and Seble saw it, too."
+Mn018_Assembly_04_P,"Yes, I did. Alexei and Seble saw it too."
 Mn018_Assembly_06_Alp,"Unbelievable... We knew that the caves were a little dangerous, but it's hard to believe such things are right under our feet."
 Mn018_Assembly_06_01_Alp,Doesn't security need to take care of this?
 Mn018_Assembly_07_Claudia,"What the hell are we supposed to do? Go underground, right into their territory? Everyone knows it's not safe to go down there - it's contaminated! How about we just seal that hole and be done with it?"
-Mn018_Assembly_08_Tau,Don't worry about that shaft. Seble and Alexei are already on it. But we really need to start discussing who should be rewarded for the heroic act we just pulled!
+Mn018_Assembly_08_Tau,Don't worry about that shaft. Seble and Alexei are already on it, but we really need to start discussing who should be rewarded for the heroic act we just pulled!
 Mn018_Assembly_09_Judith,"There goes our great mine supervisor again. Credit is all you care about, isn't it? I think you're lying about all of this just to get more of the camp's credit!"
-Mn018_Assembly_10_Tau,"What the hell are you on about?! A huge, monstrous-looking thing just went wild and broke down my elevator! If it weren't for this newcomer and myself, that monster could be rampaging the camp at this very moment! Isn't that right, newcomer?"
+Mn018_Assembly_10_Tau,"What the hell are you on about?! A huge, monstrous-looking thing just went wild and broke down my elevator! If it weren't for this newcomer and myself, that monster could be ravaging the camp at this very moment! Isn't that right, newcomer?"
 Mn018_Assembly_11_P,...
-Mn018_Assembly_12_Tau,"And sealing the shaft is costing us a lot, too. Is it too much to ask for a little compensation? We need to keep the mining operation going!"
+Mn018_Assembly_12_Tau,"Sealing that shaft is costing us a lot too. Is it too much to ask for a little compensation? We need to keep the mining operation going!"
 Mn018_Assembly_13_Judith,Cut the crap. We all know the mine is closed because of the contamination.
 Mn018_Assembly_14_Tau,Oh yeah? Let's see if your mouth can be closed.
 Mn018_Assembly_16_Lao,"Save your spat for later, you two. The important thing is that we have no idea when those things will come up again, and we have no idea what the hell is going on down there."
 Mn018_Assembly_17_Ida,"I have no idea what's going on below, but it could be the reason for the past expedition crews disappearing."
 Mn018_Assembly_20_Litzi,"Speaking of the mine, it's been a while since it was deemed to be contaminated, and we're not getting supplies from it."
-Mn018_Assembly_21_Litzi,"I know it's not the best time to be reminded of this, but our fuel supply is dwindling. At this rate, the power generator will stop working completely. Small runs to the caves aren't enough."
+Mn018_Assembly_21_Litzi,"I know it's not the best time to be reminded of this, but our fuel supply is dwindling. At this rate the power generator will stop working completely. Small runs to the caves aren't enough."
 Mn018_Assembly_22_Nam,The same goes for the farm.
-Mn018_Assembly_23_Wolf,"I'm not proud to say, but the water Station situation is not looking good, either."
+Mn018_Assembly_23_Wolf,"I'm not proud to say, but the water station situation is not looking good, either."
 Mn018_Assembly_24_Lao,Bad news everywhere...
 Mn018_Assembly_25_Tau,Damn it. So what? We just sit and wait to die? Is that it?
-Mn018_Assembly_26_Lao,"...If we can just get down there and get some supplies... we can find out what is going on, too."
+Mn018_Assembly_26_Lao,"...If we can just get down there and get some supplies... we can find out what is going on too."
 Mn018_Assembly_28_Ida,We do have someone who can get down there.
 Mn018_Assembly_30_Ida,"I didn't get a chance to tell everyone, but we just found out that the nanobots inside Addison's body have a limited resistance to the nanobot contamination."
 Mn018_Assembly_31_Lao,Really?
 Mn018_Assembly_32_P,...
-Mn018_Assembly_33_Lao,"If that's true, then there may be hope... But didn't the lift at the mine get taken down?"
-Mn018_Assembly_35_David,Oh... How about we try to fix the elevator in the hallway? If we can get down just below us then maybe we can find the way connected to the mine?
+Mn018_Assembly_33_Lao,"If that's true, then there may be hope... but didn't the lift at the mine get taken down?"
+Mn018_Assembly_35_David,Oh... How about we try to fix the elevator in the hallway? If we can get down just below us then maybe we can find a connection to the mine?
 Mn018_Assembly_36_Lao,"Oh, right, that could work! Judith, do you think it's possible to repair it?"
-Mn018_Assembly_37_Judith,"Well, I'm not sure, but I guess we have to try. But there's no guarantee that the power will flow to the next floor. I'll need a lot of help from Litzi."
+Mn018_Assembly_37_Judith,"Well, I'm not sure, but I guess we have to try. However there's no guarantee that the power will flow to the next floor. I'll need a lot of help from Litzi."
 Mn018_Assembly_38_Litzi,"I'm pretty busy, but this is important. I'll help her."
 Mn018_Assembly_39_Lao,I hope the elevator can be repaired. We should all meet again once Judith is done with it. Anyone else have any ideas?
 Mn018_Assembly_40_Nar,(No one speaks up.)
-Mn018_Assembly_41_Lao,"Ok, everyone. The meeting's over. I guess our newcomer needs to prepare."
+Mn018_Assembly_41_Lao,"Ok everyone. The meeting's over. I guess our newcomer needs to prepare."
 Mn018_Assembly_42_Judith,I'll try to get the repairs done as soon as possible.
 Mn018_Assembly_43_Nar,(The assembly ended with both dread and hope. There was nothing anyone could do but wait for Judith to repair the elevator.)
 Mn018_Assembly_44_Nar,"(Lost contact with Earth, dwindling resources, and dangerous monsters all add to the anxiety.)"
-Mn018_Assembly_45_Nar,"(Ida assumes that your body's nanorobots are resistant. But how resistant are they, and for how long?)"
+Mn018_Assembly_45_Nar,"(Ida assumes that your body's nanobots are resistant, but how resistant are they, and for how long?)"
 Mn018_Assembly_47_Nar,"(After a while, you hear from Judith and Litzi that the elevator has been repaired. You gather at the elevator with a few others.)"
 Mn018_Assembly_48_Nar,"(The repair job looks very rushed, but at least it looks functional.)"
 Mn018_Assembly_49_Judith,"Fortunately, I was able to repair the elevator."
@@ -47,16 +47,16 @@ Mn018_Assembly_51_Lao,"That's lucky. Now, the only thing left is actually gettin
 Mn018_Assembly_53_Tau,"Well, I think we'll take care of managing the elevator on our side. I don't think there's any problem with that."
 Mn018_Assembly_54_Judith,What are you talking about?
 Mn018_Assembly_55_Tau,"Obviously, we have experience with running this kind of thing since we're the miners. It's perfect for us. Do you have any issues with that?"
-Mn018_Assembly_57_Lao,"Enough of that. Tau, we'll let you 'take care' of the elevator and you can have some credits in return. But you must pay your debts to Judith, too. Sound good, you two?"
+Mn018_Assembly_57_Lao,"Enough of that. Tau, we'll let you 'take care' of the elevator and you can have some credits in return; but you must pay your debts to Judith, too. Sound good, you two?"
 Mn018_Assembly_58_Nar,"(Judith and Tau glare at each other, but do not say anything else.)"
-Mn018_Assembly_59_Ida,"Mind if I interrupt? As we all know, camp resources are dwindling, so it's crucial that you bring back any resources you find. And we have to slow down our usage of them, too, to buy some time."
+Mn018_Assembly_59_Ida,"Mind if I interrupt? As we all know, camp resources are dwindling, so it's crucial that you bring back any resources you find. We also have to slow down our usage of them to buy some time."
 Mn018_Assembly_60_Ida,"So we need to adjust and adapt the production and consumption of resources as needed, and that decision should be made by the one that actually supplies them."
 Mn018_Assembly_61_Ida,"We've decided to give you the right to manage the camp's resources. Of course, there were some people who still feel that you couldn't be trusted, but the decision has been made and it is final."
 Mn018_Assembly_62_Nar,"(Ida uploads some instructions to your omniscope. After a while, it shows that it has been updated with new permissions.)"
 Mn018_Assembly_63_Ida,You will be able to adjust the production and consumption of resources now. I have to reiterate that this is an extremely important responsibility.
 Mn018_Assembly_64_Ida,"Speaking of which, I almost forgot! I need to talk to you about your nanobot's resistance. I can't be sure how much it can withstand. I've also updated your omniscope so that you can check the contamination level of your current area."
 Mn018_Assembly_65_Ida,"Well, I think that's it. I hope you come back safely. Good luck."
-Mn018_Assembly_66_Lao,"What's your name again? Addison? We don't really know what's down there, so take some time to really prepare. But also, please hurry; we don't have much time left in here."
+Mn018_Assembly_66_Lao,"What's your name again? Addison? We don't really know what's down there, so take some time to really prepare, but also please hurry; we don't have much time left in here."
 Mn018_Assembly_67_Ida,"Lastly, if you find any useful information, such as what happened to the previous camp crews, let me know."
 Mn018_Assembly_68_AI,[Camping Management] information and permission has been updated. You can check the camp UI by using the wheel menu or [O] key.
 Mn019_PowerRelay_01_Nar,"(Upon entering the room, you see a large machine.)"
@@ -70,7 +70,7 @@ Mn019_PowerRelay_12_AI,Sending information. Target: Ida...
 Mn019_PowerRelay_12_2_AI,Transfer complete.
 Mn019_PowerRelay_13_Nar,"(After a short while, you receive some messages from Ida.)"
 Mn019_PowerRelay_14_Ida,A power relay. Very interesting. I'm sure Litzi would like to hear this. I'll let her know. \n-From Ida-
-Mn019_PowerRelay_15_P,"Another power relay device... But this one looks like it's not working... Cassini, scan this device."
+Mn019_PowerRelay_15_P,"Another power relay device... but this one looks like it's not working... Cassini, scan this device."
 Mn019_PowerRelay_18_AI,Scanning.
 Mn019_PowerRelay_18_2_AI,Analysis complete. The device is not operational. Reason: Missing fuse.
 Mn019_PowerRelay_19_P,"A fuse...? Maybe... Cassini, contact Ida."
