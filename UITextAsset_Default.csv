@@ -101,7 +101,7 @@ KeyboardControl_InventoryDrop,Item Force Drop
 KeyboardControl_InventorySplit,Item Split
 KeyboardControl_InventoryScanGround,Scan Ground
 KeyboardControl_InventoryTakeAll,Take All
-KeyboardControl_Info,Infomation
+KeyboardControl_Info,Information
 PopupButton_Get,Get
 PopupButton_Drop,Drop
 PopupButton_Use,Use
@@ -176,7 +176,7 @@ Journal_Task_Failed,Failed
 Journal_Task_Closed,Closed
 Journal_Description,Description
 Journal_Progress,Progress
-Journal_ProgressCompleted,Completed progress
+Journal_ProgressCompleted,Completed Progress
 Journal_AdditionalInformation,Additional Information
 TrackerTitle,Tracking Status
 CampTask,Completed Task
@@ -241,17 +241,17 @@ Perk_Pro_Survival,Survival
 Perk_Pro_Harvest,Harvest
 Perk_Pro_Technical,Technical
 Perk_Pro_Biology,Biology
-Perk_Pro_Unarmed_Desc,"Unarmed Proficiency (Ex : Fist, Knuckle, Throwing, etc) "
-Perk_Pro_OneHandMelee_Desc,"One Hand Melee Proficiency (Ex : Knife, Dagger, Sword, Club, Whip, etc) "
-Perk_Pro_TwoHandMelee_Desc,"Two Hand Melee Proficiency (Ex : Two Hand axe, Two Hand sword, Spear, etc)"
-Perk_Pro_OneHandRange_Desc,"Pistol Proficiency (Ex : Pistol, Revolver, SMG, etc) "
-Perk_Pro_TwoHandRange_Desc,"Rifle Proficiency (Ex : Assault Rifle, Shotgun, etc)"
+Perk_Pro_Unarmed_Desc,"Unarmed Proficiency (Ex : Fist, Knuckle, Throwing, etc.) "
+Perk_Pro_OneHandMelee_Desc,"One Hand Melee Proficiency (Ex : Knife, Dagger, Sword, Club, Whip, etc.) "
+Perk_Pro_TwoHandMelee_Desc,"Two Hand Melee Proficiency (Ex : Two Hand axe, Two Hand sword, Spear, etc.)"
+Perk_Pro_OneHandRange_Desc,"Pistol Proficiency (Ex : Pistol, Revolver, SMG, etc.) "
+Perk_Pro_TwoHandRange_Desc,"Rifle Proficiency (Ex : Assault Rifle, Shotgun, etc.)"
 Perk_Pro_Bow_Desc,"Bow Weapon (Ex : Bow, Heavy Bow, Cross Bow)"
 Perk_Pro_Nanobot_Desc,Nano bot Proficiency 
-Perk_Pro_Physical_Desc,"Physical Proficiency (Ex : Endurance, Resistance, Perception, Consume, etc)"
-Perk_Pro_Survival_Desc,"Survival Proficiency (Ex : Bartering, Persuasion, Gamble, Cooking, etc) "
-Perk_Pro_Harvest_Desc,"Harvesting Proficiency (Ex : Scavening, Fishing, Harvesting, Mining, etc)"
-Perk_Pro_Technical_Desc,"Technical Proficiency (Ex : Hacking, Computer, Engineering, Intelligence, Crafiting) "
+Perk_Pro_Physical_Desc,"Physical Proficiency (Ex : Endurance, Resistance, Perception, Consume, etc.)"
+Perk_Pro_Survival_Desc,"Survival Proficiency (Ex : Bartering, Persuasion, Gamble, Cooking, etc.) "
+Perk_Pro_Harvest_Desc,"Harvesting Proficiency (Ex : Scavenging, Fishing, Harvesting, Mining, etc.)"
+Perk_Pro_Technical_Desc,"Technical Proficiency (Ex : Hacking, Computer, Engineering, Intelligence, Crafting) "
 Perk_Pro_Biology_Desc,"Biology (Ex : Medical, Farming) "
 Base_Value,Base Value
 LevelUp,Level Up!
@@ -269,7 +269,7 @@ Mutation_Key,Mutation
 HealthRegen_Key,Health Regen
 NanoRegen_Key,Nano Regen
 adrenaline_Key,Adrenaline
-maxAdrenaline_Key,Max Adrenalin
+maxAdrenaline_Key,Max Adrenaline
 PhysicsDamage_Key,Physics Damage
 PhysicsBasicDamage_Key,Damage
 AcidDamage,Acid Damage
@@ -294,8 +294,8 @@ nanoInfectionMaxDamage,Max Nano Infection Damage
 CollisionDamage_Key,Collision Damage
 Acid_Resistancce,Acid Resistance
 Burn_Resistance,Burn Resistance
-Cold_Resistance,cold Resistance
-Injuried_Resistance,injuried Resistance
+Cold_Resistance,Cold Resistance
+Injuried_Resistance,Injury Resistance
 Fracture_Resistance,Fracture Resistance
 Poison_Resistance,Poison Resistance
 Nano_Resistance,Nano Resistance
@@ -320,7 +320,7 @@ Equipment_Destroyed,Equipment Destroyed
 WeaponReloaded,Weapon Reloaded
 WeaponAmmoCapacity,Ammo Capacity
 WeaponOutOfAmmo,Out of ammo
-WeaponOutOfArrow,Out of arrow
+WeaponOutOfArrow,Out of arrows
 NotEnoughCredit,Not enough credit
 ItemEmpty,Empty
 Speech_stats_thirst_1,I could use a drink.
@@ -336,7 +336,7 @@ Speech_stats_fracture_1,I think my leg's fractured!
 Speech_stats_fracture_2,This fracture hurts.\nI need to patch it up.
 Speech_stats_fracture_3,...Gotta set this fracture...\n...gonna die otherwise...
 Speech_stats_oxygen_1,My oxygen's getting pretty low...
-Speech_stats_oxygen_2,I am getting low oxygen warning!
+Speech_stats_oxygen_2,I am getting a low oxygen warning!
 Speech_stats_oxygen_3,I have no oxygen left in my canister!\nI'm going to suffocate down here!
 Speech_stats_bleeding_1,I'm bleeding!
 Speech_stats_bleeding_2,This cut's pretty deep...\nI need to stop the bleeding.
@@ -352,29 +352,29 @@ Speech_OutOfOrder,It's out of order.
 Speech_Activated,Activated.
 Speech_UnableToSleepCombat,I can't sleep right now.\nI hear something nearby.
 Speech_Inventory_Full,My inventory is full.
-Speech_DuplicatedItemTypeUsage,"I can't use that right now.\nI have already used the same type of item recently."
-Speech_NoNeedToSleep,"I don't need to sleep right now.\nI am not sleepy or tired at the moment."
-Speech_EndOfDemo,It's not working...\nIt seems like this world is limited by some mysterious force called ""Demo"".\nPlease consider supporting full game in the future!
+Speech_DuplicatedItemTypeUsage,I can't use that right now.\nI have already used the same type of item recently.
+Speech_NoNeedToSleep,I don't need to sleep right now.\nI am not sleepy or tired at the moment.
+Speech_EndOfDemo,It's not working...\nIt seems like this world is limited by some mysterious force called ''Demo''.\nPlease consider supporting full game in the future!
 Trait_FirstAid,Healing Health
 Trait_Cold_01,Shivering
-Trait_Cold_02,Chill
+Trait_Cold_02,Chilly
 Trait_Cold_03,Hypothermia
 Trait_Cold_04,Numbness
-Trait_Cold_05,Freeze to Death
+Trait_Cold_05,Freezing to Death
 Trait_Heat_01,Prickly Heat
 Trait_Heat_02,Fever
 Trait_Heat_03,High Fever
 Trait_Heat_04,Heat Syncope
 Trait_Heat_05,Heat Stroke
 Trait_FirstAid_Desc,The state to Heal Health ??Use first aid kit
-Trait_Cold_01_Desc,You feel cold and your body shakes.
-Trait_Cold_02_Desc,Your body trembled more and Your muscles seemed to be tense.
-Trait_Cold_03_Desc,Your body temperature gets lower and the consciousness gets blurry.
+Trait_Cold_01_Desc,You feel cold and your body is shaking.
+Trait_Cold_02_Desc,Your body is trembling more and Your muscles seem to be tense.
+Trait_Cold_03_Desc,"Your body temperature is getting lower, and consciousness is getting blurry."
 Trait_Cold_04_Desc,You can't even feel the cold anymore.
 Trait_Cold_05_Desc,You'll soon freeze to death! Find a warm place or food!
 Trait_Heat_01_Desc,Prickly heat are forming everywhere.
 Trait_Heat_02_Desc,Your forehead is hot. You think You're running a fever.
-Trait_Heat_03_Desc,Your body is like a fireball. The consciousness is getting blurry.
+Trait_Heat_03_Desc,Your body is like a fireball. Consciousness is getting blurry.
 Trait_Heat_04_Desc,You're exhausted. It's also hard to move.
 Trait_Heat_05_Desc,"At this rate, you will die of heatstroke soon. Find a cool place or food!"
 Trait_Aggressive_Lv1_Desc,"Even if you get hurt, you are prepared to do more damage to your opponent."
@@ -407,7 +407,7 @@ State_Burn,Burn
 State_Cold,Cold
 State_Fracture,Fracture
 State_Injury,Injury
-State_Poison,Poision
+State_Poison,Poison
 State_NanoInfection,Nano Infection
 StateResult_Fracture,Fracture! Unable to move!
 StateResult_Disoriented,Disoriented!
@@ -460,7 +460,7 @@ CharacterTaskState_GoingToBed,Going to bed
 CharacterTaskState_Sleeping,Sleeping
 CharacterTaskState_GoingToWork,Going to work
 CharacterTaskState_Working,Working
-CharacterTaskState_Wondering,Wondering
+CharacterTaskState_Wondering,Wandering
 Day,Day {0}
 TurnDuration,Duration
 TurnActivate,Activate Turn
@@ -476,11 +476,11 @@ WardPoint,Ward Point
 Max_WardPoint_Key,Ward Point
 Hunger_Key,Hunger
 Thirst_Key,Thirst
-Sleepness_Key,Sleepness
+Sleepness_Key,Sleepiness
 Thermal_Key,Thermal
 LackofOxygen_Key,Oxygen
 Fear_Key,Fear
-Workneed,Workneed
+Workneed,Work Needed
 Tired_Key,Tired
 HealthRegenSpeed,Health Regen Speed
 HealthRegenAmount,Health Regen Amount
@@ -527,7 +527,7 @@ AOOAttack_Key,Attack of Opportunity!
 Defense_Key,Defense
 Combat_Defense,Defense
 Rate_Key,Rate
-Cave,Cave Extrance
+Cave,Cave Entrance
 VisionRange_Key,Vision Range
 Cost,Cost
 Nano,Nano
@@ -536,7 +536,7 @@ Bartering,Bartering
 Acid_Value,Acid
 Burn_Value,Burn
 Cold_Value,Cold
-Injuried_Value,Injuried
+Injuried_Value,Injury
 Fracture_Value,Fracture
 Poison_Value,Poison
 NanoInfection_Value,Nano Infection
@@ -545,7 +545,7 @@ maxKnockBack,Max Knock-back Damage
 knockBackResistance,Knock-back Resistance
 adrenalineRate,Adrenaline Rate
 wardPointRate,Ward Point Regen
-arrowRecoveryChance,Arrow retrieving Chance
+arrowRecoveryChance,Arrow Retrieval Chance
 reloadBonus,Pistol Reload Bonus
 Oxygen_Value,Asphyxiation
 basicDamage,Physical Damage
@@ -565,7 +565,7 @@ attackDisableChance,Jamming Chance
 Combat_Attack,Attack
 State_Stat,State
 MeleeEfficiencyHighestDamage,Melee Efficiency Highest Damage
-harvestEfficiency,"Harvest Efficiency"
-miningEfficiency,"Mining Efficiency"
-moveDisabledChance,"Flinch"
-moveDisabledChance_Chance,"It is the probability that the movement will fail due to an injury."
+harvestEfficiency,Harvest Efficiency
+miningEfficiency,Mining Efficiency
+moveDisabledChance,Flinch
+moveDisabledChance_Chance,Probability that movement will fail due to an injury.

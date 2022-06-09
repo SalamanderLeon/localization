@@ -16,7 +16,7 @@ Object_Bench,Bench
 Object_Chair,Chair
 Object_Desk,Desk
 Object_Drainage,Drainage
-Object_Foot_Hold,Foot_Hold
+Object_Foot_Hold,Foot Hold
 Object_Chimney_Pillar,Chimney Pillar
 Object_Generator,Generator
 Object_Little_Generator,Little Generator
@@ -71,9 +71,9 @@ Object_Book_Shelf,Book Shelf
 Object_GroundInventory,Ground
 Object_ReactorCoreModule,Module
 Object_PowerRelay,Power Relay
-Object_Corpse,"Corpse"
-Object_Key_002,"Bag"
-Object_Key_003,"Bag"
+Object_Corpse,Corpse
+Object_Key_002,Bag
+Object_Key_003,Bag
 Object_Ladder,Ladder
 Object_Mushroom,Mushroom Grove
 Object_Deposit_Methane,Methane Ore Deposit
@@ -82,7 +82,7 @@ Door,Door
 Supply_Personal,Personal Storage
 Supply_Shop,Shop
 Supply_Donation,Camp Storage(Donation)
-Researchable_Table,"Research"
+Researchable_Table,Research
 Store,Store
 FoodBag,Food Bag
 CharacterInventory,Inventory

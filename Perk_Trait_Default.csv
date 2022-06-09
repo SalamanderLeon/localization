@@ -5,7 +5,7 @@ Needs_Food_03,Empty Stomach
 Needs_Food_04,Famished
 Needs_Food_05,Starving to Death
 Needs_Water_01,Dry Throat
-Needs_Water_02,Thirst
+Needs_Water_02,Thirsty
 Needs_Water_03,Need Water
 Needs_Water_04,Dehydrated
 Needs_Water_05,Dying of Thirst
@@ -25,7 +25,7 @@ Needs_LackOfOxygen_03,Hypoxia
 Needs_LackOfOxygen_04,Oxygen Deprived
 Needs_LackOfOxygen_05,Suffocating
 Needs_Food_01_Desc,You have the munchies. You should grab something to eat.
-Needs_Food_02_Desc,"You're hungry and feeling weaker from it."
+Needs_Food_02_Desc,You're hungry and feeling weaker from it.
 Needs_Food_03_Desc,Your stomach is growling. It wants food. Preferably now.
 Needs_Food_04_Desc,It feels like your stomach is eating itself. You should find something else for it to eat.
 Needs_Food_05_Desc,You're about to die of starvation. Hurry up and find food to eat!
@@ -50,7 +50,7 @@ Needs_LackOfOxygen_03_Desc,You're getting dizzy from lack of oxygen.
 Needs_LackOfOxygen_04_Desc,You're becoming delirious. You need to find some oxygen very soon.
 Needs_LackOfOxygen_05_Desc,"You're going to die from lack of oxygen! Find a canister, or a place with oxygen!"
 Needs_Ration,Hunger
-Needs_Ration_Desc,"You're hungry and feeling weaker from it."
+Needs_Ration_Desc,You're hungry and feeling weaker from it.
 State_Fracture_01,Sprain
 State_Fracture_02,Hairline Fracture
 State_Fracture_03,Broken Bones
@@ -70,29 +70,29 @@ State_Injuried_05_Desc,"It's just... pouring out. It's going to stop soon, thoug
 State_Poison_01,Light Poison
 State_Poison_02,Poison
 State_Poison_03,Serious Poison
-State_Poison_01_Desc,"You were mildly poisoned. Your body should eventually expel it but it'll take a while. An antidote would help you recover faster."
+State_Poison_01_Desc,You were mildly poisoned. Your body should eventually expel it but it'll take a while. An antidote would help you recover faster.
 State_Poison_02_Desc,"You're feeling a bit woozy, somewhat light-headed and poisoned."
-State_Poison_03_Desc,"There's more poison in your veins than blood. You should get an antidote in there."
+State_Poison_03_Desc,There's more poison in your veins than blood. You should get an antidote in there.
 State_Down,Down
-State_Down_Desc,"You are downed. Movement and attack are impossible."
+State_Down_Desc,You've been knocked down! Moving and attacking is impossible!
 State_Burn_01,Light Burn
-State_Burn_01_Desc,"You've been burned. Your flesh is sensitive and discolored."
+State_Burn_01_Desc,You've been burned. Your flesh is sensitive and discolored.
 State_Burn_02,Burn
-State_Burn_02_Desc,"A flame is actively eating away at your flesh. You should take care of that soon."
+State_Burn_02_Desc,A flame is actively eating away at your flesh. You should take care of that soon.
 State_Burn_03,Serious Burn
-State_Burn_03_Desc,"Your whole body is on fire! Don't just stand there! Do something!"
+State_Burn_03_Desc,Your whole body is on fire! Don't just stand there! Do something!
 State_Cold_01,Light Cold
 State_Cold_02,Cold
 State_Cold_03,Serious Cold
-State_Cold_01_Desc,"You're feeling pretty cold and a bit less agile."
-State_Cold_02_Desc,"You're so cold that your skin is turning blue."
-State_Cold_03_Desc,"You can't feel anything at all. You need to warm up immediately."
+State_Cold_01_Desc,You're feeling pretty cold and a bit less agile.
+State_Cold_02_Desc,You're so cold that your skin is turning blue.
+State_Cold_03_Desc,You can't feel anything at all. You need to warm up immediately.
 State_Acid_01,Light Acid
 State_Acid_02,Acid
 State_Acid_03,Serious Acid
-State_Acid_01_Desc,"There's acid on your body and it's eating away at your equipment (or flesh). You should look for something to neutralize it."
-State_Acid_02_Desc,"You have acid covering a lot of your body. Your maintenance costs are skyrocketing."
-State_Acid_03_Desc,"You're practically soaked in acid. You need to neutralize it."
+State_Acid_01_Desc,There's acid on your body and it's eating away at your equipment (or flesh). You should look for something to neutralize it.
+State_Acid_02_Desc,You have acid covering a lot of your body. Your maintenance costs are skyrocketing.
+State_Acid_03_Desc,You're practically soaked in acid. You need to neutralize it.
 Restore_Food_Key,Eat Food
 Restore_Food_Desc_Key,Hunger is decreasing because you ate food.
 Restore_Water_Desc_Key,Thirst is decreasing because you drank water.
@@ -101,7 +101,7 @@ FractureDamage,Fracture Damage
 OHM_P_Mastery,One-Handed Melee Mastery
 OHM_P_Mastery_Desc,"While using a One-Handed Melee Weapon, your 'Melee Accuracy' and 'Dodge Chance' are increased while your 'Fumble Chance' is decreased."
 OHM_P_CounterAttack,Counter Attack
-OHM_P_CounterAttack_Desc,"Prepare for a chance to counterattack."
+OHM_P_CounterAttack_Desc,Prepare for a chance to counterattack.
 OHM_P_Block,Shield Mastery
 OHM_P_Block_Desc,"While using a Shield, your blocks are more frequent and reduce more damage."
 OHM_P_Block_Desc_001,<sprite name="blockChance_Icon"><#a5eaff>Block Chance + 3%</color>\n<sprite name="blockPower_Icon"><#a5eaff>Block Power + 3</color>
@@ -113,7 +113,7 @@ OHM_A_ShieldAttack_Desc_001,<sprite name="Damage_Icon"><#a5eaff>Decrease Min~Max
 OHM_A_ShieldAttack_Desc_002,<sprite name="Damage_Icon"><#a5eaff>Decrease Min~Max Damage by 55%</color>\n<sprite name="MeleeAccuracy_Icon"><#a5eaff>Melee Accuracy +12%</color>\n<sprite name="Stun_icon"></font><#a5eaff>Min~Max Knock-back Damage +12~17</color>\nEffect : Target <sprite name="Stun_icon">Stun for 1 turn
 OHM_A_ShieldAttack_Desc_003,<sprite name="Damage_Icon"><#a5eaff>Decrease Min~Max Damage by 40%</color>\n<sprite name="MeleeAccuracy_Icon"><#a5eaff>Melee Accuracy +15%</color>\n<sprite name="Stun_icon"></font><#a5eaff>Min~Max Knock-back Damage +15~21</color>\nEffect : Target <sprite name="Stun_icon">Stun for 2 turn
 OHM_A_CombinationAttack,Dash Combo
-OHM_A_CombinationAttack_Desc,"Dash towards your target and strike it several times."
+OHM_A_CombinationAttack_Desc,Dash towards your target and strike it several times.
 OHM_A_CombinationAttack_Desc_001,<sprite name="Damage_Icon"></font><#a5eaff>Decrease Min~Max Damage by 30% Per Attack</color>\n\nMove Distance : 2 Tile\n\nAttack count : 2 times.
 OHM_A_CombinationAttack_Desc_002,<sprite name="Damage_Icon"></font><#a5eaff>Decrease Min~Max Damage by 25% Per Attack</color>\n\nMove Distance : 2 Tile\n\nAttack count : 3 times.
 OHM_A_CombinationAttack_Desc_003,<sprite name="Damage_Icon"></font><#a5eaff>Decrease Min~Max Damage by 20% Per Attack</color>\n\nMove Distance : 3 Tile\n\nAttack count : 3 times.
@@ -121,12 +121,12 @@ OHM_A_CombinationAttack_Desc_004,<sprite name="Damage_Icon"></font><#a5eaff>Min~
 OHM_A_SawshankBoomerang,Sawshank Boomerang
 OHM_A_SawshankBoomerang_Desc,Sawshank Boomerang.
 OHM_B_ReadyToCounter,Counter Stance
-OHM_B_ReadyToCounter_Desc,"Prepare yourself to counter incoming attacks for a few turns."
+OHM_B_ReadyToCounter_Desc,Prepare yourself to counter incoming attacks for a few turns.
 OHM_B_ReadyToCounter_Desc_001,<sprite name="Counter_Icon"><#a5eaff> Counter Chance +50% </color>\n  Duration : 2 Turn
 OHM_B_ReadyToCounter_Desc_002,<sprite name="Counter_Icon"><#a5eaff> Counter Chance +70% </color>\n  Duration : 2 Turn
 OHM_B_ReadyToCounter_Desc_003,<sprite name="Counter_Icon"><#a5eaff> Counter Chance +90% </color>\n  Duration : 2 Turn
 OHM_B_ChargedAttack,Proper Footing
-OHM_B_ChargedAttack_Desc,"Adjust your posture so you can put more force and direction into your swings without losing balance."
+OHM_B_ChargedAttack_Desc,Adjust your posture so you can put more force and direction into your swings without losing balance.
 OHM_B_ChargedAttack_Desc_001,<font="DefaultFont"><sprite name="Damage_Icon"></font><#a5eaff>Increase Min~Max Damage by 90%</color>\n<font="DefaultFont"><sprite name="CriticalChance_Icon"></font><#a5eaff>Critical Chance +20%</color>
 OHM_B_ChargedAttack_Desc_002,<font="DefaultFont"><sprite name="Damage_Icon"></font><#a5eaff>Increase Min~Max Damage by 110%</color>\n<font="DefaultFont"><sprite name="CriticalChance_Icon"></font><#a5eaff>Critical Chance +50%</color>
 THM_P_Mastery,Two-Handed Melee Mastery
@@ -143,7 +143,7 @@ THM_A_HitHard_Desc,"Strike a target, dealing increased damage with a chance to S
 THM_A_HitHard_Desc_001,<sprite name="Damage_Icon"><#a5eaff>Increase Min~Max Damage by 80%</color>\nEffect : Target <sprite name="Stun_icon">Stun for 1 turn (Chance 50%)
 THM_A_HitHard_Desc_002,<sprite name="Damage_Icon"><#a5eaff>Increase Min~Max Damage by 120%</color>\nEffect : Target <sprite name="Stun_icon">Stun for 1 turn (Chance 70%)
 THM_A_BigSwing,Sweeping Swing
-THM_A_BigSwing_Desc,"Sweep your weapon in a wide arc around you to hit everything nearby."
+THM_A_BigSwing_Desc,Sweep your weapon in a wide arc around you to hit everything nearby.
 THM_A_BigSwing_Desc_001,<sprite name="Damage_Icon"><#a5eaff>Increase Min~Max Damage by 10%</color>\n\nArea : adjacent 3 tile
 THM_A_BigSwing_Desc_002,<sprite name="Damage_Icon"><#a5eaff>Increase Min~Max Damage by 20%</color>\n\nArea : adjacent 3 tile
 THM_A_BigSwing_Desc_003,<sprite name="Damage_Icon"><#a5eaff>Increase Min~Max Damage by 30%</color>\n\nArea : adjacent 3 tile
@@ -175,7 +175,7 @@ THR_P_AimingPoint_Desc,Aiming Point
 THR_B_Alert,Alert
 THR_B_Alert_Desc,Alert
 THR_A_Sinpe,Snipe
-THR_A_Sinpe_Desc,"Snipe the target. Accuracy does not decrease even at long ranges."
+THR_A_Sinpe_Desc,Snipe the target. Accuracy does not decrease even at long ranges.
 THR_A_Sinpe_Desc_001,<sprite name="Damage_Icon"><#a5eaff>Increase Damage by 110%</color>\n<sprite name="RangeAccuracy_Icon"><#a5eaff>Range Accuracy +10%</color>
 THR_A_Sinpe_Desc_002,<sprite name="Damage_Icon"><#a5eaff>Increase Damage by 130%</color>\n<sprite name="RangeAccuracy_Icon"><#a5eaff>Range Accuracy +15%</color>
 THR_A_Sinpe_Desc_003,<sprite name="Damage_Icon"><#a5eaff>Increase Damage by 150%</color>\n<sprite name="RangeAccuracy_Icon"><#a5eaff>Range Accuracy +20%</color>
@@ -196,22 +196,22 @@ Bow_P_Hunter_Desc_001,<sprite name="Injury_Icon_0"><#a5eaff>Min~Max Injuried Dam
 Bow_P_Hunter_Desc_002,<sprite name="Injury_Icon_0"><#a5eaff>Min~Max Injuried Damage +3~4</color>\n<sprite name="Fracture_Icon_0"><#a5eaff>Min~Max fracture Damage +2~5</color>
 Bow_P_Hunter_Desc_003,<sprite name="Injury_Icon_0"><#a5eaff>Min~Max Injuried Damage +4~5</color>\n<sprite name="Fracture_Icon_0"><#a5eaff>Min~Max fracture Damage +3~6</color>
 Bow_A_MultipleShot,Multishot
-Bow_A_MultipleShot_Desc,"Nock several arrows at once and fire them at the same time at your target."
+Bow_A_MultipleShot_Desc,Nock several arrows at once and fire them at the same time at your target.
 Bow_A_MultipleShot_Desc_001,<sprite name="Damage_Icon"><#a5eaff>Increase Damage by 170%</color>\n<sprite name="RangeAccuracy_Icon"><#a5eaff>Range Accuracy -10%</color>
 Bow_A_MultipleShot_Desc_002,<sprite name="Damage_Icon"><#a5eaff>Increase Damage by 190%</color>\n<sprite name="RangeAccuracy_Icon"><#a5eaff>Range Accuracy -8%</color>
 Bow_A_MultipleShot_Desc_003,<sprite name="Damage_Icon"><#a5eaff>Increase Damage by 210%</color>\n<sprite name="RangeAccuracy_Icon"><#a5eaff>Range Accuracy -5%</color>
 Bow_A_AimLeg,"Aim For The Legs"
 Bow_A_AimLeg_Desc,"Aim for the legs, with a chance of inflicting a serious leg injury and limiting your target's movement."
-Bow_A_AimLeg_Desc_001,[Effect]\n-Target <sprite name="Leg_Fracture_State_Icon">Damaged Leg for 2 turn(Move Disabled Chance +50%)
-Bow_A_AimLeg_Desc_002,[Effect]\n-Target <sprite name="Leg_Fracture_State_Icon">Damaged Leg for 3 turn(Move Disabled Chance +60%)
-Bow_A_AimLeg_Desc_003,[Effect]\n-Target <sprite name="Leg_Fracture_State_Icon">Damaged Leg for 4 turn(Move Disabled Chance +70%)
+Bow_A_AimLeg_Desc_001,"[Effect]\n-Target <sprite name=""Leg_Fracture_State_Icon"">Damaged Leg for 2 turn(Move Disabled Chance +50%)"
+Bow_A_AimLeg_Desc_002,"[Effect]\n-Target <sprite name=""Leg_Fracture_State_Icon"">Damaged Leg for 3 turn(Move Disabled Chance +60%)"
+Bow_A_AimLeg_Desc_003,"[Effect]\n-Target <sprite name=""Leg_Fracture_State_Icon"">Damaged Leg for 4 turn(Move Disabled Chance +70%)"
 Bow_A_TraceArrow,Trace Arrow
 Bow_A_TraceArrow_Desc,Multiple Shot
 Bow_A_ArrowRain,Bow_A_ArrowRain
 Bow_A_ArrowRain_Desc,Bow_A_ArrowRain
 Nano_B_NanoStimulation,Recovery Protocol
-Nano_B_NanoStimulation_Desc,"Activate the nanobots in your body to make them repair your injuries."
-
+Nano_B_NanoStimulation_Desc,Activate the nanobots in your body to make them repair your injuries.
+,
 Restore_Water_Key,Drink Water
 Restore_Health_Key,Restore Health
 Trait_Antidotes,Antidotes
@@ -222,16 +222,16 @@ Trait_Nano_Charger,Nano_Charger
 Trait_Nano_Charger_Desc,Nano_Charger
 Trait_Nano_Medicine,Nano_Medicine
 Trait_Nano_Medicine_Desc,Nano_Medicine
-Trait_Neutrallzer,Neutrallzer
-Trait_Neutrallzer_Desc,Neutrallzer
-Trait_RepairKit,RepairKit
-Trait_RepairKit_Desc,RepairKit
+Trait_Neutrallzer,Neutralizer
+Trait_Neutrallzer_Desc,Neutralizer
+Trait_RepairKit,Repair Kit
+Trait_RepairKit_Desc,Repair Kit
 Trait_Splint,Splint
 Trait_Splint_Desc,Fix the broken bone with a splint.
 Trait_Stimulant,Stimulant
 Trait_Stimulant_Desc,Stimulant
-Trait_WardCharger,WardCharger
-Trait_WardCharger_Desc,WardCharger
+Trait_WardCharger,Ward Charger
+Trait_WardCharger_Desc,Ward Charger
 Trait_Bandage,Bandage
 Trait_Bandage_Desc,Stop the wound with a bandage.
 Phy_Adrenaline,Adrenaline
@@ -242,11 +242,11 @@ Trait_Disorient_Desc,Causes random direction movement based on random probabilit
 Trait_Test_Original,Steel Shoulder
 Trait_Test_Son,Steel Punch
 Phy_UnarmedDamage,Unarmed Attack
-Phy_UnarmedDamage_Desc,"Damage while not equiped with any weapons."
+Phy_UnarmedDamage_Desc,Damage while no weapons are equipped.
 Phy_UnarmedDamage_Desc_001,<sprite name="Damage_Icon"><#a5eaff>Min~Max Physical Damage +2~8</color>
 Trait_Stun,Stun
-Trait_Stun_Desc,"That last attack really dazed you. You might need another one to get your senses back."
+Trait_Stun_Desc,That last attack really dazed you. You might need another second to get your senses back.
 Trait_Concentration,Concentration
-Trait_Concentration_Desc,"Adrenaline flows through your body and the world seems much sharper."
+Trait_Concentration_Desc,Adrenaline flows through your body and the world seems much sharper.
 Trait_LegFracture,Damaged Leg
-Trait_LegFracture_Desc,"Your leg has a serious and painful injury. It's awfully inconvenient and makes walking somewhat difficult."
+Trait_LegFracture_Desc,Your leg has a serious and painful injury. It's awfully inconvenient and makes walking somewhat difficult.

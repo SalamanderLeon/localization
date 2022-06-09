@@ -7,11 +7,11 @@ Mn018_Assembly_04_P,"Yes, I did. Alexei and Seble saw it too."
 Mn018_Assembly_06_Alp,"Unbelievable... We knew that the caves were a little dangerous, but it's hard to believe such things are right under our feet."
 Mn018_Assembly_06_01_Alp,Doesn't security need to take care of this?
 Mn018_Assembly_07_Claudia,"What the hell are we supposed to do? Go underground, right into their territory? Everyone knows it's not safe to go down there - it's contaminated! How about we just seal that hole and be done with it?"
-Mn018_Assembly_08_Tau,Don't worry about that shaft. Seble and Alexei are already on it, but we really need to start discussing who should be rewarded for the heroic act we just pulled!
+Mn018_Assembly_08_Tau,"Don't worry about that shaft. Seble and Alexei are already on it, but we really need to start discussing who should be rewarded for the heroic act we just pulled!"
 Mn018_Assembly_09_Judith,"There goes our great mine supervisor again. Credit is all you care about, isn't it? I think you're lying about all of this just to get more of the camp's credit!"
 Mn018_Assembly_10_Tau,"What the hell are you on about?! A huge, monstrous-looking thing just went wild and broke down my elevator! If it weren't for this newcomer and myself, that monster could be ravaging the camp at this very moment! Isn't that right, newcomer?"
 Mn018_Assembly_11_P,...
-Mn018_Assembly_12_Tau,"Sealing that shaft is costing us a lot too. Is it too much to ask for a little compensation? We need to keep the mining operation going!"
+Mn018_Assembly_12_Tau,Sealing that shaft is costing us a lot too. Is it too much to ask for a little compensation? We need to keep the mining operation going!
 Mn018_Assembly_13_Judith,Cut the crap. We all know the mine is closed because of the contamination.
 Mn018_Assembly_14_Tau,Oh yeah? Let's see if your mouth can be closed.
 Mn018_Assembly_16_Lao,"Save your spat for later, you two. The important thing is that we have no idea when those things will come up again, and we have no idea what the hell is going on down there."
@@ -22,7 +22,7 @@ Mn018_Assembly_22_Nam,The same goes for the farm.
 Mn018_Assembly_23_Wolf,"I'm not proud to say, but the water station situation is not looking good, either."
 Mn018_Assembly_24_Lao,Bad news everywhere...
 Mn018_Assembly_25_Tau,Damn it. So what? We just sit and wait to die? Is that it?
-Mn018_Assembly_26_Lao,"...If we can just get down there and get some supplies... we can find out what is going on too."
+Mn018_Assembly_26_Lao,...If we can just get down there and get some supplies... we can find out what is going on too.
 Mn018_Assembly_28_Ida,We do have someone who can get down there.
 Mn018_Assembly_30_Ida,"I didn't get a chance to tell everyone, but we just found out that the nanobots inside Addison's body have a limited resistance to the nanobot contamination."
 Mn018_Assembly_31_Lao,Really?
@@ -34,7 +34,7 @@ Mn018_Assembly_37_Judith,"Well, I'm not sure, but I guess we have to try. Howeve
 Mn018_Assembly_38_Litzi,"I'm pretty busy, but this is important. I'll help her."
 Mn018_Assembly_39_Lao,I hope the elevator can be repaired. We should all meet again once Judith is done with it. Anyone else have any ideas?
 Mn018_Assembly_40_Nar,(No one speaks up.)
-Mn018_Assembly_41_Lao,"Ok everyone. The meeting's over. I guess our newcomer needs to prepare."
+Mn018_Assembly_41_Lao,Ok everyone. The meeting's over. I guess our newcomer needs to prepare.
 Mn018_Assembly_42_Judith,I'll try to get the repairs done as soon as possible.
 Mn018_Assembly_43_Nar,(The assembly ended with both dread and hope. There was nothing anyone could do but wait for Judith to repair the elevator.)
 Mn018_Assembly_44_Nar,"(Lost contact with Earth, dwindling resources, and dangerous monsters all add to the anxiety.)"
@@ -52,9 +52,9 @@ Mn018_Assembly_58_Nar,"(Judith and Tau glare at each other, but do not say anyth
 Mn018_Assembly_59_Ida,"Mind if I interrupt? As we all know, camp resources are dwindling, so it's crucial that you bring back any resources you find. We also have to slow down our usage of them to buy some time."
 Mn018_Assembly_60_Ida,"So we need to adjust and adapt the production and consumption of resources as needed, and that decision should be made by the one that actually supplies them."
 Mn018_Assembly_61_Ida,"We've decided to give you the right to manage the camp's resources. Of course, there were some people who still feel that you couldn't be trusted, but the decision has been made and it is final."
-Mn018_Assembly_62_Nar,"(Ida uploads some instructions to your omniscope. After a while, it shows that it has been updated with new permissions.)"
+Mn018_Assembly_62_Nar,"(Ida uploads some instructions to your Omniscope. After a while, it shows that it has been updated with new permissions.)"
 Mn018_Assembly_63_Ida,You will be able to adjust the production and consumption of resources now. I have to reiterate that this is an extremely important responsibility.
-Mn018_Assembly_64_Ida,"Speaking of which, I almost forgot! I need to talk to you about your nanobot's resistance. I can't be sure how much it can withstand. I've also updated your omniscope so that you can check the contamination level of your current area."
+Mn018_Assembly_64_Ida,"Speaking of which, I almost forgot! I need to talk to you about your nanobot's resistance. I can't be sure how much it can withstand. I've also updated your Omniscope so that you can check the contamination level of your current area."
 Mn018_Assembly_65_Ida,"Well, I think that's it. I hope you come back safely. Good luck."
 Mn018_Assembly_66_Lao,"What's your name again? Addison? We don't really know what's down there, so take some time to really prepare, but also please hurry; we don't have much time left in here."
 Mn018_Assembly_67_Ida,"Lastly, if you find any useful information, such as what happened to the previous camp crews, let me know."
@@ -148,11 +148,11 @@ ControlCen_Computer_01_S01,[ Facility Control System ]
 ControlCen_Computer_01_S02,[ Communication ]
 ControlCen_Computer_01_S03,[ Saved Data ]
 ControlCen_Computer_01_S04,[ Terminate ]
-ControlCen_ComError_02_Option,"<#FFFFFF>[ Facility Control System ]\n\nThis feature cannot be accessed at this time. Contact your local administrator to repair this feature.</color>"
-ControlCen_ComError_02_Option,"<#FFFFFF>[ Communication ]\n\nThis feature cannot be accessed at this time. Contact your local administrator to repair this feature.</color>"
-ControlCen_Computer_03_Option,"<#FFFFFF>[ Saved Data List]\n\n<Corrupted Data>\n- Communication Log T.493.24.53 / 15:26\n- Communication Log T.493.24.54 / 16:23\n- Voice Recording T.493.25.21 Log / 02:42\n...\n...\n...\n<Available Data>\nVoice Recording T.493.42.53 Log / 21:49"
-ControlCen_Computer_03_S01,"Voice Recording T.493.42.53 Log / 21:49"
-ControlCen_Com_Data_01_Log,"Author: Mark Miller / Position: TECC Huygen Camp Deputy Director\n\nThings couldn't be worse. We've lost contact with headquarters and there's nothing but bloody monsters outside. I can feel my focus slipping. I should've never agreed to come to Titan.</color>"
+ControlCen_ComError_02_Option,<#FFFFFF>[ Facility Control System ]\n\nThis feature cannot be accessed at this time. Contact your local administrator to repair this feature.</color>
+ControlCen_ComError_02_Option,<#FFFFFF>[ Communication ]\n\nThis feature cannot be accessed at this time. Contact your local administrator to repair this feature.</color>
+ControlCen_Computer_03_Option,<#FFFFFF>[ Saved Data List]\n\n<Corrupted Data>\n- Communication Log T.493.24.53 / 15:26\n- Communication Log T.493.24.54 / 16:23\n- Voice Recording T.493.25.21 Log / 02:42\n...\n...\n...\n<Available Data>\nVoice Recording T.493.42.53 Log / 21:49
+ControlCen_Computer_03_S01,Voice Recording T.493.42.53 Log / 21:49
+ControlCen_Com_Data_01_Log,Author: Mark Miller / Position: TECC Huygen Camp Deputy Director\n\nThings couldn't be worse. We've lost contact with headquarters and there's nothing but bloody monsters outside. I can feel my focus slipping. I should've never agreed to come to Titan.</color>
 ControlCen_Com_Data_02_Log,"If anyone is reading this, go to headquarters... It may be your only hope to get out of this accursed place. I don't know if you can still use the train at the station on level B07, but if not, perhaps the airship is still there."
 ControlCen_Com_Data_03_Log,"There's no point hiding here. We're still not sure what happened, but it seems to be related to the nanobots in the atmosphere. It seems like they are affecting the underground mainly, but the hit was so sudden. We were completely unprepared. If you stay here, you'll turn into those things, just like everyone else..."
 ControlCen_Com_Data_04_Log,"I hope you can make it to safety and get out of here. If you do, please tell my wife that I am sorry, and I love her."
