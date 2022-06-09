@@ -202,9 +202,9 @@ Bow_A_MultipleShot_Desc_002,<sprite name="Damage_Icon"><#a5eaff>Increase Damage 
 Bow_A_MultipleShot_Desc_003,<sprite name="Damage_Icon"><#a5eaff>Increase Damage by 210%</color>\n<sprite name="RangeAccuracy_Icon"><#a5eaff>Range Accuracy -5%</color>
 Bow_A_AimLeg,"Aim For The Legs"
 Bow_A_AimLeg_Desc,"Aim for the legs, with a chance of inflicting a serious leg injury and limiting your target's movement."
-Bow_A_AimLeg_Desc_001,"[Effect]\n-Target <sprite name=""Leg_Fracture_State_Icon"">Damaged Leg for 2 turn(Move Disabled Chance +50%)"
-Bow_A_AimLeg_Desc_002,"[Effect]\n-Target <sprite name=""Leg_Fracture_State_Icon"">Damaged Leg for 3 turn(Move Disabled Chance +60%)"
-Bow_A_AimLeg_Desc_003,"[Effect]\n-Target <sprite name=""Leg_Fracture_State_Icon"">Damaged Leg for 4 turn(Move Disabled Chance +70%)"
+Bow_A_AimLeg_Desc_001,[Effect]\n-Target <sprite name="Leg_Fracture_State_Icon">Damaged Leg for 2 turn(Move Disabled Chance +50%)
+Bow_A_AimLeg_Desc_002,[Effect]\n-Target <sprite name="Leg_Fracture_State_Icon">Damaged Leg for 3 turn(Move Disabled Chance +60%)
+Bow_A_AimLeg_Desc_003,[Effect]\n-Target <sprite name="Leg_Fracture_State_Icon">Damaged Leg for 4 turn(Move Disabled Chance +70%)
 Bow_A_TraceArrow,Trace Arrow
 Bow_A_TraceArrow_Desc,Multiple Shot
 Bow_A_ArrowRain,Bow_A_ArrowRain
