@@ -221,7 +221,7 @@ Mn007_Get_Job_A01_P,I'll go take care of the rats.
 Mn007_Get_Job_A02_Alp,"Great, thank you! Do you have anything to defend yourself with? I am not joking! These rats are dangerous."
 Mn007_Get_Job_A03_P,"No, I don't."
 Mn007_Get_Job_A04_Alp,"Here is some equipment that you can use. They aren't terribly useful to me, but if you need more of them, you may be able to get them from the Camp shop by the Supply Depot."
-Mn007_Get_Job_A05_Nar,(Alp hands over few items.)
+Mn007_Get_Job_A05_Nar,(Alp hands over a few items.)
 Mn007_Get_Job_B01_P,I'll think about it.
 Mn007_Get_Job_06_Alp,"All right, then get rid of the rats in the storage room and bring me their tails as proof."
 Mn008_Slay_Rat_01_P,"I got rid of them all. You weren't kidding, there were a lot of them."
