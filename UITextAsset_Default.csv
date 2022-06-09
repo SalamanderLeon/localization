@@ -460,7 +460,8 @@ CharacterTaskState_GoingToBed,Going to bed
 CharacterTaskState_Sleeping,Sleeping
 CharacterTaskState_GoingToWork,Going to work
 CharacterTaskState_Working,Working
-CharacterTaskState_Wondering,Wandering
+CharacterTaskState_Wondering,Wondering
+CharacterTaskState_Wandering,Wandering
 Day,Day {0}
 TurnDuration,Duration
 TurnActivate,Activate Turn
